@@ -183,8 +183,8 @@ article.post-individualContainer {
 			margin-top: 2rem;
 
 			@include breakpoint("medium") {
-				padding-left: 2rem;
-				margin-top: 0;
+				padding-left: 0;
+				// margin-top: 0;
 			}
 
 			.sectionSubtitle {

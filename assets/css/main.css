@@ -3387,8 +3387,7 @@ article.post-individualContainer .post-footer .post-relatedPosts {
 }
 @media screen and (min-width: 48em) {
   article.post-individualContainer .post-footer .post-relatedPosts {
-    padding-left: 2rem;
-    margin-top: 0;
+    padding-left: 0;
   }
 }
 article.post-individualContainer .post-footer .post-relatedPosts .sectionSubtitle {

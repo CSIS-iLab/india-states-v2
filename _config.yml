@@ -222,7 +222,7 @@ keep_files:
   - assets/img
   - assets/js
   - assets/fonts
-  - assets/css
+  # - assets/css
 
 exclude:
   - frasco.config.js
@@ -249,4 +249,5 @@ exclude:
   - assets/_img
   - assets/_js
   - assets/_sass
+  # - assets/css
   - netlify.toml
