@@ -21,6 +21,7 @@ collections:
       preview: false
     # slug: '{{slug}}'
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    sortable_fields: ['title', 'date', 'author', 'states']
     fields:
       - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'post' }
       - { label: 'Breadcrumbs', name: 'breadcrumbs', widget: 'hidden', default: 'analysis' }
@@ -75,6 +76,7 @@ collections:
     editor:
       preview: false
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    sortable_fields: ['title', 'date', 'author', 'states']
     fields:
       - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'post' }
       - { label: 'Content Type', name: 'content_type', widget: 'hidden', default: 'articles' }
@@ -129,6 +131,7 @@ collections:
       preview: false
     identifier_field: name
     slug: '{{slug}}'
+    sortable_fields: ['name', 'position']
     fields:
       - { label: 'Name', name: 'name', widget: 'string' }
       # - { label: 'Display Name', name: 'display_name', widget: 'string' }
@@ -143,6 +146,7 @@ collections:
     folder: '_national-goals/'
     create: true
     slug: '{{slug}}'
+    sortable_fields: ['title', 'tags', 'last_updated_at']
     editor:
       preview: false
     fields:
@@ -198,6 +202,7 @@ collections:
     create: true
     # slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
     slug: '{{slug}}'
+    sortable_fields: ['title', 'type', 'author', 'posted_on']
     editor:
       preview: false
     fields:
@@ -251,6 +256,7 @@ collections:
     folder: '_sectors/'
     create: true
     slug: '{{slug}}'
+    sortable_fields: ['title']
     editor:
       preview: false
     fields:
@@ -266,6 +272,7 @@ collections:
     folder: '_subsectors'
     create: true
     slug: '{{slug}}'
+    sortable_fields: ['title', 'sectors']
     editor:
       preview: false
     fields:
@@ -280,6 +287,7 @@ collections:
     folder: '_states'
     create: true
     slug: '{{slug}}'
+    sortable_fields: ['title', 'size', 'population']
     editor:
       preview: false
     fields:
