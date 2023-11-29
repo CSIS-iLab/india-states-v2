@@ -6,7 +6,7 @@ date: 2022-01-05 05:00:00 +0000
 states:
 - Delhi
 sectors:
-- Climate Change
+- Climate Change and Energy
 - Energy
 subsectors:
 - Power and Renewable Energy

@@ -8,7 +8,7 @@ states:
 - Telangana
 - Andhra Pradesh
 sectors:
-- Climate Change
+- Climate Change and Energy
 subsectors: []
 sources:
 - name: Times of India

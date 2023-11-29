@@ -7,7 +7,7 @@ date: 2021-12-01 05:00:00 +0000
 states:
 - Union Territory of the Andaman and Nicobar Islands
 sectors:
-- Climate Change
+- Climate Change and Energy
 subsectors: []
 sources:
 - name: Economic Times

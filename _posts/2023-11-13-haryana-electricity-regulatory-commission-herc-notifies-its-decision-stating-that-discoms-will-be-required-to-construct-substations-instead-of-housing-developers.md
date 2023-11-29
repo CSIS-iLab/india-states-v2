@@ -10,10 +10,9 @@ date: 2023-10-25T17:22:18.152Z
 states:
   - Haryana
 sectors:
-  - Climate Change
-  - Energy
+  - Climate Change and Energy
 subsectors:
-  - Energy Efficiency
+  - Climate Change and Energy Efficiency
 sources:
   - name: Times of India
     url: https://timesofindia.indiatimes.com/city/gurgaon/developers-not-to-build-power-infra-as-hry-brings-in-major-policy-change/articleshow/104482216.cms

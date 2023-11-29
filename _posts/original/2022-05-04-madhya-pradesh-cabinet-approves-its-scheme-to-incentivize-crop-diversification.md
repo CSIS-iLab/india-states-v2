@@ -6,7 +6,7 @@ date: 2022-05-04 07:00:00 +0000
 states:
 - Madhya Pradesh
 sectors:
-- Climate Change
+- Climate Change and Energy
 subsectors: []
 sources:
 - name: Daily Pioneer

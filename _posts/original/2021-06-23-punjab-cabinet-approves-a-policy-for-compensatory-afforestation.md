@@ -6,7 +6,7 @@ date: 2021-06-23 04:00:00 +0000
 states:
 - Punjab
 sectors:
-- Climate Change
+- Climate Change and Energy
 subsectors: []
 sources:
 - name: Orissa Diary

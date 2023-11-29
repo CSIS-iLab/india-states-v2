@@ -7,7 +7,7 @@ date: 2021-11-03 04:00:00 +0000
 states:
 - Haryana
 sectors:
-- Climate Change
+- Climate Change and Energy
 subsectors: []
 sources:
 - name: The Statesman

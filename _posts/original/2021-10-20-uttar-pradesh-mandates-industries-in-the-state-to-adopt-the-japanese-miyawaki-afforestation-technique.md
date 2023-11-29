@@ -7,7 +7,7 @@ date: 2021-10-20 04:00:00 +0000
 states:
 - Uttar Pradesh
 sectors:
-- Climate Change
+- Climate Change and Energy
 subsectors: []
 sources:
 - name: Times of India

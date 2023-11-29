@@ -9,8 +9,7 @@ date: 2023-11-08T17:32:34.488Z
 states:
   - Bihar
 sectors:
-  - Climate Change
-  - Energy
+  - Climate Change and Energy
 subsectors:
   - Financing and Payment
   - Energy Efficiency

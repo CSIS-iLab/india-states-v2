@@ -11,7 +11,7 @@ states:
   - Center-State Relations
   - Union Territory of Ladakh
 sectors:
-  - Energy
+  - Climate Change and Energy
 sources: []
 details:
   - name: Press Release

@@ -6,7 +6,7 @@ date: 2022-03-09 08:00:00 +0000
 states:
 - Kerala
 sectors:
-- Climate Change
+- Climate Change and Energy
 - Energy
 subsectors: []
 sources:

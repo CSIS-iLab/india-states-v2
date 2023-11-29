@@ -9,8 +9,7 @@ date: 2023-11-27T16:10:28.108Z
 states:
   - Himachal Pradesh
 sectors:
-  - Climate Change
-  - Energy
+  - Climate Change and Energy
 subsectors: []
 sources:
   - name: Livemint

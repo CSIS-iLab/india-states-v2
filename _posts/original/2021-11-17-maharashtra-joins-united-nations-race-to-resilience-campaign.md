@@ -6,7 +6,7 @@ date: 2021-11-17 05:00:00 +0000
 states:
 - Maharashtra
 sectors:
-- Climate Change
+- Climate Change and Energy
 subsectors: []
 sources:
 - name: Economic Times

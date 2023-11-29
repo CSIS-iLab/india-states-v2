@@ -5,10 +5,9 @@ date: 2023-10-25T14:25:50.897Z
 states:
   - Union Territory of Chandigarh
 sectors:
-  - Climate Change
-  - Energy
+  - Climate Change and Energy
 subsectors:
-  - Energy-related Transportation
+  - Climate Change and Energy-related Transportation
 sources:
   - name: The Tribune
     url: https://www.tribuneindia.com/news/chandigarh/finally-ut-revises-ev-policy-554523

@@ -10,9 +10,9 @@ date: 2023-11-08T17:28:39.677Z
 states:
   - Delhi
 sectors:
-  - Energy
+  - Climate Change and Energy
 subsectors:
-  - Energy-related Transportation
+  - Climate Change and Energy-related Transportation
 sources:
   - url: https://www.moneycontrol.com/news/business/only-electric-cng-bs-vi-diesel-buses-from-haryana-will-be-allowed-to-enter-delhi-from-today-11641571.html
     name: Money Control

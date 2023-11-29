@@ -7,7 +7,7 @@ date: 2021-11-10 05:00:00 +0000
 states:
 - Tamil Nadu
 sectors:
-- Climate Change
+- Climate Change and Energy
 subsectors: []
 sources:
 - name: The Federal

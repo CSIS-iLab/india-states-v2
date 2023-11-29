@@ -6,7 +6,7 @@ date: 2021-12-22 05:00:00 +0000
 states:
 - Bihar
 sectors:
-- Climate Change
+- Climate Change and Energy
 subsectors: []
 sources:
 - name: Hindustan Times

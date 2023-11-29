@@ -7,7 +7,7 @@ date: 2022-05-04 07:00:00 +0000
 states:
 - Maharashtra
 sectors:
-- Climate Change
+- Climate Change and Energy
 subsectors: []
 sources:
 - url: https://www.hindustantimes.com/cities/mumbai-news/cabinet-approves-setting-up-of-maharashtra-gene-bank-project-101651172793902.html

@@ -8,7 +8,7 @@ date: 2023-11-08T22:39:18.214Z
 states:
   - Bihar
 sectors:
-  - Energy
+  - Climate Change and Energy
   - Climate Change
 subsectors:
   - Power

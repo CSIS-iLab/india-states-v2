@@ -10,8 +10,7 @@ date: 2023-10-25T17:20:03.291Z
 states:
   - Arunachal Pradesh
 sectors:
-  - Climate Change
-  - Energy
+  - Climate Change and Energy
 subsectors: []
 sources:
   - name: The Print

@@ -7,7 +7,7 @@ date: 2022-07-21 04:00:00 +0000
 states:
 - Telangana
 sectors:
-- Climate Change
+- Climate Change and Energy
 subsectors: []
 sources:
 - name: Telangana Today

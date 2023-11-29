@@ -8,10 +8,9 @@ date: 2023-10-25T17:16:43.599Z
 states:
   - Delhi
 sectors:
-  - Climate Change
-  - Energy
+  - Climate Change and Energy
 subsectors:
-  - Energy-related Transportation
+  - Climate Change and Energy-related Transportation
 sources:
   - name: Economic Times
     url: https://energy.economictimes.indiatimes.com/news/power/delhi-govt-extends-policy-meant-for-electric-vehicles-till-dec-31/104638216

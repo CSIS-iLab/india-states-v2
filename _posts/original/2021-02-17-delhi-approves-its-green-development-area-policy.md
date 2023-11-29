@@ -6,7 +6,7 @@ date: 2021-02-17 05:00:00 +0000
 states:
 - Delhi
 sectors:
-- Climate Change
+- Climate Change and Energy
 - Land & Labor Laws
 subsectors: []
 sources:

@@ -6,7 +6,7 @@ date: 2022-03-30 07:00:00 +0000
 states:
 - Tamil Nadu
 sectors:
-- Climate Change
+- Climate Change and Energy
 subsectors: []
 sources:
 - name: The Hindu

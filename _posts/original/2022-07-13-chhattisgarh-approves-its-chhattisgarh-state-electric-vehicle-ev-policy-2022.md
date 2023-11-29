@@ -6,7 +6,7 @@ date: 2022-07-13 04:00:00 +0000
 states:
 - Chhattisgarh
 sectors:
-- Climate Change
+- Climate Change and Energy
 - Energy
 subsectors:
 - Energy-related Transportation

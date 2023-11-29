@@ -7,7 +7,7 @@ date: 2022-08-03 04:00:00 +0000
 states:
 - Punjab
 sectors:
-- Climate Change
+- Climate Change and Energy
 subsectors: []
 sources:
 - name: DT Next

@@ -11,8 +11,7 @@ date: 2023-11-15T16:21:06.326Z
 states:
   - Jammu and Kashmir
 sectors:
-  - Climate Change
-  - Energy
+  - Climate Change and Energy
 subsectors:
   - Power
   - Power & Renewable Energy

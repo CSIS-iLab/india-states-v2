@@ -7,7 +7,7 @@ date: 2021-10-27 04:00:00 +0000
 states:
 - Maharashtra
 sectors:
-- Climate Change
+- Climate Change and Energy
 subsectors: []
 sources:
 - name: Hindustan Times

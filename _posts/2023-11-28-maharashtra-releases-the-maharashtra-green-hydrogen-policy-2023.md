@@ -4,8 +4,7 @@ date: 2023-10-25T14:18:28.997Z
 states:
   - Maharashtra
 sectors:
-  - Climate Change
-  - Energy
+  - Climate Change and Energy
 subsectors:
   - Power
   - Financing and Payment

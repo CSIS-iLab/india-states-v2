@@ -1,5 +1,5 @@
 ---
-title: Energy
+title: Climate Change and Energy
 feature_image: /uploads/sectors/energy-suzlon-wind-turbine.jpg
 ---
 

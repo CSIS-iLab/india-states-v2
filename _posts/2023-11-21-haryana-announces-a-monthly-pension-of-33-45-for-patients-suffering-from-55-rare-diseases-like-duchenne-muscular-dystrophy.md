@@ -9,7 +9,7 @@ date: 2023-05-17T14:59:57.143Z
 states:
   - Haryana
 sectors:
-  - Climate Change
+  - Climate Change and Energy
 subsectors:
   - Social Determinants of Health
   - Financing and Payment

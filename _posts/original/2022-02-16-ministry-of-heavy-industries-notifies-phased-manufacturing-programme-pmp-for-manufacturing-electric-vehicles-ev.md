@@ -7,7 +7,7 @@ date: 2022-02-16 05:00:00 +0000
 states:
 - Center-State Relations
 sectors:
-- Climate Change
+- Climate Change and Energy
 - Energy
 subsectors:
 - Energy-related Transportation

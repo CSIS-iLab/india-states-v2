@@ -7,7 +7,7 @@ date: 2022-03-23 07:00:00 +0000
 states:
 - Haryana
 sectors:
-- Climate Change
+- Climate Change and Energy
 subsectors: []
 sources:
 - name: Indian Express

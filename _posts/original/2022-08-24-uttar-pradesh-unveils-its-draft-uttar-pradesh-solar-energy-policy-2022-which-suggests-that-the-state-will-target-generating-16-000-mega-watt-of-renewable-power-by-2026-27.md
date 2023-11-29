@@ -8,7 +8,7 @@ date: 2022-08-24 04:00:00 +0000
 states:
 - Uttar Pradesh
 sectors:
-- Climate Change
+- Climate Change and Energy
 - Energy
 subsectors:
 - Power and Renewable Energy

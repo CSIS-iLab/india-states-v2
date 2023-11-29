@@ -6,7 +6,7 @@ date: 2022-07-21 04:00:00 +0000
 states:
 - Andhra Pradesh
 sectors:
-- Climate Change
+- Climate Change and Energy
 - Industrial Policy and Business Regulations
 subsectors: []
 sources:

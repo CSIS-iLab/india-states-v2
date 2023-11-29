@@ -7,7 +7,7 @@ date: 2023-03-29 04:00:00 +0000
 states:
 - Assam
 sectors:
-- Climate Change
+- Climate Change and Energy
 subsectors:
 - Power and Renewable Energy
 sources:

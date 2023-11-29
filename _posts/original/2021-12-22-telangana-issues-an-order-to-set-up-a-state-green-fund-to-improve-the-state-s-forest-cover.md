@@ -7,7 +7,7 @@ date: 2021-12-22 05:00:00 +0000
 states:
 - Telangana
 sectors:
-- Climate Change
+- Climate Change and Energy
 subsectors: []
 sources:
 - name: New Indian Express

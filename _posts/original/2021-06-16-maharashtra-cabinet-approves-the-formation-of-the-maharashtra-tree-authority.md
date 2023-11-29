@@ -6,7 +6,7 @@ date: 2021-06-16 04:00:00 +0000
 states:
 - Maharashtra
 sectors:
-- Climate Change
+- Climate Change and Energy
 subsectors: []
 sources:
 - name: Indian Express

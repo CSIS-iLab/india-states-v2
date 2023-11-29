@@ -6,7 +6,7 @@ date: 2022-01-19 05:00:00 +0000
 states:
 - Maharashtra
 sectors:
-- Climate Change
+- Climate Change and Energy
 subsectors: []
 sources:
 - name: Free Press Journal

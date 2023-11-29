@@ -7,7 +7,7 @@ date: 2022-02-23 05:00:00 +0000
 states:
 - Himachal Pradesh
 sectors:
-- Climate Change
+- Climate Change and Energy
 subsectors: []
 sources:
 - name: Times of India

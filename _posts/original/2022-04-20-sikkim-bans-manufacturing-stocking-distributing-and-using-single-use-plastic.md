@@ -6,7 +6,7 @@ date: 2022-04-20 07:00:00 +0000
 states:
 - Sikkim
 sectors:
-- Climate Change
+- Climate Change and Energy
 subsectors: []
 sources:
 - name: EastMojo

@@ -10,10 +10,10 @@ date: 2023-11-08T17:30:59.966Z
 states:
   - Andhra Pradesh
 sectors:
-  - Energy
+  - Climate Change and Energy
   - Climate Change
 subsectors:
-  - Energy Efficiency
+  - Climate Change and Energy Efficiency
 sources:
   - url: https://www.thehindu.com/news/national/andhra-pradesh/ap-secm-releases-state-energy-efficiency-action-plan/article67488458.ece
     name: The Hindu

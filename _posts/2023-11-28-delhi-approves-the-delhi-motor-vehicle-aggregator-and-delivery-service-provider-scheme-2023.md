@@ -11,7 +11,7 @@ states:
 sectors:
   - Industrial Policy and Business Regulations
 subsectors:
-  - Energy-related Transportation
+  - Climate Change and Energy-related Transportation
 sources:
   - name: Economic Times
     url: https://energy.economictimes.indiatimes.com/news/power/delhi-clears-motor-vehicle-aggregator-scheme-2023-file-sent-to-lg/104512531

@@ -6,7 +6,7 @@ date: 2021-12-15 05:00:00 +0000
 states:
 - Sikkim
 sectors:
-- Climate Change
+- Climate Change and Energy
 subsectors: []
 sources:
 - name: North East Today

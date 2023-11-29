@@ -7,7 +7,7 @@ date: 2022-06-01 04:00:00 +0000
 states:
 - Tripura
 sectors:
-- Climate Change
+- Climate Change and Energy
 - Energy
 subsectors:
 - Energy-related Transportation
