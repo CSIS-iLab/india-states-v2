@@ -1,4 +1,5 @@
 ---
+content_type: newsletter
 title: 'States Update: February 21, 2018'
 date: 2018-02-21 17:09:00 Z
 tags:

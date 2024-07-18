@@ -1,4 +1,5 @@
 ---
+content_type: newsletter
 title: 'States Update: November 22, 2017'
 date: 2017-11-21 13:58:00 Z
 tags:

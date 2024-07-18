@@ -1,4 +1,5 @@
 ---
+content_type: newsletter
 title: 'States Update: December 27, 2017'
 date: 2017-12-27 16:23:00 Z
 tags:

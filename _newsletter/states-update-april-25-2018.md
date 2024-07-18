@@ -1,4 +1,5 @@
 ---
+content_type: newsletter
 title: "States Update: April 25, 2018"
 date: 2018-04-25 14:54:00 Z
 tags:

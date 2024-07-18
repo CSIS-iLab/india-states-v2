@@ -1,4 +1,5 @@
 ---
+content_type: newsletter
 title: Indian State-Level Business Reforms, Third Quarter 2017
 date: 2017-12-26 16:01:00 Z
 tags:

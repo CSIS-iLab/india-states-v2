@@ -1,4 +1,5 @@
 ---
+content_type: newsletter
 title: 'States Update: January 31, 2018'
 date: 2018-01-30 15:23:00 Z
 tags:

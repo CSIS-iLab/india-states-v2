@@ -1,4 +1,5 @@
 ---
+content_type: newsletter
 title: Squeezing India’s Industry for Power Payments Not the Answer
 date: 2017-04-18 16:04:00 Z
 excerpt: India’s heavily politicized system of power subsidies requires large-scale

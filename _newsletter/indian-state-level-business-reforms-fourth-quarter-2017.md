@@ -1,4 +1,5 @@
 ---
+content_type: newsletter
 title: Indian State-Level Business Reforms, Fourth Quarter 2017
 date: 2018-03-27T20:00:00.000+00:00
 tags:

@@ -3,8 +3,7 @@ layout: post
 breadcrumbs: newsletter
 is_newsletter: true
 content_type: newsletter
-title: "Podcast: A Conversation with Mr. Mohammed Suleman, Additional Chief
-  Secretary for Health and Family Welfare, Madhya Pradesh"
+title: "Podcast: A Conversation with Mr. Mohammed Suleman, Additional Chief Secretary for Health and Family Welfare, Madhya Pradesh"
 date: 2024-01-08T15:58:30.519Z
 tags:
   - Podcast

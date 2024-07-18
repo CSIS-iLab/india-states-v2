@@ -1,4 +1,5 @@
 ---
+content_type: newsletter
 title: 'States Update: September 6, 2018'
 date: 2018-09-06 14:10:00 Z
 excerpt: 'Prime Minister Narendra Modi launched the India Post Payments Bank; President

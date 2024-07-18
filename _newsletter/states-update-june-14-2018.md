@@ -1,4 +1,5 @@
 ---
+content_type: newsletter
 title: States Update:June 14,2018
 date: 2018-06-14 14:43:00 Z
 tags:

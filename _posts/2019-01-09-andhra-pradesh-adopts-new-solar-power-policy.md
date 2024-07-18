@@ -13,9 +13,9 @@ states:
 - Andhra Pradesh
 sectors:
 - Climate Change and Energy
-content_type: ''
+content_type: articles
 is_newsletter: false
-breadcrumbs: ''
+breadcrumbs: articles
 
 ---
 The Andhra Pradesh government released a new circular adopting the Andhra Pradesh Solar Power Policy 2018, which aims to install 18 gigawatts (GW) of renewable energy capacity by 2021-22, develop solar parks comprising of 4 GW of energy with the necessary utility infrastructure facilities, as well as install 50,000 operational solar-powered pump sets.

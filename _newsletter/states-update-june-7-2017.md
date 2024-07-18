@@ -1,4 +1,5 @@
 ---
+content_type: newsletter
 title: 'States Update: June 7, 2017'
 date: 2017-06-07T15:14:00.000+00:00
 tags:

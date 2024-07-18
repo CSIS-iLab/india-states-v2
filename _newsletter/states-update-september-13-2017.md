@@ -1,4 +1,5 @@
 ---
+content_type: newsletter
 title: 'States Update: September 13, 2017'
 date: 2017-09-13 16:53:00 Z
 tags:

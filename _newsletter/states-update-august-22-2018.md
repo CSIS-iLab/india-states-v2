@@ -1,4 +1,5 @@
 ---
+content_type: newsletter
 title: "States Update: August 22, 2018"
 date: 2018-08-22 13:20:00 Z
 tags:
