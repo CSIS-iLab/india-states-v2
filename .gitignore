@@ -15,6 +15,7 @@ _site
 
 # Compiled Files
 /assets/css/**/*.css
+assets/css/
 # /assets/js/*.js
 
 # Node.js
