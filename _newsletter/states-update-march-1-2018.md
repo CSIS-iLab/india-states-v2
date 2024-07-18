@@ -1,4 +1,5 @@
 ---
+content_type: newsletter
 title: 'States Update: March 1, 2018'
 date: 2018-03-01 16:47:00 Z
 tags:

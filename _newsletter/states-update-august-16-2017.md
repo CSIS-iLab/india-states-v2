@@ -1,4 +1,5 @@
 ---
+content_type: newsletter
 title: "States Update: August 16, 2017"
 date: 2017-08-16 14:45:00 Z
 tags:

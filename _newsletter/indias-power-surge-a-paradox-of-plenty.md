@@ -1,4 +1,5 @@
 ---
+content_type: newsletter
 title: 'India’s Power Surge: A Paradox of Plenty?'
 date: 2017-05-16 18:31:00 Z
 excerpt: 'India’s state power ministers [convened in Delhi ](http://pib.nic.in/newsite/PrintRelease.aspx?relid=161406)recently

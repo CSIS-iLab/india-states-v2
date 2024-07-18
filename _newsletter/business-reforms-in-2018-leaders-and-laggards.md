@@ -1,4 +1,5 @@
 ---
+content_type: newsletter
 title: Indian State-Level Business Reforms, First Quarter 2018
 date: 2018-05-29T14:29:00.000+00:00
 tags:

@@ -1,4 +1,5 @@
 ---
+content_type: newsletter
 title: 'States Update: October 12, 2017'
 date: 2017-10-12 14:20:00 Z
 tags:

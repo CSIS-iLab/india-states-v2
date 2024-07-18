@@ -1,4 +1,5 @@
 ---
+content_type: newsletter
 title: 'Indian States Breakthrough Index: Solar Policy'
 date: 2017-02-15 00:00:00 Z
 tags:

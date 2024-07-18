@@ -1,4 +1,5 @@
 ---
+content_type: newsletter
 title: Indian State-Level Business Reforms, Second Quarter 2017
 date: 2017-11-02 14:48:00 Z
 tags:

@@ -1,4 +1,5 @@
 ---
+content_type: newsletter
 title: 'States Update: May 16, 2018'
 date: 2018-05-16 18:05:00 Z
 tags:

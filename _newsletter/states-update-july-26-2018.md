@@ -1,4 +1,5 @@
 ---
+content_type: newsletter
 title: 'States Update: July 26, 2018'
 date: 2018-07-26 15:12:00 Z
 tags:

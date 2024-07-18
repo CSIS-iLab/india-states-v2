@@ -1,4 +1,5 @@
 ---
+content_type: newsletter
 title: Of Sun Gods and Solar Energy
 date: 2017-01-26 00:00:00 Z
 tags:

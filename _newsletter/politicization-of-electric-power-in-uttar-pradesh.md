@@ -1,4 +1,5 @@
 ---
+content_type: newsletter
 title: Politicization of (Electric) Power in Uttar Pradesh
 date: 2017-02-23 00:00:00 Z
 tags:

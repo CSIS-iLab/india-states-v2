@@ -1,4 +1,5 @@
 ---
+content_type: newsletter
 title: Government Capture of (Electric) Power in Punjab
 date: 2017-03-07 00:00:00 Z
 tags:

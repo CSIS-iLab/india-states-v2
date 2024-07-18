@@ -1,4 +1,5 @@
 ---
+content_type: newsletter
 title: 'States Update: July 12, 2017'
 date: 2017-07-11 18:37:00 Z
 tags:

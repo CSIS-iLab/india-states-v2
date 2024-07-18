@@ -1,4 +1,5 @@
 ---
+content_type: newsletter
 title: 'States Update: February 14, 2018'
 date: 2018-02-14 15:49:00 Z
 tags:

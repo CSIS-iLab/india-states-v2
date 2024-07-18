@@ -1,6 +1,6 @@
 ---
-title: 'India’s Hydrocarbon Exploration and Licensing Policy (HELP): Will it Help
-  India’s Upstream Oil and Gas?'
+content_type: newsletter
+title: 'India’s Hydrocarbon Exploration and Licensing Policy (HELP): Will it Help India’s Upstream Oil and Gas?'
 date: 2017-03-21 00:00:00 Z
 tags:
 - Dharmendra Pradhan

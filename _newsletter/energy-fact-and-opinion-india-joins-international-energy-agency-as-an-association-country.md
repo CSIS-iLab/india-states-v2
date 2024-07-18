@@ -1,6 +1,6 @@
 ---
-title: 'Energy Fact & Opinion: India Joins International Energy Agency as an Association
-  Country'
+content_type: newsletter
+title: 'Energy Fact & Opinion: India Joins International Energy Agency as an Association Country'
 date: 2017-04-14 15:06:00 Z
 excerpt: India’s membership in the IEA is a major milestone for India, the IEA, and
   global energy governance. India has had dialogues with the IEA on emergency preparedness

@@ -1,6 +1,6 @@
 ---
-title: 'Payment Security Mechanism for Solar Power in India: Can India Secure its
-  Future and the Future of Solar Developers as well?'
+content_type: newsletter
+title: 'Payment Security Mechanism for Solar Power in India: Can India Secure its Future and the Future of Solar Developers as well?'
 date: 2017-02-10 00:00:00 Z
 tags:
 - Solar
