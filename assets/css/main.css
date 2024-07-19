@@ -2985,6 +2985,7 @@ footer.site-footer.home-footer .footer-mainContainer .content-wrapper-homepage {
   }
 }
 .stateInfoContainer .stateInfoContainer-stateSummaryContainer {
+  display: none;
   margin-top: 3rem;
 }
 .stateInfoContainer .stateInfoContainer-stateSummaryContainer .sectionSubtitle {
