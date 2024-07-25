@@ -240,6 +240,11 @@ where cp is copy
 2023*.md is selecting all the files that start with 2023 and ends with .md
 2023/ is the destination folder
 
+to debug in jekyll add the next line in the package.json:
+```json
+"serve:jekyll": "JEKYLL_LOG_LEVEL=debug bundle exec jekyll serve --profil --limit_posts 100 --port 3000",
+```
+
 ### Copyright / License
 
 Copyright © 2022 CSIS iDeas Lab under the [License](LICENSE).

@@ -1,0 +1,20 @@
+---
+layout: default
+---
+  <h1>External Posts</h1>
+  {% assign postsnew = site.data.external_posts %}
+  
+  <ul>
+    {% if postsnew %}
+    {% for post in postsnew %}
+    <li>
+      <h2>{{ post.title.rendered }}</h2>
+      <div>{{ post.content.rendered | markdownify }}</div>
+    </li>
+    {% endfor %}
+    {% else %}
+    <p>No posts found. Debug Information:</p>
+    <p>site.data.external_posts is empty or not defined.</p>
+    <p>FML</p>
+    {% endif %}
+  </ul>

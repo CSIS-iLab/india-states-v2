@@ -255,3 +255,9 @@ exclude:
   - netlify.toml
   - _posts/original
   
+plugins:
+  - jekyll-get-json
+
+jekyll_get_json:
+  - data: 'external_posts'
+    json: 'https://indiastatesbac.wpenginepowered.com/wp-json/wp/v2/posts/'
