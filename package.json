@@ -14,10 +14,10 @@
     "watch:sass": "sass --no-source-map --watch assets/_sass:assets/css",
     "watch": "npm-run-all --parallel watch:*",
     "serve:cms": "npx npx decap-server",
-    "serve:jekyll": "bundle exec jekyll serve --profile --limit_posts 50",
+    "serve:jekyll": "bundle exec jekyll serve --profile --limit_posts 500",
     "serve": "npm-run-all --parallel serve:*",
     "start": "npm-run-all --parallel watch serve",
-    "test-xml": "bundle exec jekyll serve --limit_posts 50"
+    "xml": "bundle exec jekyll serve --limit_posts 50"
   },
   "repository": {
     "type": "git",
