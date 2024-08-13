@@ -13,18 +13,18 @@ layout: null
     <generator>Jekyll v{{ jekyll.version }}</generator>
     {% for post in site.newsletter limit:500 %}
       <item>
-        <resource_type>"Newsletter"</resource_type>
-        <title>{{ post.title | jsonify }}</title>
-        <excerpt>{{ post.excerpt | strip_html | strip_newlines | jsonify }}</excerpt>
-        <description>{{ post.content | xml_escape | strip_html | strip_newlines }}</description>
-        <date>{{ post.date | date: '%m/%d/%Y' }}</pubDate>
+        <resource_type>Newsletter</resource_type>
+        <title>{{ post.title }}</title>
+        <excerpt>{{ post.excerpt | strip_html | strip_newlines }}</excerpt>
+        <description>{{ post.content | strip_html | strip_newlines }}</description>
+        <pubDate>{{ post.date | date: '%m/%d/%Y' }}</pubDate>
         <states>{% if post.states %}{% assign state_list = post.states | split: ", " %}{% for state in state_list %}{% if state and state != blank %}{{ state | strip_newlines | strip }}{% unless forloop.last %},{% endunless %}{% endif %}{% endfor %}{% else %}[]{% endif %}</states>
         <sectors>{% assign sector_list = post.sectors | split: ", " %}{% for sector in sector_list %}{{ sector }}{% unless forloop.last %}, {% endunless %}{% endfor %}</sectors>
         <url>{{ post.url | absolute_url }}</url>
         <primary_sources>{{ post.sources | jsonify }}</primary_sources>
-        <tags>{% assign tags_list = post.tags | split: ", " %}{% for tag in tags_list %}{{ tag }}{% unless forloop.last %}, {% endunless %}{% endfor %}</tags>
+        <tags>{% assign tags_list = post.tags | split: ", " %}{% for tag in tags_list %}<tag>{{ tag | replace: "&apos;", "'" | remove: "[" | remove: "]" | remove: '"' }}</tag>{% unless forloop.last %}, {% endunless %}{% endfor %}</tags>
         <is_featured>{{ post.is_featured }}</is_featured>
-        <author>{% assign author_list = post.author | split: ", " %}{% for author in author_list %}{{ author }}{% unless forloop.last %}, {% endunless %}{% endfor %}</author>
+        <authors>{% assign author_list = post.author | split: ", " %}{% for author in author_list %}<author>{{ author | remove: "[" | remove: "]" | remove: '"' | remove: "&quot;" | xml_escape }}</author>{% unless forloop.last %},{% endunless %}{% endfor %}</authors>
       </item>
     {% endfor %}
   </channel>
