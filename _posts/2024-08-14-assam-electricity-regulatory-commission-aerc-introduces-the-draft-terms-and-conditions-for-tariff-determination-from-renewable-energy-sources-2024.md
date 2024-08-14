@@ -12,6 +12,8 @@ date: 2024-07-17T00:00:00.000Z
 tags: []
 states:
   - Assam
+sectors:
+  - Climate Change and Energy
 sources:
   - name: Solar Quarter
     url: https://solarquarter.com/2024/07/09/assam-electricity-regulatory-commission-introduces-draft-tariff-regulations-2024-for-renewable-energy/
