@@ -36,7 +36,7 @@ sectors:
   - Infrastructure and Governance
   - Center-State Relations
   - Water & Sanitation
-is_featured: true
+is_featured: false
 author:
   - Akshat Singh
 ---
