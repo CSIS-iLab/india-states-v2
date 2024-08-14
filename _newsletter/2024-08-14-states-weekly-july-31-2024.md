@@ -6,6 +6,8 @@ content_type: newsletter
 title: "States Weekly: July 31, 2024"
 short_title: "States Weekly: July 31, 2024"
 date: 2024-07-31T00:00:00.000Z
+tags:
+  - States Weekly
 excerpt: "Big News: Bihar and Andhra Pradesh get special financial assistance
   under the Union Budget 2024-25; Telangana, Arunachal Pradesh, and Odisha,
   release State Budgets 2024-25; Andhra Pradesh releases the Land Titling Repeal
