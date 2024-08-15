@@ -35,6 +35,9 @@ is_featured: false
 author:
   - Akshat Singh
 ---
+**Big News**: **Gujarat** releases the **“Gujarat@2047 Dynamic Document-Roadmap”** and establishes a state-level think tank modelled after the **NITI Aayog**; **Karnataka** launches the **Karnataka Cyber Security Policy 2024**; **Meghalaya** amends the **Meghalaya Identification, Registration (Safety & Security) of Migrant Workers Act, 2020 (MIRSSMWA)**; **Goa** passes the **Goa Ground Water Regulation (Amendment) Bill, 2024**; and more.
+
+
 **Health**
 
 Nothing critical to report this week.
