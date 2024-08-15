@@ -6,6 +6,8 @@ is_newsletter: false
 title: Rajasthan releases the draft Rajasthan Model Building Regulations, 2024
 short_title: Rajasthan releases the draft Rajasthan Model Building Regulations, 2024
 date: 2024-07-10T18:21:00.000Z
+states:
+  - Rajasthan
 sectors:
   - Land & Labor Laws
 sources:

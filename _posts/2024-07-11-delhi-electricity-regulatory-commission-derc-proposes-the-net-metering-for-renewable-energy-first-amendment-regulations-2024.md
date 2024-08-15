@@ -7,6 +7,8 @@ title: Delhi Electricity Regulatory Commission (DERC) proposes the Net Metering
   for Renewable Energy (First Amendment) Regulations, 2024
 short_title: "Delhi Electricity Regulatory Commission (DERC) proposes "
 date: 2024-07-10T17:16:00.000Z
+states:
+  - Delhi
 sectors:
   - Climate Change and Energy
 sources:

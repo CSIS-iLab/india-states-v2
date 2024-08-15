@@ -7,6 +7,8 @@ title: Assam exempts the examination fees for candidates from the scheduled
   cast/scheduled tribe (SC/ST) communities appearing for state government jobs
 short_title: Assam exempts the examination fees for candidates from the scheduled
 date: 2024-07-10T18:33:00.000Z
+states:
+  - Assam
 sectors:
   - Infrastructure and Governance
 sources:

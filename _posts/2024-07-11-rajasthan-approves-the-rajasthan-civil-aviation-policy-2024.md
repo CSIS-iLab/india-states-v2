@@ -6,6 +6,8 @@ is_newsletter: false
 title: Rajasthan approves the Rajasthan Civil Aviation Policy, 2024
 short_title: Rajasthan approves the Rajasthan Civil Aviation Policy, 2024
 date: 2024-07-10T18:17:00.000Z
+states:
+  - Rajasthan
 sectors:
   - Industrial Policy and Business Regulations
 sources:

@@ -8,6 +8,8 @@ title: Jharkhand re-appoints Jharkhand Mukti Morcha chief Hemant Soren as the
 short_title: Jharkhand re-appoints Jharkhand Mukti Morcha chief Hemant Soren as
   the chief minister
 date: 2024-07-10T18:28:00.000Z
+states:
+  - Jharkhand
 sectors:
   - Infrastructure and Governance
 sources:

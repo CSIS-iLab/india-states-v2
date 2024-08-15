@@ -8,6 +8,8 @@ title: Assam signs a memorandum of understanding (MoU) with the Tata Education
   provide high quality and affordable cancer care
 short_title: Assam signs a memorandum of understanding (MoU) with the
 date: 2024-07-10T16:34:00.000Z
+states:
+  - Assam
 sectors:
   - Health
 sources:

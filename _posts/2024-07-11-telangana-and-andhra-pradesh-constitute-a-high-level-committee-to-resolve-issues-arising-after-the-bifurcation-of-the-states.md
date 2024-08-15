@@ -7,6 +7,8 @@ title: Telangana and Andhra Pradesh constitute a high-level committee to resolve
   issues arising after the bifurcation of the states
 short_title: Telangana and Andhra Pradesh constitute a high-level committee to resolve
 date: 2024-07-10T18:30:00.000Z
+states:
+  - Telangana
 sectors:
   - Infrastructure and Governance
 sources:

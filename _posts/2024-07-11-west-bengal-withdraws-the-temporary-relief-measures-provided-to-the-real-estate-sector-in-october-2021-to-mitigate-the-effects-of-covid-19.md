@@ -8,6 +8,8 @@ title: West Bengal withdraws the temporary relief measures provided to the real
 short_title: West Bengal withdraws the temporary relief measures provided to the
   real estate sector in October, 2021
 date: 2024-07-10T18:31:00.000Z
+states:
+  - West Bengal
 sectors:
   - Infrastructure and Governance
 sources:

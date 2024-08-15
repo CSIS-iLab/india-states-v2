@@ -8,6 +8,8 @@ title: Kerala State Electricity Regulatory Commission (KSERC) introduces the
 short_title: Kerala State Electricity Regulatory Commission (KSERC) introduces
   the draft Renewable Energy
 date: 2024-07-10T17:22:00.000Z
+states:
+  - Kerala
 sectors:
   - Climate Change and Energy
 sources:

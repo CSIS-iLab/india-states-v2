@@ -6,6 +6,8 @@ is_newsletter: false
 title: Madhya Pradesh presents the State Budget 2024 with an outlay of $43.73 billion
 short_title: Madhya Pradesh presents the State Budget 2024 with an outlay of $43.73 billion
 date: 2024-07-10T18:24:00.000Z
+states:
+  - Madhya Pradesh
 sectors:
   - Infrastructure and Governance
 sources:

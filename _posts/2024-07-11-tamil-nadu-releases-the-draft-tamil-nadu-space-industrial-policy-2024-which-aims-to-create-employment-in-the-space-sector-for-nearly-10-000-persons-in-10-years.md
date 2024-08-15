@@ -9,6 +9,8 @@ title: Tamil Nadu releases the draft Tamil Nadu Space Industrial Policy 2024,
 short_title: Tamil Nadu releases the draft Tamil Nadu Space Industrial Policy
   2024, which aims to create employment
 date: 2024-07-10T18:14:00.000Z
+states:
+  - Tamil Nadu
 sectors:
   - Industrial Policy and Business Regulations
 sources:

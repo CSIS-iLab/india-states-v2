@@ -9,6 +9,8 @@ title: Rajasthan Electricity Regulatory Commission (RERC) introduces the Grid
 short_title: Rajasthan Electricity Regulatory Commission (RERC) introduces the
   Grid Interactive
 date: 2024-07-10T17:04:00.000Z
+states:
+  - Rajasthan
 sectors:
   - Climate Change and Energy
 sources:

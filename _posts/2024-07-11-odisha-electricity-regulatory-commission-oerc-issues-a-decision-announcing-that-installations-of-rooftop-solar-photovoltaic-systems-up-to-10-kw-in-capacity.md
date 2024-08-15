@@ -11,6 +11,8 @@ short_title: Odisha Electricity Regulatory Commission (OERC) issues a decision
   announcing that installations of rooftop solar photovoltaic systems up to 10
   kW in capacity will no longer
 date: 2024-07-10T17:27:00.000Z
+states:
+  - Odisha
 sectors:
   - Climate Change and Energy
 sources:
