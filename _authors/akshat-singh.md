@@ -1,7 +1,7 @@
 ---
 name: Akshat Singh
 job_title: Research Associate, Chair in U.S.-India Policy Studies
-image: '/uploads/headshots/akshat-singh.jpg'
+image: '/uploads/headshots/5Singh_0.jpg'
 current_staff: true
 
 ---
