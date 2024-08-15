@@ -32,6 +32,9 @@ is_featured: false
 author:
   - Akshat Singh
 ---
+**Big News**: **Bihar** and **Andhra Pradesh** get special financial assistance under the **Union Budget 2024-25**; **Telangana**, **Arunachal Pradesh**, and **Odisha**, release **State Budgets 2024-25**; **Andhra Pradesh** releases the **Land Titling Repeal Bill 2024**; **Maharashtra** issues an order for the implementation of the **Chief Minister Baliraja Free Electricity Scheme 2024** providing free electricity to agricultural pump consumers; and more.
+
+
 **Health**
 
 **Jharkhand** launches a comprehensive health insurance scheme for state government employees. This initiative aims to provide health coverage of up to $5,971 for state government employees. **Source**: [Town Post](https://townpost.in/2024/07/23/jharkhand-launches-employee-health-coverage-plan/)
