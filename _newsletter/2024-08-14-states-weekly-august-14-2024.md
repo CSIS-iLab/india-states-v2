@@ -33,6 +33,8 @@ is_featured: true
 author:
   - Akshat Singh
 ---
+**Big News**: **Karnataka Electricity Regulatory Commission (KERC)** introduces the **KERC (Implementation of peer-to-peer Solar Energy Transaction) Regulations, 2024**; **Maharashtra** approves the **Maharashtra Logistics Policy 2024**; **Bihar** approves the **Bihar Purchase Preference Policy 2024** to boost local industrial units; **Jharkhand** announces the **Jharkhand Agricultural Loan Waiver Scheme**; and more.
+
 **Health**
 
 **Himachal Pradesh** announces free treatment and provision of 42 medicines for cancer patients in the state. The state government has included the medicines in the state’s essential medicines list and will be providing them in government hospitals throughout the state. **Source**: [Indian Express](https://indianexpress.com/article/cities/chandigarh/himachal-pradesh-government-free-treatment-cancer-patients-9497442/); **In detail**: [Press release](http://himachalpr.gov.in/OnePressRelease.aspx?Language=1&ID=35400)
