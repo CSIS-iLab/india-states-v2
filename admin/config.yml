@@ -22,7 +22,7 @@ collections:
     editor:
       preview: false
     indentifier_field: short_title
-    slug: '{{year}}-{{month}}-{{day}}-{{slug}}' # Exmple of simple slug: '{{slug}}'
+    slug: '{{year}}-{{month}}-{{day}}-{{short_title}}' # Exmple of simple slug: '{{slug}}'
     # sortable_fields: ['title', 'date', 'author', 'states']
     sortable_fields: []
     fields:
@@ -75,7 +75,7 @@ collections:
     editor:
       preview: false
     indentifier_field: short_title
-    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    slug: '{{year}}-{{month}}-{{day}}-{{short_title}}'
     # sortable_fields: ['title', 'date', 'author', 'states']
     sortable_fields: []
     fields:
