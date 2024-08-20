@@ -254,4 +254,5 @@ exclude:
   - assets/_sass
   - netlify.toml
   - _posts/original
+  - .github
   

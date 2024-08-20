@@ -5,7 +5,6 @@ local_backend: true
 backend:
   name: git-gateway
   branch: main # Branch to update (optional; defaults to master)
-  # branch: dev # Branch to update. Dev is now selected so we dont override any content that the program is adding.
 
 media_folder: '_uploads'
 public_folder: '/uploads' # The src attribute for uploaded media will begin with /images/uploads
@@ -43,7 +42,7 @@ collections:
           required: false
         }
       - { label: 'Sectors', name: 'sectors', widget: 'relation', collection: 'sectors', multiple: true, display_fields: [title], search_fields: [title], value_field: 'title', required: false  }
-      - { label: 'Sub Sectors', name: 'subsectors', widget: 'relation', collection: 'subsectors', multiple: true, display_fields: [title], search_fields: [title], value_field: 'title', required: false }
+      # - { label: 'Sub Sectors', name: 'subsectors', widget: 'relation', collection: 'subsectors', multiple: true, display_fields: [title], search_fields: [title], value_field: 'title', required: false }
       - { label: 'Is Featured?', name: 'is_featured', widget: 'boolean', default: false, required: false }
       - { label: 'Featured Image', name: 'feature_image', widget: 'image', choose_url: false, required: false }
       - { label: 'Featured image credit', name: 'feature_image_credit', widget: 'text', required: false }
@@ -100,12 +99,12 @@ collections:
           value_field: 'title',
           required: false
         }
-      - { label: 'Subsectors', name: 'subsectors', widget: 'relation', collection: 'subsectors', multiple: true,
-          display_fields: [title],
-          search_fields: [title],
-          value_field: 'title',
-          required: false
-        }
+      # - { label: 'Subsectors', name: 'subsectors', widget: 'relation', collection: 'subsectors', multiple: true,
+      #     display_fields: [title],
+      #     search_fields: [title],
+      #     value_field: 'title',
+      #     required: false
+      #   }
       - label: 'Sources'
         label_singular: 'Source'
         name: 'sources'
@@ -133,7 +132,8 @@ collections:
       preview: false
     identifier_field: name
     slug: '{{slug}}'
-    sortable_fields: ['name', 'position']
+    # sortable_fields: ['name', 'position']
+    sortable_fields: []
     fields:
       - { label: 'Name', name: 'name', widget: 'string' }
       # - { label: 'Display Name', name: 'display_name', widget: 'string' }
@@ -148,7 +148,8 @@ collections:
     folder: '_national-goals/'
     create: true
     slug: '{{slug}}'
-    sortable_fields: ['title', 'tags', 'last_updated_at']
+    # sortable_fields: ['title', 'tags', 'last_updated_at']
+    sortable_fields: []
     editor:
       preview: false
     fields:
@@ -210,7 +211,8 @@ collections:
     create: true
     # slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
     slug: '{{slug}}'
-    sortable_fields: ['title', 'type', 'author', 'posted_on']
+    # sortable_fields: ['title', 'type', 'author', 'posted_on']
+    sortable_fields: []
     editor:
       preview: false
     fields:
@@ -249,28 +251,14 @@ collections:
           value_field: 'title',
         }
 
-  # - name: 'post_types'
-  #   label: 'Post types'
-  #   label_singular: 'Post type'
-  #   folder: '_post-types/'
-  #   create: true
-  #   # slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
-  #   slug: '{{slug}}'
-  #   editor:
-  #     preview: false
-  #   fields:
-  #     - { label: 'Title', name: 'title', widget: 'string' }
-  #     - { label: 'Description', name: 'description', widget: 'text' }
-  #     - { label: 'Featured Image', name: 'feature_image', widget: 'image', choose_url: false, required: false }
-  #     - { label: 'Featured image credit', name: 'feature_image_credit', widget: 'text' }
-
   - name: 'sectors'
     label: 'Sectors'
     label_singular: 'Sector'
     folder: '_sectors/'
     create: true
     slug: '{{slug}}'
-    sortable_fields: ['title']
+    # sortable_fields: ['title']
+    sortable_fields: []
     editor:
       preview: false
     fields:
@@ -280,20 +268,20 @@ collections:
       - { label: 'Featured Image', name: 'feature_image', widget: 'image', choose_url: false, required: false }
       - { label: 'Body', name: 'body', widget: 'markdown' }
 
-  - name: 'subsectors'
-    label: 'Sub Sectors'
-    label_singular: 'Sub Sector'
-    folder: '_subsectors'
-    create: true
-    slug: '{{slug}}'
-    sortable_fields: ['title', 'sectors']
-    editor:
-      preview: false
-    fields:
-      - { label: 'Content Type', name: 'content_type', widget: 'hidden', default: 'subsector' }
-      - { label: 'Title', name: 'title', widget: 'string' }
-      - { label: 'Sectors', name: 'sector', widget: 'relation', collection: 'sectors', display_fields: ['title'], search_fields: ['title'], value_field: 'title' }
-      - { label: 'Body', name: 'body', widget: 'markdown' }
+  # - name: 'subsectors'
+  #   label: 'Sub Sectors'
+  #   label_singular: 'Sub Sector'
+  #   folder: '_subsectors'
+  #   create: true
+  #   slug: '{{slug}}'
+  #   sortable_fields: ['title', 'sectors']
+  #   editor:
+  #     preview: false
+  #   fields:
+  #     - { label: 'Content Type', name: 'content_type', widget: 'hidden', default: 'subsector' }
+  #     - { label: 'Title', name: 'title', widget: 'string' }
+  #     - { label: 'Sectors', name: 'sector', widget: 'relation', collection: 'sectors', display_fields: ['title'], search_fields: ['title'], value_field: 'title' }
+  #     - { label: 'Body', name: 'body', widget: 'markdown' }
 
   - name: 'states'
     label: 'States'
@@ -301,7 +289,8 @@ collections:
     folder: '_states'
     create: true
     slug: '{{slug}}'
-    sortable_fields: ['title', 'size', 'population']
+    # sortable_fields: ['title', 'size', 'population']
+    sortable_fields: []
     editor:
       preview: false
     fields:
