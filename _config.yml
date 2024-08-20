@@ -207,7 +207,7 @@ algolia:
   application_id: 7UNKAH6RMH
   index_name: india_states
 algolia_search_api: b9011cf7f49e60630161fcacf0e37d02
-cloudinary_url: https://res.cloudinary.com/csisilab/image/fetch/
+cloudinary_url: https://res.cloudinary.com/csisideaslab/image/upload/v1724185738/indian-states/
 markdown: kramdown
 sector_overview_post_limit: 4
 post_archive_posts_per_page: 10
