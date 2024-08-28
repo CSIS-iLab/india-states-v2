@@ -330,6 +330,7 @@ collections:
     create: false
     editor:
       preview: false
+    sortable_fields: []
     files:      
       - label: "Solar Tracker"
         name: "solar-tracker"
