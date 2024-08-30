@@ -1,0 +1,15 @@
+name: Update Algolia
+on: [push]
+
+env:
+  api_key: ${{ secrets.ALGOLIA_ADMIN_API_KEY }}
+  app_key: ${{ secrets.ALGOLIA_APPLICATION_ID }}
+
+jobs:
+  Update-Algolia:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "🎉 We are trying to update the algolia content ${{ github.event_name }}."
+      - run: wget https://raw.githubusercontent.com/CSIS-iLab/india-states-v2/main/update-algolia.js
+      - run: node update-algolia.js
+      - run: echo "We reach the end of the workflow."
