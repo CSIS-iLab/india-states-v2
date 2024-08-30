@@ -7,7 +7,7 @@ const index = client.initIndex('india_states')
 let response = await fetch('https://indian-states-v2.netlify.app/algolia.json')
 
 if ( response?.ok ) {
-  data = response.json()
+  let data = response.json()
   // .then( data => console.log(data))
   index.saveObjects(data, { autoGenerateObjectIDIfNotExist: true })
 } else {
