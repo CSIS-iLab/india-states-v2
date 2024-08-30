@@ -13,8 +13,8 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: "21"    
-      - run: echo "🎉 We are trying to update the algolia content ${{ github.event_name }}."
+      - run: echo "Updating the algolia content..."
       - run: npm install -D algoliasearch
       - run: wget https://raw.githubusercontent.com/CSIS-iLab/india-states-v2/main/update-algolia.js
       - run: node update-algolia.js
-      - run: echo "We reach the end of the workflow."
+      - run: echo "🎉 We reach the end of the workflow.🎉 "
