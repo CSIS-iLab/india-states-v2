@@ -10,8 +10,6 @@ if ( response?.ok ) {
   let data = response.json()
   console.log('Response was okay, so we proceed to update algolia')
   index.saveObjects(data, { autoGenerateObjectIDIfNotExist: true })
-  return true
 } else {
   console.log('some error ocurred', response.json())
-  return false
 }
