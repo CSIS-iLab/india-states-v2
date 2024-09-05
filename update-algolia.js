@@ -4,12 +4,12 @@ const client = algoliasearch('$app_key', '$api_key')
 
 const index = client.initIndex('india_states')
 
-let response = await fetch('https://indianstates.csis.org/algolia.json')
-
-if ( response?.ok ) {
-  let data = response.json()
-  console.log('Response was okay, so we proceed to update algolia')
-  index.saveObjects(data, { autoGenerateObjectIDIfNotExist: true })
-} else {
-  console.log('some error ocurred', response.json())
-}
+fetch('https://indianstates.csis.org/algolia.json')
+  .then((response) => response.json())
+  .then((data) =>
+    index.saveObjects(data, { autoGenerateObjectIDIfNotExist: true })
+  )
+  .catch ( e => {
+    console.error(e)
+    console.error(e.message)
+  })
