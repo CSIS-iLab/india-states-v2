@@ -10,6 +10,7 @@ title: "Kerala announces its decision to sell 247 cancer drugs through select
 short_title: Kerala announces its decision to sell 247 cancer drugs through
   select government pharmacies at zero profit prices
 date: 2024-09-04T00:00:00.000Z
+tags: []
 states:
   - Kerala
 sectors:
