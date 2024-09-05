@@ -1,6 +1,6 @@
 import algoliasearch from 'algoliasearch'
 
-const client = algoliasearch($app_key, $api_key)
+const client = algoliasearch(`$app_key`, `$api_key`)
 
 const index = client.initIndex('india_states')
 
