@@ -12,7 +12,14 @@ jobs:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
         with:
-          node-version: "21"    
+          node-version: "21"
+      - uses: actions/cache@v4
+        with:
+          path: ~/.npm
+          key: ${{ runner.os }}-node-${{ hashFiles('**/package-lock.json') }}
+          restore-keys: |
+            ${{ runner.os }}-node-
+            
       - run: echo "Updating the algolia content..."
       - run: npm install -D algoliasearch
       - run: wget https://raw.githubusercontent.com/CSIS-iLab/india-states-v2/main/update-algolia.js
