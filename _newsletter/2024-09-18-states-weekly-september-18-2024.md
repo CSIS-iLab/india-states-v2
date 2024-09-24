@@ -6,6 +6,9 @@ content_type: newsletter
 title: "States Weekly: September 18, 2024"
 short_title: "States Weekly: September 18, 2024"
 date: 2024-09-17T00:00:00.000Z
+tags:
+  - States Weekly
+  - India
 excerpt: "Big News: Haryana dissolves the legislative assembly ahead of state
   elections on October 2; Maharashtra State Electricity Distribution (MSEDCL)
   introduces guidelines for the implementation of the Green Open Access Rules,
