@@ -3,7 +3,7 @@ name: Update Algolia
 on:
   # workflow_dispatch:
   schedule:
-    - cron: "20 14 */1 * *"
+    - cron: "35 18 */1 * *"
 
 jobs:
   Update-Algolia:
