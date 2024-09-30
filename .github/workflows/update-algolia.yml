@@ -1,5 +1,10 @@
 name: Update Algolia
-on: [push]
+
+on:
+  workflow_dispatch:
+  schedule:
+    # - cron: "00 17 * * *"
+    - cron: "09 13 * * *"
 
 jobs:
   Update-Algolia:
