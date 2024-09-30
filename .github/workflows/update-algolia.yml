@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
   schedule:
     # - cron: "00 17 * * *"
-    - cron: "09 13 * * *"
+    - cron: "14 13 */1 * *"
 
 jobs:
   Update-Algolia:
