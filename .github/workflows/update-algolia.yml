@@ -1,9 +1,9 @@
 name: Update Algolia
 
 on:
-  # workflow_dispatch:
+  workflow_dispatch:
   schedule:
-    - cron: "35 18 */1 * *"
+    - cron: "30 12 */1 * *"
 
 jobs:
   Update-Algolia:
