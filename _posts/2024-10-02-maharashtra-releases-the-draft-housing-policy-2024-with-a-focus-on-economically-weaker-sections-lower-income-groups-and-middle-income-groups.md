@@ -21,4 +21,4 @@ details:
   - url: https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:2ecb7923-7fb0-4e42-9c5a-aa9634357825
     name: Maharashtra draft Housing Policy 2024
 ---
-**Maharashtra** announces a complete stamp duty waiver on land leases and subsequent sub-leases within the India Jewellery Park in the state. The decision aims to encourage investment in the jewellery sector and promote the development of the India Jewellery Park.
+**Maharashtra** releases the **draft Housing Policy 2024** with a focus on economically weaker sections, lower income groups and middle-income groups. The policy aims to promote affordable housing, sustainable urban development, and inclusive growth in the state.
