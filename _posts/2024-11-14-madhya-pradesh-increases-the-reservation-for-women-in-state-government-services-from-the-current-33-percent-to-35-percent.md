@@ -1,22 +1,20 @@
 ---
-layout: post
-content_type: articles
-breadcrumbs: articles
-is_newsletter: false
-title: Madhya Pradesh increases the reservation for women in state government
-  services from the current 33 percent to 35 percent.
-short_title: Madhya Pradesh increases the reservation for women in state
-  government services from the current 33 percent to 35 percent.
+title: Jammu and Kashmir passes a resolution asking the central government to
+  hold talks with elected representatives to restore the special status of the
+  erstwhile state.
+short_title: Jammu and Kashmir passes a resolution asking the central government
+  to hold talks with elected representatives to restore the special status of
+  the erstwhile state.
 date: 2024-11-13T00:00:00.000Z
 states:
-  - Madhya Pradesh
+  - Jammu and Kashmir
 sectors:
   - Infrastructure and Governance
 sources:
-  - name: Indian Express
-    url: https://indianexpress.com/article/jobs/mp-cabinet-raises-quota-for-women-in-state-govt-jobs-by-2-per-cent-to-35-per-cent-sarkari-naukri-9656462/
+  - url: https://www.business-standard.com/politics/j-k-assembly-passes-resolution-seeking-restoration-of-special-status-124110600379_1.html
+    name: Business Standard
 details:
-  - name: Cabinet Decision
-    url: https://www.mpinfo.org/Home/CabinetDetails?newsid=241105S8&fontname=Mangal&LocID=32&pubdate=11/05/2024
+  - name: Press Release
+    url: https://jkdirinf.jk.gov.in/Prnv?n=11244
 ---
-**Madhya Pradesh** increases the reservation for women in state government services from the current 33 percent to 35 percent.
+**Jammu and Kashmir** passes a resolution asking the central government to hold talks with elected representatives to restore the special status of the erstwhile state.
