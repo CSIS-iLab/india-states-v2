@@ -8,7 +8,7 @@
     "clean": "jekyll clean",
     "clean:css": "rm -rf assets/css",
     "setup": "bundler install && npm i -y",
-    "build:jekyll": "bundle exec jekyll build -I",
+    "build:jekyll": "bundle exec jekyll build --limit_posts 1000",
     "build:sass": "sass --no-source-map assets/_sass:assets/css",
     "build": "npm-run-all build:*",
     "watch:sass": "sass --no-source-map --watch assets/_sass:assets/css",
