@@ -34,7 +34,7 @@ sectors:
   - Infrastructure and Governance
   - Land & Labor Laws
   - Water & Sanitation
-is_featured: true
+is_featured: false
 author:
   - Akshat Singh
 ---
