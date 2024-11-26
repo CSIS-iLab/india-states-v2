@@ -3,8 +3,8 @@ layout: post
 breadcrumbs: newsletter
 is_newsletter: true
 content_type: newsletter
-title: October 9, 2024 Wednesday
-short_title: October 9, 2024 Wednesday
+title: "States Weekly: October 9, 2024 Wednesday"
+short_title: "States Weekly: October 9, 2024 Wednesday"
 date: 2024-10-09T00:00:00.000Z
 tags:
   - States Weekly
@@ -37,7 +37,7 @@ sectors:
   - Industrial Policy and Business Regulations
   - Infrastructure and Governance
   - Water & Sanitation
-is_featured: true
+is_featured: false
 author:
   - Akshat Singh
 ---
