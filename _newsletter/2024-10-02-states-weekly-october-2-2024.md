@@ -33,7 +33,7 @@ sectors:
   - Center-State Relations
   - Infrastructure and Governance
   - Land & Labor Laws
-is_featured: true
+is_featured: false
 author:
   - Akshat Singh
 ---
