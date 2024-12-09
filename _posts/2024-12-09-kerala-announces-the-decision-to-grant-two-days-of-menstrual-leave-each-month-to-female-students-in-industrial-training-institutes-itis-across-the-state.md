@@ -15,10 +15,10 @@ states:
 sectors:
   - Health
 sources:
-  - name: The Hindu
-    url: https://www.thehindu.com/news/cities/Delhi/delhi-govt-extends-ev-policy-till-march-2025-revives-subsidies-tax-exemptions/article68924591.ece
+  - name: Deccan Herald
+    url: https://www.deccanherald.com/india/kerala/kerala-grants-two-days-of-menstrual-leave-monthly-for-female-students-in-industrial-training-institutes-3296023
 details:
-  - name: Press Conference Video
-    url: https://urldefense.com/v3/__https:/www.facebook.com/watch/?v=1081555353675555__;!!KRhing!ZFX3P3eeVQmgevwttnVGhWvJjJMUzWru5N43IiK1qNtONTXIFv-V80acipp9tRGGUc4V8F2nYbaCihLOxuKx$
+  - name: Government Order
+    url: https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:c39ee086-5782-4c08-94ef-d8c96ebbb09d
 ---
 **Kerala** announces the decision to grant two days of menstrual leave each month to female students in industrial training institutes (ITIs) across the state.
