@@ -1,25 +1,23 @@
 ---
-layout: post
-content_type: articles
-breadcrumbs: articles
-is_newsletter: false
-title: Andhra Pradesh approves the State Maritime Policy 2024 with a target to
-  achieve at least one port ranked among the top 20 global ports and to attain
-  20 percent of total cargo handled by all Indian Ports by 2047. The policy
-  targets to maintain an optimal port utilisation rate of 75 percent by 2030 and
-  train 5,000 professionals by 2028 through the establishment of Maritime
-  University and Skill Development Centres across the State.
-short_title: Andhra Pradesh approves the State Maritime Policy 2024
+title: "Andhra Pradesh releases the Andhra Pradesh Information Technology (IT) &
+  Global Capability Centers (GCC) Policy (4.0), 2024 -2029, aiming to develop
+  Visakhapatnam as a global information technology destination. Key objectives
+  of the policy include attracting top IT companies to set up campuses and
+  innovation hubs with state-of-the-art facilities and reliable high-speed
+  internet by providing subsidies and simplifying regulatory processes. "
+short_title: "Andhra Pradesh releases the Andhra Pradesh Information Technology
+  (IT) & Global Capability Centers (GCC) Policy (4.0), 2024 -2029, "
 date: 2024-12-17T00:00:00.000Z
 states:
   - Andhra Pradesh
 sectors:
   - Industrial Policy and Business Regulations
 sources:
-  - url: https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-maritime-policy-2024-envisages-at-least-one-port-ranked-among-the-top-20-global-ports-in-the-state/article68973537.ece
+  - url: https://www.thehindu.com/news/cities/Visakhapatnam/new-it-policy-of-govt-will-make-ap-an-investment-destination-opine-experts/article68978291.ece
     name: The Hindu
 details:
-  - url: https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:f05579c7-6a9b-4b02-8e2c-eed224a1d8b9
-    name: Andhra Pradesh Maritime Policy 2024
+  - url: https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:9df9cd44-eed5-4be0-9953-96f33ca202c8
+    name: Andhra Pradesh Information Technology (IT) & Global Capability Centers
+      (GCC) Policy (4.0), 2024 -2029
 ---
-**Andhra Pradesh** approves the **State Maritime Policy 2024** with a target to achieve at least one port ranked among the top 20 global ports and to attain 20 percent of total cargo handled by all Indian Ports by 2047. The policy targets to maintain an optimal port utilisation rate of 75 percent by 2030 and train 5,000 professionals by 2028 through the establishment of Maritime University and Skill Development Centres across the State.
+**Andhra Pradesh** releases the **Andhra Pradesh Information Technology (IT) & Global Capability Centers (GCC) Policy (4.0), 2024 -2029**, aiming to develop Visakhapatnam as a global information technology destination. Key objectives of the policy include attracting top IT companies to set up campuses and innovation hubs with state-of-the-art facilities and reliable high-speed internet by providing subsidies and simplifying regulatory processes.
