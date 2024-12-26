@@ -1,6 +1,6 @@
 ---
 name: Katherine B. Hadda
-job_title: Visiting Fellow, Chair in U.S.-India Policy Studies
+job_title: Visiting Fellow, Chair on India and Emerging Asia Economics
 image: /uploads/5hadda.jpg
 current_staff: true
 ---
