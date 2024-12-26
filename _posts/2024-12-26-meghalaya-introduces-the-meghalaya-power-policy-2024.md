@@ -3,7 +3,13 @@ layout: post
 content_type: articles
 breadcrumbs: articles
 is_newsletter: false
-title: " Meghalaya introduces the Meghalaya Power Policy, 2024. "
+title: Meghalaya introduces the Meghalaya Power Policy, 2024. The policy
+  includes forming a state power trading company to manage power purchase
+  agreements (PPAs), and aims to promote renewable energy development, improve
+  the operational efficiency of existing power plants, build and maintain
+  efficient transmission system, and enhance the distribution system while
+  reducing system losses and improving public access to services like billing
+  and complaint resolution.
 short_title: " Meghalaya introduces the Meghalaya Power Policy, 2024. "
 date: 2024-12-25T00:00:00.000Z
 states:
