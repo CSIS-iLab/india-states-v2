@@ -1,6 +1,6 @@
 ---
 name: Gaurav Sansanwal
-job_title: Associate Fellow, Chair in U.S.-India Policy Studies
+job_title: Associate Fellow, Chair on India and Emerging Asia Economics
 image: /uploads/5sansanwal.jpg
 current_staff: true
 ---
