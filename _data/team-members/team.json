@@ -1,0 +1,34 @@
+{
+  "members": [
+    {
+      "current": true,
+      "name": "Richard M. Rossow",
+      "title": "Senior Adviser and Chair in U.S.-India Policy Studies",
+      "image": "/uploads/headshots/rick-rossow-headshot.jpg"
+    },
+    {
+      "current": true,
+      "name": "Neelima Jain",
+      "title": "Senior Fellow and Deputy Director",
+      "image": "/uploads/headshots/5NeelimaJain.jpg"
+    },
+    {
+      "current": true,
+      "name": "Bhawna Prakash",
+      "title": "Senior Fellow",
+      "image": "/uploads/headshots/5Prakash.jpg"
+    },
+    {
+      "current": true,
+      "name": "Akshat Singh",
+      "title": "Research Associate",
+      "image": "/uploads/headshots/5Singh_0.jpg"
+    },
+    {
+      "current": true,
+      "name": "Yatin Jain",
+      "title": "Program Coordinator & Research Assistant",
+      "image": "/uploads/headshots/5Jain.png"
+    }
+  ]
+}
