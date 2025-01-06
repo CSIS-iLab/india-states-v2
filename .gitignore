@@ -40,4 +40,6 @@ doc/
 
 # removing post.bak to avoid building time. This folder is the original with all the posts and it has to be included
 # for production
+bk_newsletter/
+bk_posts/
 _posts.bak
