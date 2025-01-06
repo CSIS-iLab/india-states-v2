@@ -26,44 +26,134 @@ collections:
     sortable_fields: []
     fields:
       - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'post' }
-      - { label: 'Breadcrumbs', name: 'breadcrumbs', widget: 'hidden', default: 'newsletter' }
-      - { label: 'Is newsletter', name: 'is_newsletter', widget: 'hidden', default: true }
-      - { label: 'Content Type', name: 'content_type', widget: 'hidden', default: 'newsletter' }
+      - {
+          label: 'Breadcrumbs',
+          name: 'breadcrumbs',
+          widget: 'hidden',
+          default: 'newsletter',
+        }
+      - {
+          label: 'Is newsletter',
+          name: 'is_newsletter',
+          widget: 'hidden',
+          default: true,
+        }
+      - {
+          label: 'Content Type',
+          name: 'content_type',
+          widget: 'hidden',
+          default: 'newsletter',
+        }
       - { label: 'Title', name: 'title', widget: 'string' }
-      - { label: 'Short Title', name: 'short_title', widget: 'string', pattern: ['^.{0,180}$', "Must have less than 180 characters"] }
-      - { label: 'Publish Date', name: 'date', widget: 'datetime', time_format: false }
-      - { label: 'Tags', name: 'tags', widget: 'list', required: false, collapsed: false,
-          field: { label: 'Tag', name: 'tag', widget: 'string' }}
+      - {
+          label: 'Short Title',
+          name: 'short_title',
+          widget: 'string',
+          pattern: ['^.{0,180}$', 'Must have less than 180 characters'],
+        }
+      - {
+          label: 'Publish Date',
+          name: 'date',
+          widget: 'datetime',
+          time_format: false,
+        }
+      - {
+          label: 'Tags',
+          name: 'tags',
+          widget: 'list',
+          required: false,
+          collapsed: false,
+          field: { label: 'Tag', name: 'tag', widget: 'string' },
+        }
       - { label: 'Excerpt', name: 'excerpt', widget: 'text' }
-      - { label: 'States', name: 'states', widget: 'relation', collection: 'states', multiple: true,
+      - {
+          label: 'States',
+          name: 'states',
+          widget: 'relation',
+          collection: 'states',
+          multiple: true,
           display_fields: [title],
           search_fields: [title],
           value_field: 'title',
-          required: false
+          required: false,
         }
-      - { label: 'Sectors', name: 'sectors', widget: 'relation', collection: 'sectors', multiple: true, display_fields: [title], search_fields: [title], value_field: 'title', required: false  }
+      - {
+          label: 'Sectors',
+          name: 'sectors',
+          widget: 'relation',
+          collection: 'sectors',
+          multiple: true,
+          display_fields: [title],
+          search_fields: [title],
+          value_field: 'title',
+          required: false,
+        }
       # - { label: 'Sub Sectors', name: 'subsectors', widget: 'relation', collection: 'subsectors', multiple: true, display_fields: [title], search_fields: [title], value_field: 'title', required: false }
-      - { label: 'Is Featured?', name: 'is_featured', widget: 'boolean', default: false, required: false }
-      - { label: 'Featured Image', name: 'feature_image', widget: 'image', choose_url: false, required: false }
-      - { label: 'Featured image credit', name: 'feature_image_credit', widget: 'text', required: false }
+      - {
+          label: 'Is Featured?',
+          name: 'is_featured',
+          widget: 'boolean',
+          default: false,
+          required: false,
+        }
+      - {
+          label: 'Featured Image',
+          name: 'feature_image',
+          widget: 'image',
+          choose_url: false,
+          required: false,
+        }
+      - {
+          label: 'Featured image credit',
+          name: 'feature_image_credit',
+          widget: 'text',
+          required: false,
+        }
       - label: 'Sources'
         label_singular: 'Source'
         name: 'sources'
         widget: 'list'
         fields:
           - { label: 'Name', name: 'name', widget: 'string' }
-          - { label: 'URL', name: 'url', widget: 'string', pattern: ['^(http|https)://', "Must start with https:// or http://"] }
-        required: false  
+          - {
+              label: 'URL',
+              name: 'url',
+              widget: 'string',
+              pattern:
+                ['^(http|https)://', 'Must start with https:// or http://'],
+            }
+        required: false
       - label: 'Details'
         label_singular: 'Detail'
         name: 'details'
         widget: 'list'
         fields:
           - { label: 'Name', name: 'name', widget: 'string' }
-          - { label: 'URL', name: 'url', widget: 'string', pattern: ['^(http|https)://', "Must start with https:// or http://"] }
+          - {
+              label: 'URL',
+              name: 'url',
+              widget: 'string',
+              pattern:
+                ['^(http|https)://', 'Must start with https:// or http://'],
+            }
         required: false
-      - { label: 'Author', name: 'author', widget: 'relation', collection: 'authors', multiple: true, display_fields: [name], search_fields: [name], value_field: 'name', }
-      - { label: 'PDF', name: 'pdf', widget: 'string', required: false, pattern: ['^(http|https)://', "Must start with https:// or http://"] }
+      - {
+          label: 'Author',
+          name: 'author',
+          widget: 'relation',
+          collection: 'authors',
+          multiple: true,
+          display_fields: [name],
+          search_fields: [name],
+          value_field: 'name',
+        }
+      - {
+          label: 'PDF',
+          name: 'pdf',
+          widget: 'string',
+          required: false,
+          pattern: ['^(http|https)://', 'Must start with https:// or http://'],
+        }
       - { label: 'Body', name: 'body', widget: 'markdown' }
 
   - name: 'articles'
@@ -79,25 +169,66 @@ collections:
     sortable_fields: []
     fields:
       - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'post' }
-      - { label: 'Content Type', name: 'content_type', widget: 'hidden', default: 'articles' }
-      - { label: 'Breadcrumbs', name: 'breadcrumbs', widget: 'hidden', default: 'articles' }
-      - { label: 'Is newsletter', name: 'is_newsletter', widget: 'hidden', default: false }
-      - { label: 'Title', name: 'title', widget: 'string' }
-      - { label: 'Short Title', name: 'short_title', widget: 'string', pattern: ['^.{0,180}$', "Must have less than 180 characters"] }
-      - { label: 'Publish Date', name: 'date', widget: 'datetime', time_format: false }
-      - { label: 'Tags', name: 'tags', widget: 'list', required: false, collapsed: false,
-          field: { label: 'Tag', name: 'tag', widget: 'string' }}
-      - { label: 'States', name: 'states', widget: 'relation', collection: 'states', multiple: true,
-          display_fields: [title],
-          search_fields: [title],
-          value_field: 'title',
-          required: false
+      - {
+          label: 'Content Type',
+          name: 'content_type',
+          widget: 'hidden',
+          default: 'articles',
         }
-      - { label: 'Sectors', name: 'sectors', widget: 'relation', collection: 'sectors', multiple: true,
+      - {
+          label: 'Breadcrumbs',
+          name: 'breadcrumbs',
+          widget: 'hidden',
+          default: 'articles',
+        }
+      - {
+          label: 'Is newsletter',
+          name: 'is_newsletter',
+          widget: 'hidden',
+          default: false,
+        }
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - {
+          label: 'Short Title',
+          name: 'short_title',
+          widget: 'string',
+          pattern: ['^.{0,180}$', 'Must have less than 180 characters'],
+        }
+      - {
+          label: 'Publish Date',
+          name: 'date',
+          widget: 'datetime',
+          time_format: false,
+        }
+      - {
+          label: 'Tags',
+          name: 'tags',
+          widget: 'list',
+          required: false,
+          collapsed: false,
+          field: { label: 'Tag', name: 'tag', widget: 'string' },
+        }
+      - {
+          label: 'States',
+          name: 'states',
+          widget: 'relation',
+          collection: 'states',
+          multiple: true,
           display_fields: [title],
           search_fields: [title],
           value_field: 'title',
-          required: false
+          required: false,
+        }
+      - {
+          label: 'Sectors',
+          name: 'sectors',
+          widget: 'relation',
+          collection: 'sectors',
+          multiple: true,
+          display_fields: [title],
+          search_fields: [title],
+          value_field: 'title',
+          required: false,
         }
       # - { label: 'Subsectors', name: 'subsectors', widget: 'relation', collection: 'subsectors', multiple: true,
       #     display_fields: [title],
@@ -111,15 +242,27 @@ collections:
         widget: 'list'
         fields:
           - { label: 'Name', name: 'name', widget: 'string' }
-          - { label: 'URL', name: 'url', widget: 'string', pattern: ['^(http|https)://', "Must start with https:// or http://"] }
-        required: false  
+          - {
+              label: 'URL',
+              name: 'url',
+              widget: 'string',
+              pattern:
+                ['^(http|https)://', 'Must start with https:// or http://'],
+            }
+        required: false
       - label: 'Details'
         label_singular: 'Detail'
         name: 'details'
         widget: 'list'
         fields:
           - { label: 'Name', name: 'name', widget: 'string' }
-          - { label: 'URL', name: 'url', widget: 'string', pattern: ['^(http|https)://', "Must start with https:// or http://"] }
+          - {
+              label: 'URL',
+              name: 'url',
+              widget: 'string',
+              pattern:
+                ['^(http|https)://', 'Must start with https:// or http://'],
+            }
         required: false
       - { label: 'Body', name: 'body', widget: 'markdown', required: false }
 
@@ -138,8 +281,19 @@ collections:
       - { label: 'Name', name: 'name', widget: 'string' }
       # - { label: 'Display Name', name: 'display_name', widget: 'string' }
       - { label: 'Job Title', name: 'job_title', widget: 'string' }
-      - { label: 'Image', name: 'image', widget: 'image', choose_url: false, required: false }
-      - { label: 'Current Staff', name: 'current_staff', widget: 'boolean', default: true }
+      - {
+          label: 'Image',
+          name: 'image',
+          widget: 'image',
+          choose_url: false,
+          required: false,
+        }
+      - {
+          label: 'Current Staff',
+          name: 'current_staff',
+          widget: 'boolean',
+          default: true,
+        }
       - { label: 'Body', name: 'body', widget: 'markdown' }
 
   - name: 'national-goals'
@@ -153,31 +307,72 @@ collections:
     editor:
       preview: false
     fields:
-      - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'national-goals' }
+      - {
+          label: 'Layout',
+          name: 'layout',
+          widget: 'hidden',
+          default: 'national-goals',
+        }
       - { label: 'Title', name: 'title', widget: 'string' }
-      - { label: 'Tags', name: 'tags', widget: 'list', required: false, collapsed: false,
-          field: { label: 'Tag', name: 'tag', widget: 'string' }}
-      - { label: 'States', name: 'states', widget: 'relation', collection: 'states', multiple: true,
+      - {
+          label: 'Tags',
+          name: 'tags',
+          widget: 'list',
+          required: false,
+          collapsed: false,
+          field: { label: 'Tag', name: 'tag', widget: 'string' },
+        }
+      - {
+          label: 'States',
+          name: 'states',
+          widget: 'relation',
+          collection: 'states',
+          multiple: true,
           display_fields: [title],
           search_fields: [title],
           value_field: 'title',
-          required: false
+          required: false,
         }
-      - { label: 'Sectors', name: 'sectors', widget: 'relation', collection: 'sectors', multiple: true,
+      - {
+          label: 'Sectors',
+          name: 'sectors',
+          widget: 'relation',
+          collection: 'sectors',
+          multiple: true,
           display_fields: [title],
           search_fields: [title],
           value_field: 'title',
-          required: false
+          required: false,
         }
-      - { label: 'Subsectors', name: 'subsectors', widget: 'relation', collection: 'subsectors', multiple: true,
+      - {
+          label: 'Subsectors',
+          name: 'subsectors',
+          widget: 'relation',
+          collection: 'subsectors',
+          multiple: true,
           display_fields: [title],
           search_fields: [title],
           value_field: 'title',
-          required: false
+          required: false,
         }
-      - { label: 'Data source', name: 'data_source', widget: 'hidden',  default: '{{replace-this-with-data-name}}'}
-      - { label: 'Data Label', name: 'data_label', widget: 'string', hint: 'The suffix to appear after the data value on the progress bars and the state page (MW, KM, etc.)' }
-      - { label: 'Data Missing Message', name: 'data_missing_message', widget: 'string', hint: 'The text that appears before the state name on the state pages in the "related national goals" box if there is no value (e.g., No data reported for Bihar.)' }
+      - {
+          label: 'Data source',
+          name: 'data_source',
+          widget: 'hidden',
+          default: '{{replace-this-with-data-name}}',
+        }
+      - {
+          label: 'Data Label',
+          name: 'data_label',
+          widget: 'string',
+          hint: 'The suffix to appear after the data value on the progress bars and the state page (MW, KM, etc.)',
+        }
+      - {
+          label: 'Data Missing Message',
+          name: 'data_missing_message',
+          widget: 'string',
+          hint: 'The text that appears before the state name on the state pages in the "related national goals" box if there is no value (e.g., No data reported for Bihar.)',
+        }
       - label: 'Map'
         name: 'map'
         widget: 'object'
@@ -192,16 +387,32 @@ collections:
         fields:
           - { label: 'Title', name: 'title', widget: 'string' }
           - { label: 'Description', name: 'description', widget: 'text' }
-      - { label: 'State Text', name: 'state_text', widget: 'string', hint: 'The text that appears between the state name and data value on the state pages in the "related national goals" box (e.g., Bihar has achieved 192.89%)' }
-      - { label: 'Last Updated', name: 'last_updated_at', widget: 'datetime', time_format: false }
+      - {
+          label: 'State Text',
+          name: 'state_text',
+          widget: 'string',
+          hint: 'The text that appears between the state name and data value on the state pages in the "related national goals" box (e.g., Bihar has achieved 192.89%)',
+        }
+      - {
+          label: 'Last Updated',
+          name: 'last_updated_at',
+          widget: 'datetime',
+          time_format: false,
+        }
       - label: 'Sources'
         label_singular: 'Source'
         name: 'sources'
         widget: 'list'
         fields:
           - { label: 'Name', name: 'name', widget: 'string' }
-          - { label: 'URL', name: 'url', widget: 'string', pattern: ['^(http|https)://', "Must start with https:// or http://"] }
-        required: false  
+          - {
+              label: 'URL',
+              name: 'url',
+              widget: 'string',
+              pattern:
+                ['^(http|https)://', 'Must start with https:// or http://'],
+            }
+        required: false
       - { label: 'Body', name: 'body', widget: 'markdown' }
 
   - name: 'resources'
@@ -216,36 +427,74 @@ collections:
     editor:
       preview: false
     fields:
-      - { label: 'Content Type', name: 'content_type', widget: 'hidden', default: 'resource' }
-      - { label: 'Type', name: 'type', widget: 'select', allow_add: false,
-          options: [
-            'Archives',
-            'Electricity',
-            'Electric Mobility',
-            'Energy Transition',
-            'Health',
-            'State Clean Energy Goal Tracker',
-            'Technology'
-          ],
-          default: ['Archives']
+      - {
+          label: 'Content Type',
+          name: 'content_type',
+          widget: 'hidden',
+          default: 'resource',
+        }
+      - {
+          label: 'Type',
+          name: 'type',
+          widget: 'select',
+          allow_add: false,
+          options:
+            [
+              'Archives',
+              'Electricity',
+              'Electric Mobility',
+              'Energy Transition',
+              'Health',
+              'State Clean Energy Goal Tracker',
+              'Technology',
+            ],
+          default: ['Archives'],
         }
       - { label: 'Title', name: 'title', widget: 'string' }
-      - { label: 'Link', name: 'link', widget: 'string', hint: 'https://example.com', pattern: ['^(http|https)://', "Must start with https:// or http://"]}
+      - {
+          label: 'Link',
+          name: 'link',
+          widget: 'string',
+          hint: 'https://example.com',
+          pattern: ['^(http|https)://', 'Must start with https:// or http://'],
+        }
       - { label: 'Author', name: 'author', widget: 'string' }
       - { label: 'Summary', name: 'summary', widget: 'text' }
-      - { label: 'Publish Date', name: 'posted_on', widget: 'datetime', date_format: 'MM.YYYY', time_format: false, format: 'LLL' }
-      - { label: 'States', name: 'states', widget: 'relation', collection: 'states', multiple: true,
+      - {
+          label: 'Publish Date',
+          name: 'posted_on',
+          widget: 'datetime',
+          date_format: 'MM.YYYY',
+          time_format: false,
+          format: 'LLL',
+        }
+      - {
+          label: 'States',
+          name: 'states',
+          widget: 'relation',
+          collection: 'states',
+          multiple: true,
           display_fields: [title],
           search_fields: [title],
           value_field: 'title',
-          required: false
+          required: false,
         }
-      - { label: 'Sectors', name: 'sectors', widget: 'relation', collection: 'sectors', multiple: true,
+      - {
+          label: 'Sectors',
+          name: 'sectors',
+          widget: 'relation',
+          collection: 'sectors',
+          multiple: true,
           display_fields: [title],
           search_fields: [title],
-          value_field: 'title'
+          value_field: 'title',
         }
-      - { label: 'Subsectors', name: 'subsectors', widget: 'relation', collection: 'subsectors', multiple: true,
+      - {
+          label: 'Subsectors',
+          name: 'subsectors',
+          widget: 'relation',
+          collection: 'subsectors',
+          multiple: true,
           display_fields: [title],
           search_fields: [title],
           value_field: 'title',
@@ -262,10 +511,26 @@ collections:
     editor:
       preview: false
     fields:
-      - { label: 'Content Type', name: 'content_type', widget: 'hidden', default: 'sector' }
-      - { label: 'Breadcrumbs', name: 'breadcrumbs', widget: 'hidden', default: 'sectors' }
+      - {
+          label: 'Content Type',
+          name: 'content_type',
+          widget: 'hidden',
+          default: 'sector',
+        }
+      - {
+          label: 'Breadcrumbs',
+          name: 'breadcrumbs',
+          widget: 'hidden',
+          default: 'sectors',
+        }
       - { label: 'Title', name: 'title', widget: 'string' }
-      - { label: 'Featured Image', name: 'feature_image', widget: 'image', choose_url: false, required: false }
+      - {
+          label: 'Featured Image',
+          name: 'feature_image',
+          widget: 'image',
+          choose_url: false,
+          required: false,
+        }
       - { label: 'Body', name: 'body', widget: 'markdown' }
 
   # - name: 'subsectors'
@@ -294,8 +559,18 @@ collections:
     editor:
       preview: false
     fields:
-      - { label: 'Content Type', name: 'content_type', widget: 'hidden', default: 'state' }
-      - { label: 'Breadcrumbs', name: 'breadcrumbs', widget: 'hidden', default: 'states' }
+      - {
+          label: 'Content Type',
+          name: 'content_type',
+          widget: 'hidden',
+          default: 'state',
+        }
+      - {
+          label: 'Breadcrumbs',
+          name: 'breadcrumbs',
+          widget: 'hidden',
+          default: 'states',
+        }
       - { label: 'Title', name: 'title', widget: 'string' }
       - label: 'Featured Images'
         name: 'feature_images'
@@ -305,22 +580,77 @@ collections:
             name: 'primary'
             widget: 'object'
             fields:
-              - { label: 'Image', name: 'image', widget: 'image', choose_url: false, required: false }
+              - {
+                  label: 'Image',
+                  name: 'image',
+                  widget: 'image',
+                  choose_url: false,
+                  required: false,
+                }
               - { label: 'Credit', name: 'credit', widget: 'string' }
           - label: 'Secondary'
             name: 'secondary'
             widget: 'object'
             fields:
-              - { label: 'Image', name: 'image', widget: 'image', choose_url: false, required: false }
+              - {
+                  label: 'Image',
+                  name: 'image',
+                  widget: 'image',
+                  choose_url: false,
+                  required: false,
+                }
               - { label: 'Credit', name: 'credit', widget: 'string' }
       - { label: 'Size', name: 'size', widget: 'string' }
       - { label: 'Population', name: 'population', widget: 'string' }
-      - { label: 'Party affiliation', name: 'party_affiliation', widget: 'string' }
-      - { label: 'Legislative seats', name: 'legislative_seats', widget: 'string' }
+      - {
+          label: 'Party affiliation',
+          name: 'party_affiliation',
+          widget: 'string',
+        }
+      - {
+          label: 'Legislative seats',
+          name: 'legislative_seats',
+          widget: 'string',
+        }
       - { label: 'Rajya seats', name: 'rajya_seats', widget: 'string' }
       - { label: 'Lok_seats', name: 'lok_seats', widget: 'string' }
       - { label: 'GDP', name: 'gdp', widget: 'string' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
+
+  - name: 'about'
+    label: 'About Page'
+    extension: json
+    format: json
+    create: false
+    editor:
+      preview: false
+    sortable_fields: []
+    files:
+      - label: 'Team'
+        name: 'team-list'
+        file: '_data/team-members/team.json'
+        fields:
+          - label: Team
+            name: members
+            widget: list
+            allow_add: true
+            collapse: true
+            fields:
+              - { label: 'Name', name: 'name', widget: 'string' }
+              - { label: 'Title', name: 'title', widget: 'string' }
+              - {
+                  label: 'Image',
+                  name: 'image',
+                  widget: 'image',
+                  choose_url: false,
+                  required: false,
+                }
+              - {
+                  label: 'Current Staff',
+                  name: 'current',
+                  widget: 'boolean',
+                  default: true,
+                }
 
   - name: 'trackers'
     label: 'Trackers'
@@ -331,10 +661,10 @@ collections:
     editor:
       preview: false
     sortable_fields: []
-    files:      
-      - label: "Solar Tracker"
-        name: "solar-tracker"
-        file: "_data/national-goals/solar-performance-tracker.json"
+    files:
+      - label: 'Solar Tracker'
+        name: 'solar-tracker'
+        file: '_data/national-goals/solar-performance-tracker.json'
         fields:
           - label: 'States'
             name: 'tracker'
@@ -347,10 +677,10 @@ collections:
               - { name: 'state_target' }
               - { name: 'state_achieved' }
               - { name: 'state_percentage' }
-                    
-      - label: "Wind Tracker"
-        name: "wind-tracker"
-        file: "_data/national-goals/wind-performance-tracker.json"
+
+      - label: 'Wind Tracker'
+        name: 'wind-tracker'
+        file: '_data/national-goals/wind-performance-tracker.json'
         fields:
           - label: 'States'
             name: 'tracker'
