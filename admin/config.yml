@@ -4,7 +4,7 @@ local_backend: true
 # live
 backend:
   name: git-gateway
-  branch: main # Branch to update (optional; defaults to master)
+  branch: staging # Branch to update (optional; defaults to master)
 
 media_folder: '_uploads'
 public_folder: '/uploads' # The src attribute for uploaded media will begin with /images/uploads
@@ -16,14 +16,14 @@ collections:
   - name: 'newsletter'
     label: 'Newsletters'
     label_singular: 'Newsletter'
-    folder: '_newsletter/'
+    folder: '_newsletter/2023/'
     create: true
     editor:
       preview: false
     indentifier_field: short_title
     slug: '{{year}}-{{month}}-{{day}}-{{short_title}}' # Exmple of simple slug: '{{slug}}'
     # sortable_fields: ['title', 'date', 'author', 'states']
-    sortable_fields: []
+    sortable_fields: ['date']
     fields:
       - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'post' }
       - {
@@ -159,14 +159,14 @@ collections:
   - name: 'articles'
     label: 'Articles'
     label_singular: 'Article'
-    folder: '_posts/'
+    folder: '_posts/2023/'
     create: true
     editor:
       preview: false
     indentifier_field: short_title
     slug: '{{year}}-{{month}}-{{day}}-{{short_title}}'
     # sortable_fields: ['title', 'date', 'author', 'states']
-    sortable_fields: []
+    sortable_fields: ['date']
     fields:
       - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'post' }
       - {
