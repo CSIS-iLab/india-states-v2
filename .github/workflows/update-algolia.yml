@@ -28,7 +28,7 @@ jobs:
           APP_KEY: ${{ secrets.ALGOLIA_APPLICATION_ID }}
         with:
           script: |
-            import algoliasearch from 'algoliasearch'
+            const algoliasearch = require('algoliasearch').default
             const { API_KEY, APP_KEY } = process.env
             const client = algoliasearch(`${APP_KEY}`, `${API_KEY}`)
             const index = client.initIndex('india_states')
