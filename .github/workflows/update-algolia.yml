@@ -34,7 +34,7 @@ jobs:
         with:
           script: |
             try {
-              const algoliasearch = require('algoliasearch').default;
+              import { algoliasearch } from "algoliasearch";
               const { API_KEY, APP_KEY } = process.env;
               const client = algoliasearch(`${APP_KEY}`, `${API_KEY}`);
               const index = client.initIndex('india_states');
