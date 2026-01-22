@@ -8,22 +8,18 @@ short_title: "States Weekly: March 19, 2025"
 date: 2025-03-19T00:00:00.000-04:00
 tags:
   - States Weekly
-  - Health
   - Climate Change and Energy
   - Finance
-  - Industrial Policy and Business Regulations
   - Land Acquisition and Labor Regulations
   - Infrastructure and Governance
   - Water and Sanitation
   - Center - State Relations
-excerpt: >
-  **Big News**: **Arunachal Pradesh**, **Assam**, **Himachal Pradesh**, **Madhya
-  Pradesh**, **Maharashtra**, **Puducherry**, and **Tamil Nadu** release **State
-  Budgets 2025-26**; **Delhi** proposes the **Delhi Electric Vehicle Policy
-  2.0**; **Telangana** launches the **"Rajiv Yuva Vikasam" Scheme** to provide
-  financial assistance to unemployed youth from scheduled castes, scheduled
-  tribes, backward classes and minority communities; **Karnataka** passes the
-  **Greater Bengaluru Governance Bill, 2024**; and more.
+excerpt: "Big News: Arunachal Pradesh, Assam, Himachal Pradesh, Madhya Pradesh,
+  Maharashtra, Puducherry, and Tamil Nadu release State Budgets 2025-26; Delhi
+  proposes the Delhi Electric Vehicle Policy 2.0; Telangana launches the “Rajiv
+  Yuva Vikasam” Scheme to provide financial assistance to unemployed youth from
+  scheduled castes, scheduled tribes, backward classes and minority communities;
+  Karnataka passes the Greater Bengaluru Governance Bill, 2024; and more."
 states:
   - Arunachal Pradesh
   - Assam
