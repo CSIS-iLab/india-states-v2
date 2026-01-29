@@ -44,7 +44,7 @@ sectors:
   - Land & Labor Laws
   - Finance
   - Climate Change and Energy
-is_featured: true
+is_featured: false
 sources: []
 details: []
 author:
