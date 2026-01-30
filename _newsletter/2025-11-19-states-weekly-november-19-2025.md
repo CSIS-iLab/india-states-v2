@@ -3,9 +3,9 @@ layout: post
 breadcrumbs: newsletter
 is_newsletter: true
 content_type: newsletter
-title: "States Weekly: November 19, 2025"
-short_title: "States Weekly: November 19, 2025"
-date: 2025-11-19T00:00:00.000-05:00
+title: "States Weekly:November 26, 2025 "
+short_title: "States Weekly: November 26, 2025"
+date: 2025-11-26T00:00:00.000-05:00
 tags:
   - "States Weekly "
   - "Health  "
@@ -13,12 +13,13 @@ tags:
   - "Industrial Policy and Business Regulations   "
   - "Land Acquisition and Labor Regulations   "
   - "Infrastructure and Governance  "
-excerpt: "Big News: West Bengal extends Ban on Certain Tobacco Products; Tamil
-  Nadu introduces Single Window Portal for Development Projects and Land Use
-  Applications; Tripura unveils a Cyber Security Policy; Andhra Pradesh launches
-  a Building Penalization Scheme, 2025; Delhi abolishes Mandatory Renewal of
-  Shops; Tamil Nadu announces 2025 Financial Incentives for UPSC Civil Services
-  Main Examination Candidates; and more. "
+  - "Center – State Relations       "
+excerpt: "Big News: Karnataka regulates Clinical Cosmetic Procedures; Tripura
+  announces (TERC) New Tariff Rates; Maharashtra, Rajasthan, and Odisha
+  introduce their Global Capability Centers (GCC) Policies; Karnataka unveils
+  Startup Policy 2025-2030; Maharashtra waives Registration Fees for Homes
+  Allotted under Cluster Redevelopment Projects; Tamil Nadu launches Free Meals
+  for Sanitation Workers in Chennai; and more. "
 states:
   - West Bengal
   - Delhi
@@ -32,165 +33,197 @@ states:
   - Odisha
   - Maharashtra
   - Arunachal Pradesh
+  - Meghalaya
+  - Telangana
+  - Uttarakhand
+  - Haryana
+  - Himachal Pradesh
+  - Assam
+  - Mizoram
 sectors:
   - Land & Labor Laws
   - Infrastructure and Governance
   - Industrial Policy and Business Regulations
   - Health
   - Climate Change and Energy
+  - Center-State Relations
 is_featured: false
 author:
   - Aryan D'Rozario
 ---
 **States Weekly Newsletter**
 
-**November 19, 2025**
+**November 26, 2025**
 
-**Big News: West Bengal** extends **Ban on Certain Tobacco Products; Tamil Nadu** introduces **Single Window Portal for Development Projects and Land Use Applications; Tripura** unveils a **Cyber Security Policy; Andhra Pradesh** launches a **Building Penalization Scheme, 2025; Delhi** abolishes **Mandatory Renewal of Shops; Tamil Nadu** announces **2025** **Financial Incentives for UPSC Civil Services Main Examination Candidates;** and more.
+**Big News: Karnataka** regulates **Clinical Cosmetic Procedures; Tripura** announces **(TERC) New Tariff Rates; Maharashtra, Rajasthan, and Odisha** introduce their **Global Capability Centers (GCC) Policies; Karnataka** unveils **Startup Policy 2025-2030; Maharashtra** waives **Registration Fees for Homes Allotted under Cluster Redevelopment Projects; Tamil Nadu** launches **Free Meals for Sanitation Workers in Chennai;** and more.
 
 **Health**
 
-**West Bengal** extends **Ban on Certain Tobacco Products**. The ban applies to the manufacture, storage and sale of 'Gutkha' and 'Pan Masala' for another year, citing public health concerns. The renewal of the ban came into effect on November 7, 2025.
+**Karnataka** regulates **Clinical Cosmetic Procedures**. The state mandates that any facility providing clinical cosmetic procedures, skin treatments, or related health services must register under the Karnataka Private Medical Establishments (KPME) Act of 2007.
 
-**Source:** [Madhyamam](https://madhyamamonline.com/india/west-bengal-extends-ban-on-gutkha-and-pan-masala-for-another-year-1466768)
+**Source:** [Times of India](https://timesofindia.indiatimes.com/city/bengaluru/karnataka-government-moves-to-regulate-spas-salons-offering-clinical-procedures/articleshow/125446906.cms)
 
-**In detail:** [Notification](https://www.wbhealth.gov.in/uploaded_files/go/CFS_686.PDF)
+**In detail:** [Karnataka Government Order](https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:4c59dd19-b4c7-4637-a977-9c171e5195ce)
+
+**Delhi** advises **Temporary Staff Restrictions in Private Offices**. The state directs private offices to operate with 50 percent on-site staff and to allow remaining employees to work from home as a precautionary measure under the Graded Response Action Plan (GRAP) Stage III, issued by the Commission for Air Quality Management (CAQM). Delhi's Air Quality Index (AQI) is at an alarmingly high number.
+
+**Source:** [Business Standard](https://www.business-standard.com/india-news/delhi-govt-advises-private-offices-to-allow-50-employees-to-work-from-home-125112200717_1.html)
+
+**In detail:** [Order](https://caqm.nic.in/WriteReadData/LINKS/GRAP%20Order47928aa8-d026-4478-9407-2eba0a328a2d.pdf)
+
+**Punjab** phases out **Mercury-based Medical Equipment**. The Punjab Health Systems Corporation (PHSC) orders a complete phase-out of all mercury-based medical equipment across government and private healthcare facilities in the state. The order bans the procurement and use of mercury thermometers, sphygmomanometers, and dental amalgams.
+
+**Source:** [Tribune](https://www.tribuneindia.com/news/punjab/govt-bans-mercury-based-medical-equipment-in-state/)
 
 **Climate Change and Energy**
 
-**Delhi** issues **(DERC) Renewable Purchase Obligation (RPO) and Renewable Energy Certificate (REC) Framework Implementation Regulations, 2025**. The regulations issued by the Delhi Electricity Regulatory Commission (DERC) aim to promote the use of renewable energy while ensuring compliance among electricity consumers. These rules are applicable to all Distribution Licensees, Captive Users, and Open Access Consumers, making it mandatory for them to procure a minimum portion of their total electricity consumption from renewable energy sources.
+**Bihar** releases **(BERC) Terms and Conditions for Tariff Determination from Renewable Energy Sources Regulations, 2025**. The regulations, issued by the Bihar Electricity Regulatory Commission, aim to bring clarity and structure to how tariffs are set for renewable energy projects in the state.
 
-**Source:** [Solar Quarter](https://solarquarter.com/2025/11/13/derc-enforces-new-rpo-and-rec-regulations-2025-to-boost-renewable-energy-adoption-in-delhi/)
+**Source:** [Solar Quarter](https://solarquarter.com/2025/11/21/bihar-introduces-new-2025-regulations-to-streamline-renewable-energy-tariff-framework/)
 
-**In detail:** [Delhi Electricity Regulatory Commission (Renewable Purchase Obligation and Renewable Energy Certificate Framework Implementation) Regulations,2025](https://www.derc.gov.in/sites/default/files/DERC_RPO_REC_Regulation_2025.pdf)
+**In detail:** [Consultative Paper on Draft BERC (Terms and Conditions for Tariff determination from Renewable Energy sources) Regulations, 2025](https://berc.co.in/rules-requlations/regulations/draft-regulations/3071-consultative-paper-and-draft-regulations-on-berc-terms-and-conditions-for-tariff-determination-from-renewable-energy-sources-regulations-2025)
 
-**Delhi** releases **Explanatory Memorandum for Proposed Changes to Tariff Determinations**. The memorandum, issued by the Delhi Electricity Regulatory Commission (DERC), aims to modify the system used by distribution companies to recover fluctuating costs related to purchasing power and fuel. Currently, these adjustments are handled through the Power Purchase Cost Adjustment Charges, which form part of the Fuel and Power Purchase Adjustment Surcharge.
+**Telangana** issues **(TGERC) Draft First Amendment to the TGERC (Terms and Conditions of Open Access), Regulation, 2024**. The regulations, issued by the Telangana Electricity Regulatory Commission (TGERC), aim to clarify procedures related to Renewable Energy Certificates (RECs). The new amendment seeks to address certain practical issues that have arisen regarding the issuance of RECs to Green Energy Open Access (GEOA) consumers and renewable energy generators.
 
-**Source:** [Solar Quarter](https://solarquarter.com/2025/11/14/derc-proposes-monthly-tariff-adjustment-to-reduce-discom-dues-and-improve-financial-stability-in-delhi/)
+**Source:** [Solar Quarter](https://solarquarter.com/2025/11/20/telangana-electricity-regulator-draft-first-amendment-to-open-access-regulations-2024-for-renewable-energy-certificates/)
 
-**In detail:** [Explanatory Memorandum](https://www.derc.gov.in/sites/default/files/Explanatory%20Memorandum_0.pdf)
+**In detail:** [Draft First Amendment to the TGERC (Terms and Conditions of Open Access), Regulation, 2024](https://www.tgerc.telangana.gov.in/file_upload/uploads/Regulations/Draft/2025/DRAFT%20AMENDMENT%20TO%20REG%201%20OF%202024/Draft%20Amendment%20to%20Reg%201%20of%202024.pdf)
 
-**Madhya Pradesh** issues (**MPERC) (Forecasting, Scheduling, Deviation Settlement Mechanism and related Matters of Wind and Solar Generating Stations) Regulations, 2018 (Third Amendment)**. The Third Amendment, issued by the Madhya Pradesh Electricity Regulatory Commission (MPERC) amends 2018 regulations on forecasting, scheduling, and deviation settlement for renewable energy generation. This amendment brings updates for wind, solar, and hybrid generating stations and marks a significant step in integrating Energy Storage Systems (ESS) into the state's electricity grid. The amendment broadens the scope of the earlier 2018 regulations to include all stand-alone ESS projects with an installed capacity of 10 MW and above.
+**Telangana** issues **(TERC) Rooftop Solar PV Grid Interactive Systems Regulation, 2025**. The regulations, issued by the Telangana Electricity Regulatory Commission (TERC), replaces a 2016 framework and introduces comprehensive measures to facilitate multiple solar net metering models, provide financial clarity, and ensure technical and safety standards.
 
-**Source:** [Solar Quarter](https://solarquarter.com/2025/11/13/mperc-expands-renewable-energy-regulations-to-include-energy-storage-systems-in-madhya-pradesh/)
+**Source:** [Saur Energy](https://www.saurenergy.com/solar-energy-news/telangana-unveils-rooftop-solar-regulation-2025-with-flexible-net-metering-models-10791245)
 
-**In detail:** [Madhya Pradesh Electricity Regulatory Commission (Forecasting, Scheduling, Deviation Settlement Mechanism and related Matters of wind and Solar Generating Stations) Regulations, 2018 (Third Amendment)](https://mperc.in/uploads/regulation_document/MP-Gazette-AG-44-iii-2025-English-OCR1.pdf)
+**In detail:** [Telangana Electricity Regulatory Commission (Rooftop Solar PV Grid Interactive Systems) Regulation, 2025](https://www.tgerc.telangana.gov.in/file_upload/uploads/Regulations/Final/tserc/2025/Final%20Solar%20Roof%20top%20Regulation%201%20of%202025%2015112025.pdf)
 
-**Tamil Nadu** introduces **Single Window Portal for Development Projects and Land Use Applications**. The single-window portal will deal with applications relating to land development, change of land use, and issuance of completion certificates under the Tamil Nadu Town and Country Planning Act, 1971.
+**Telangana** issues **(TGERC) Draft Telangana Electricity Regulatory Commission (Framework for Resource Adequacy) Regulations, 2025**. The regulations issued by the Telangana Electricity Regulatory Commission outline a comprehensive 10-year framework for demand forecasting, generation planning, and procurement.
 
-**Source:** [New Indian Express](https://www.newindianexpress.com/states/tamil-nadu/2025/Nov/14/tamil-nadu-notifies-single-window-portal-for-building-projects)
+**Source:** [Mercom](https://www.mercomindia.com/telangana-issues-draft-resource-adequacy-regulations)
 
-**Uttar Pradesh** issues its **Electricity Bill Relief Scheme, 2025**. The scheme, devised by the Uttar Pradesh Power Corporation Limited (UPPCL) aims to provide financial relief to over 1.45 crore (1,450,000) consumers who have defaulted on electricity bill payments.
+**In detail:** [Telangana Electricity Regulatory Commission (Framework for Resource Adequacy) Regulations, 2025](https://www.tgerc.telangana.gov.in/file_upload/uploads/Regulations/Draft/2025/DRAFT%20RESOURCE%20ADEQUACY/Final%20Draft%20RA%20Regulations%2015112025.pdf)
 
-**Source:** [Economic Times](https://energy.economictimes.indiatimes.com/news/power/uppcl-announces-relief-scheme-for-over-1-4-crore-electricity-bill-defaulters/125263334)
+**Meghalaya** issues **(MSERC) Intrastate Deviation Settlement Mechanism and Related Matters Regulations, 2025**. The regulations issued by the Meghalaya State Electricity Regulatory Commission (MSERC) aim to enhance grid stability. The regulations will apply to all generating stations owned by the Meghalaya Power Generation Corporation or any other intrastate generating stations, to renewable energy projects of at least 5 MW capacity that have signed short-term and medium-term power supply agreements with DISCOMs.
 
-**In detail:** [UP Electricity Bill Relief Scheme 2025](https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:ef3d7952-0bb8-44a8-9ff3-abfc0a1e777c)
+**Source:** [Mercom](https://www.mercomindia.com/meghalaya-electricity-regulator-issues-deviation-settlement-mechanism-rules)
 
-**Punjab** relaxes **Rules for New Power Connections under 50kW**. The new simplified procedure ensures that applicants will no longer be required to submit a test report from a licensed electrical contractor or provide self-certification for wiring at their premises. Instead, a declaration within the online application form, confirming the internal wiring at the premises was executed and tested by a licensed electrical contractor or designated government officer and that a test certificate is available with the applicant, will suffice.
+**In detail:** [Meghalaya State Electricity Regulatory Commission (Intra-State Deviation Settlement Mechanism and Related Matters) Regulations, 2025](https://mserc.gov.in/regulations/2025/MSERC_Intra_State_Deviation_Settlement_Mechanism_and_Related_Matters_Regulations_2025.pdf)
 
-**Source:** [Economic Times](https://energy.economictimes.indiatimes.com/news/power/punjab-relaxes-norms-for-new-power-connections-under-50-kw-category/125237660)
+**Punjab** issues **Detailed Procedures for Banking of Power and Model Banking Agreement for Green Energy Open Access Consumer**. The procedures issued by the Punjab State Power Corporation Ltd. manage the banking of power for Green Energy Open Access consumers.
 
-**Tripura** releases their **2025-26 Electricity Tariffs.** The tariffs, issued by the Tripura Electricity Regulatory Commission (TERC), introduces a 10 percent rebate for hospitals, homestays, women's self-help group-run businesses and mobile towers operating in remote zones. The Commission said the measure is designed to improve essential services, strengthen connectivity, and support local economic activity.
+**Source:** [Solar Quarter](https://solarquarter.com/2025/11/19/punjab-state-power-corporation-introduces-clear-banking-draft-procedure-to-support-green-energy-open-access-consumers-in-punjab/)
 
-**Source:** [India Today](https://www.indiatodayne.in/tripura/story/tripura-power-regulator-announces-2025-26-tariff-with-relief-for-remote-areas-1304742-2025-11-16)
+**In detail:** [Detailed Procedure for Banking of Power and Model Banking Agreement for by Green Energy Open Access consumer](https://www.pspcl.in/LatestNewsDoc/Banking_Procedure_for_Green_Energy_Open_AccessConsumers_04_09_2025_04_49_11.pdf)
 
-**In detail:** [TERC Tariff Order 2025-26](https://drive.google.com/file/d/1pPevIzY1ez2HEY98FjWIoS7rbG5wvxkL/view)
+**Tripura** announces **(TERC) New Tariff Rates**. The rates issued by the Tripura Electricity Regulatory Commission apply for the 2025-26 fiscal year. A 10 percent rebate on energy charge has been introduced for IT industries to promote industry development, and a 10 percent rebate will be given for women self-help groups and mobile towers in remote areas.
 
-**Tripura** releases **(TERC) Fuel and Power Purchase Price Adjustment Regulations, 2025**. The regulations issued by the Tripura Electricity Regulatory Commission (TERC) intend to introduce a system that allows monthly automatic adjustment of consumer electricity bills. The purpose of this new approach is to reflect changes in fuel prices, power purchase costs, and transmission charges more efficiently.
+**Source:** [Hindustan Times](https://www.hindustantimes.com/india-news/new-power-tariff-rates-to-come-into-effect-in-tripura-from-november-official-101763539089759.html)
 
-**Source:** [Solar Quarter](https://solarquarter.com/2025/11/11/terc-proposes-new-fpppa-draft-regulations-for-2025-to-enable-monthly-automatic-power-tariff-adjustments-in-tripura/)
+**In detail**: [Tariff order](https://drive.google.com/file/d/1pPevIzY1ez2HEY98FjWIoS7rbG5wvxkL/view)
 
-**In detail:** [Tripura Electricity Regulatory Commission (Fuel and Power Purchase Price Adjustment) Regulations, 2025](https://terc.tripura.gov.in/sites/default/files/documents/Draft-TERC%28FPPA%29%20Regulation%2C%202025_0.pdf)
+**Uttarakhand** delays **Fitness Test Fee Hike for 15-year-old Commercial Vehicles**. The new order delays the fee hike until November 21, 2026.
+
+**Source:** [The Print](https://theprint.in/india/uttarakhand-govt-defers-hiked-fitness-test-fee-for-15-year-old-commercial-vehicles-till-nov-2026/2789524/)
 
 **Finance**
 
-Nothing critical to report this week.
+Nothing critical to report this week
 
 **Industrial Policy and Business Regulations**  
 
-**Karnataka** approves **Key Policies**.
+**Haryana** issues the **Haryana Shops and Commercial Establishments (Amendment) Ordinance, 2025**. The order increases daily business hours from 9 to 10 and enhances the overtime ceiling from 50 hours to 156 hours per quarter.
 
-The **Karnataka Information Technology Policy, 2025-2030** aims to increase the IT sector's contribution to Gross State Value Added (GVA) from 26 percent to 36 percent by increasing software exports. The **Karnataka Space Technology Policy, 2025-30,** aims to train young professionals for careers in the domestic and international space sector and attract investments.
+**Source:** [The Tribune](https://www.tribuneindia.com/news/haryana/haryana-overhauls-shops-act-with-stronger-compliance-longer-hours/)
 
-**Source:** [New Indian Express](https://www.newindianexpress.com/amp/story/states/karnataka/2025/Nov/14/karnataka-cabinet-nod-for-it-space-technology-policies)
+**In detail:** [Haryana Shops and Commercial Establishments (Amendment) Ordinance, 2025](https://storage.hrylabour.gov.in/uploads/labour_laws/Y2025/Nov/W3/D18/1763450760.pdf)
 
-**Tripura** unveils a **Cyber Security Policy**. The policy will serve as a framework for securing the state's Information Technology and Information and Communications Technology systems, and in strengthening institutional mechanisms.
+**Karnataka** unveils its **Startup Policy 2025-2030**. The new Startup Policy aims to enable the creation of 25,000 startups over the next five years through interventions in funding, market access, infrastructure, talent development, and social inclusion.
 
-**Source:** [The Print](https://theprint.in/india/tripura-unveils-cyber-security-policy/2781740/)
+**Source:** [Deccan Herald](https://www.deccanherald.com/india/karnataka/karnataka-unveils-it-spacetech-and-startup-policy-2025-2030-at-bts-2025-3801883)
+
+**In detail:** [Startup Policy 2025-30](https://eitbt.karnataka.gov.in/startup/public/uploads/media_to_upload1763380262.pdf)
+
+**Maharashtra** introduces its **Global Capability Centers (GCC) Policy - 2025**. The policy aims to position the state as a premier destination for multinational corporations seeking to establish their back-office operations. The policy outlines low operational costs and streamlined regulatory procedures.
+
+**Source:** [Elets Online](https://cio.eletsonline.com/news/maharashtra-unveils-ambitious-plan-to-boost-global-business-hubs-by-2025/75372/)
+
+**In detail:** [Maharashtra Global Capability Centre Policy-2025](https://industry.maharashtra.gov.in/sites/default/files/2025-09/gcc-policy-paraesa-naota-english.pdf)
+
+**Rajasthan** introduces its **Global Capability Centers (GCC) Policy - 2025**. The policy aims to decentralize development beyond tier-II cities, taking it down to block and rural levels, and to create lucrative job avenues at all levels. The state has introduced an array of incentives, as per the provisions and clauses of the Rajasthan Investment Promotion Scheme (RIPS-2024), to GCC promoters.
+
+**Source:** [The Statesman](https://www.thestatesman.com/india/rajasthan-adopts-gcc-policy-to-make-state-global-hub-of-innovation-and-investment-1503515626.html)
+
+**In detail:** [Rajasthan Global Capability Centre (GCC) Policy-2025](https://www.scribd.com/document/876014240/GCC-Policy-2025-May-25-V5)
+
+**Odisha** approves the **Odisha Global Capability Centre (GCC) Policy - 2025**. The policy aims to attract multinational corporations, investment, five GCC hubs, and over 50,000 jobs, complementing the Odisha IT Policy 2025 and promoting balanced regional development.
+
+**Source:** [Pragativadi](https://pragativadi.com/odisha-cabinet-approves-12-key-proposals-focus-on-jobs-and-transparency/)
+
+**Punjab** launches Phase II of the **"Fastrack Punjab Portal."** The portal integrates 173 industrial services on a single platform to further streamline business facilitation in the state.
+
+**Source:** [Hindustan Times](https://www.hindustantimes.com/cities/chandigarh-news/ease-of-doing-business-mann-launches-phase-ii-of-fastrack-punjab-portal-brings-173-services-under-single-window-101763754671322.html)
+
+**In detail:** [Fast Track Portal](https://fasttrack.punjab.gov.in/)
 
 **Land Acquisition and Labor Regulations**  
 
-**Uttar Pradesh** extends **Women Working Hours**. The state decides to allow women to work in night shifts between 7pm and 6am, provided they give their written consent to the state's labor department and if employers maintain safety and security standards for night-shift workers.
+**Maharashtra** waives **Registration Fees for Homes Allotted under Cluster Redevelopment Projects.** The decision is expected to speed up stalled redevelopment work and make the transition affordable for families who have long waited for safer and modern homes. The waiver applies to all eligible beneficiaries receiving units between 400 sq-ft and 600 sq-ft in newly redeveloped buildings.
 
-**Source:** [Hindustan Times](https://www.hindustantimes.com/cities/noida-news/uttar-pradesh-government-rolls-out-night-shift-rules-for-women-101762984157590.html)
+**Source:** [My Pune Pulse](https://www.mypunepulse.com/maharashtra-waives-registration-fees-for-cluster-redevelopment-homes-in-mumbai-offer-relief-to-thousands-of-beneficiaries/)
 
-**In detail:** [Factories (UP Amendment) Act, 2024](https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:f2dbdb5e-fe7d-455a-afa9-0e6ea7e8c435)
+**Telangana** approves the **Telangana Gig and Platform Workers (Registration, Social Security and Welfare) Act, 2025**. Under the new bill, gig workers will be brought under a structured social security framework for the first time in the state.
 
-**Andhra Pradesh** launches a **Building Penalization Scheme, 2025**. The scheme allows for property owners to legalize unauthorized and deviated structures built between January 1, 1985, and August 31, 2025
+**Source:** [News Meter](https://newsmeter.in/regional/telangana/telangana-cabinet-approves-gig-workers-bill-will-bring-42l-workforce-under-social-security-framework-758385)
 
-**Source:** [The Hindu](https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-launches-building-penalisation-scheme/article70271048.ece)
+**In detail:** [Telangana Gig and Platform Workers (Registration, Social Security and Welfare) Act, 2025](https://labour.telangana.gov.in/content/Downloads/Gig_and_Platform_Workers_Bill_draft_bill_2025.pdf)
 
-**In detail:** [Building Penalization Scheme, 2025](https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:6e6660fc-a0dd-43c1-a27b-2704dabb7f46)
+**Himachal Pradesh** amends the **Himachal Pradesh Land Lease Rules, 2013**. The new rules allow the Housing and Urban Development Authority (HIMUDA) to lease land for up to 80 years. The amendment, called the Himachal Pradesh Lease (Amendment) Rules, 2025, has been issued under powers given by the Himachal Pradesh Village Common Lands Vesting and Utilization Act, 1974 and the Himachal Pradesh Ceiling on Land Holdings Act, 1972.
 
-**Andhra Pradesh** permits **Renewable Energy Companies to Lease Assigned Land**. The new policy allows farmers, who hold these assigned lands, to rent them out to RE companies. Until now, farmers holding assigned lands were permitted to cultivate them only as per the Assigned Lands (Prohibition of Transfers) Act, 1977.
+**Source:** [News Arena India](https://newsarenaindia.com/states/himachal-eases-land-lease-rules-for-himuda/62707)
 
-**Source:** [The Hindu](https://www.thehindu.com/news/national/andhra-pradesh/govt-permits-leasing-of-assigned-land-to-renewable-energy-companies-in-andhra-pradesh/article70270983.ece)
-
-**Delhi** abolishes **Mandatory Renewal of Shops**. Earlier, commercial establishments had to renew their registration every 21 years under Section 5 of the Delhi Shops and Establishments Act, 1954. This will no longer be required.
-
-**Source:** [New Indian Express](https://www.newindianexpress.com/cities/delhi/2025/Nov/15/delhi-government-scraps-21-year-renewal-rule-under-shops-establishments-act)
-
-**Karnataka** mandates **Menstrual Leave**. All women employees aged 18 to 52 across permanent, contractual, and outsourced roles will be allowed one day off per month.
-
-**Source:** [Business Today](https://www.businesstoday.in/india/story/karnataka-announces-12-annual-paid-period-leaves-for-women-workers-becomes-first-indian-state-to-do-so-502317-2025-11-15)
-
-**In detail:** [Karnataka Menstrual Leave Policy](https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:767ad4b1-d4c4-4322-a16d-ece78592379b)
-
-**Odisha** amends **Odisha Land Survey and Settlement Rules**. The state now empowers 'Tahasildars' (Revenue Department officials) to correct land records linked to old registered sale deeds and other valid documents.
-
-**Source:** [Pragativadi](https://pragativadi.com/odisha-cm-approves-amendment-to-survey-and-settlement-rules/)
-
-**In detail:** [Odisha Survey and Settlement (Amendment) Rules, 2025](https://revenue.odisha.gov.in/sites/default/files/2025-11/4773-R%26DM%20Dept.pdf)
+**In detail:** [Himachal Pradesh Lease (Amendment) Rules, 2025](https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:04f69533-c168-4c5b-a13a-e51a7df4ea43)
 
 **Infrastructure and Governance**
 
-**Madhya Pradesh** approves stipend increase for the **'Mukhyamantri Ladli Behna Yojana' (Chief Minister's Young Sister Scheme)**. The financial assistance scheme, initially set at \$11.27 (INR 1,000) and revised to \$14 (INR 1,250) in September 2023, will witness an increase to \$16.9 (INR 1,500) from November 2025. The scheme is applicable to women from economically weaker sections of the state.
+**Haryana** increases its **Dearness Allowance (DA)**. The allowance applies to state government employees who are drawing their salaries as per the 5th Pay Commission. The revised DA rate has been increased from the existing 466 per cent to 474 percent of basic pay, with effect from July 1, 2025.
 
-**Source:** [Devdiscourse](https://www.devdiscourse.com/article/headlines/3691525-madhya-pradesh-cabinet-greenlights-key-projects-and-schemes)
+**Source:** [PTI](https://www.ptinews.com/editor-detail/haryana-enhances-da-for-government-employees-under-5th-pay-commission/3106961)
 
-**In detail:** [Order](https://www.mpinfo.org/Home/CabinetDetails?newsid=20251110N49&fontname=FontEnglish&LocID=32&pubdate=11/10/2025)
+**In detail:** [Press release](https://prharyana.gov.in/en/press-note-245)
 
-**Maharashtra** announces an **Incentive Scheme for Cooperative and Private Sugar Mills**. The scheme aims at building their financial capacity and encouraging quality performance. The state plans to reward factories that meet competitive quality standards.
+**Tamil Nadu** launches **Free Meals for Sanitation Workers in Chennai**. The scheme provides three meals a day and is expected to be expanded to other parts of the state from December 6.
 
-**Source:** [Mid-day](https://www.mid-day.com/amp/mumbai/mumbai-news/article/maharashtra-government-launches-incentive-scheme-for-sugar-mills-to-reward-quality-performance-23602878)
+**Source:** [Deccan Herald](https://www.deccanherald.com/india/tamil-nadu/tamil-nadu-cm-launches-free-nutritious-meals-scheme-for-sanitation-workers-assures-to-fulfil-their-demands-3799759)
 
-**In detail:** [Incentive Scheme](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511121154009602.pdf)
+**In detail:** [Press release](https://cms.tn.gov.in/cms_migrated/document/press_release/pr151125_2741.pdf)
 
-**Tamil Nadu** announces a **3 Percent Hike in Dearness Allowance (DA).** The DA applies to all state government employees, teachers, and pensioners. The revision, from 55 percent to 58 percent, aligns the state's DA rate with that of the Union government.
+**Assam** approves **Key Policies.**
 
-**Source:** [NDTV](https://www.ndtv.com/india-news/tamil-nadu-hikes-dearness-allowance-by-3-for-government-staff-teachers-9627645)
+The state approves the **Assam Non-Government Educational Institutions (Regulation of Fees) (Amendment) Bill, 2025**, strengthening fee regulation and bringing minority-run institutions under a uniform system of registration, fee fixation and periodic renewal to curb arbitrary charges. The state also approves the **Assam Fixation of Ceiling on Land Holdings (Amendment) Bill, 2025**, removing tea labor lines from ancillary land classifications. The **Assam Education (Provincialization of Services of Non-Teaching Staff of Venture Educational Institutions) Amendment Bill, 2025**, introduces a 6 percent annual salary enhancement for 3,093 provincialized non-teaching staff
 
-**In detail:** [Order](https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:22dbb6b1-4362-451f-bf9e-7855f7f119c1)
+**Source:** [Hub Network](https://hubnetwork.in/assam-cabinet-clears-landmark-reforms-on-education-tea-garden-land-rights-universities-and-aviation-mro-push/)
 
-**Tamil Nadu** announces **2025** **Financial Incentives for UPSC Civil Services Main Examination Candidates**. The state decides to reward USD 564 (INR 50,000) for candidates from the state who have cleared the UPSC Civil Services Main Examination, 2025.
+**Haryana** introduces the **'Dr Yashwant Singh Parmar Vidyarthi Rhin Yojna' (Dr Yashwant Singh Parmar Student Scheme)**. Eligible students can now avail of education loans through notified banks in Himachal Pradesh at a highly subsidized interest rate of just one percent. The scheme is designed to support students pursuing professional, technical, and higher education courses in recognized institutions.
 
-**Source:** [India Today](https://www.indiatoday.in/education-today/news/story/upsc-mains-2025-qualifiers-to-receive-rs-50000-incentive-in-tamil-nadu-2819566-2025-11-14)
+**Source:** [Times of India](https://timesofindia.indiatimes.com/education/news/himachals-education-revolution-state-government-announces-massive-interest-subsidy-on-educational-loans-aims-to-boost-opportunities-for-local-students/articleshow/125518323.cms)
 
-**In detail:** [Order](https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:75835687-221b-4362-a814-e7caf474858a)
+**In detail:** [Press release](https://education.hp.gov.in/sites/default/files/DYSPVRY.pdf), [Dr Yashwant Singh ParmarVidyarthiRhinYojna guidelines](https://education.hp.gov.in/sites/default/files/DYSPVPJ%20GUIDELINES.pdf)
 
-**Punjab** approves **Key Policies**.
+**Mizoram** increases its **Dearness Allowance (DA)**. The increase of 4 percent is effective as of November 1, 2025.
 
-The state's new **Farmhouse Policy** for land parcels de-listed under the Punjab Land Preservation Act (PLPA) in the environmentally sensitive Kandi region of the lower Shivalik Hills aims to legalize unauthorized structures and houses in these areas. The state also launched the '**Navi Dishaa Scheme' (Sanitary Napkin Scheme)** to address menstrual hygiene and provide free sanitary napkins to adolescent girls and economically weak women.
+**Source:** [NE now](https://nenow.in/north-east-news/mizoram/mizoram-government-approves-4-da-hike-for-state-employees.html)
 
-**Source:** [New Indian Express](https://www.newindianexpress.com/nation/2025/Nov/15/punjab-cabinet-clears-farmhouse-policy-for-de-listed-plpa-lands-providing-relief-to-influential-owners)
+**In detail:** [Mizoram Government Notification](https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:51474730-f189-4800-93e2-573359351f7a)
 
 **Water and Sanitation**
 
-Nothing critical to report this week.
+Nothing critical to report this week
 
 **Center - State Relations**
 
-Nothing critical to report this week.
+**The Union government** implements the **Four Labor Codes.** The Code on Wages (2019), Industrial Relations Code (2020), Code on Social Security (2020), and Occupational Safety, Health and Working Conditions (OSHWC) Code (2020) repeals and rationalizes 29 existing Union government labor laws.
+
+**Source:** [Economic Times](https://economictimes.indiatimes.com/news/economy/policy/india-implements-four-labour-codes-replacing-29-laws-in-biggest-reform-since-independence/articleshow/125482920)
+
+**In detail:** [Press release](https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2192463)
 
 **Any Other**
 
