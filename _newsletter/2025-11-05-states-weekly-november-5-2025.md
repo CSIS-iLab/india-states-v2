@@ -3,9 +3,9 @@ layout: post
 breadcrumbs: newsletter
 is_newsletter: true
 content_type: newsletter
-title: "States Weekly:November 5, 2025 "
-short_title: "States Weekly: November 5, 2025 "
-date: 2025-11-05T00:00:00.000-05:00
+title: "States Weekly: November 12, 2025 "
+short_title: "States Weekly: November 12, 2025 "
+date: 2025-11-12T00:00:00.000-05:00
 tags:
   - "States Weekly "
   - "Health  "
@@ -13,6 +13,8 @@ tags:
   - "Industrial Policy and Business Regulations   "
   - "Land Acquisition and Labor Regulations   "
   - "Infrastructure and Governance  "
+  - "Water and Sanitation  "
+  - "Center – State Relations    "
 excerpt: "Big News: Kerala launches the NIRNAYA (Nava Kerala Integrated Referral
   Network for Advanced Diagnostics and Care) Initiative; Delhi relaxes its
   Vehicle Scrapping Policy; Odisha exempts MSME Land Conversion Fees and Rent;
@@ -21,80 +23,95 @@ excerpt: "Big News: Kerala launches the NIRNAYA (Nava Kerala Integrated Referral
   Scheme); Maharashtra promotes the use of Artificial Sand for Construction
   Activities; and more. "
 states:
-  - Maharashtra
-  - Assam
+  - Sikkim
+  - Telangana
   - Kerala
-  - Mizoram
-  - Haryana
-  - Delhi
-  - Karnataka
-  - Odisha
-  - Union Territory of Ladakh
   - Madhya Pradesh
+  - Maharashtra
   - Rajasthan
-  - Jammu and Kashmir
-  - Punjab
   - Tripura
+  - Tamil Nadu
+  - Karnataka
+  - Delhi
+  - Goa
+  - Gujarat
+  - Haryana
+  - Puducherry
 sectors:
   - Infrastructure and Governance
   - Land & Labor Laws
   - Industrial Policy and Business Regulations
   - Climate Change and Energy
   - Health
+  - Center-State Relations
+  - Water & Sanitation
 is_featured: false
-feature_image_credit: "Big News: Odisha bans tobacco and nicotine products;
-  Delhi simplifies procedures for installing solar plants on agricultural land;
-  Telangana releases its Next-Gen Life Sciences Policy 2026–30; Rajasthan
-  approves its first Semiconductor Policy; Tamil Nadu passes the Tamil Nadu
-  Water Resources (Regulation, Management and Augmentation) Bill, 2026; and
-  more.\ 
-
-
-  \  "
+feature_image_credit: "Big News: Sikkim announces Cervical Cancer Vaccination
+  and Testing Policy; Madhya Pradesh waives Energy Surcharges; Tamil Nadu
+  approves Mandatory Electric Vehicles (EV) Charging Points in New Buildings;
+  Telangana approves Free Internet for Government Schools; Maharashtra
+  introduces the Safe Reuse and Management of Treated Wastewater Policy, 2025;
+  and more. "
 author:
   - Aryan D'Rozario
 ---
 **States Weekly Newsletter**
 
-**November 5, 2025**
+**November 12, 2025**
 
-**Big News: Kerala** launches **the NIRNAYA (Nava Kerala Integrated Referral Network for Advanced Diagnostics and Care) Initiative; Delhi** relaxes its **Vehicle Scrapping Policy; Odisha** exempts **MSME Land Conversion Fees and Rent; Rajasthan** approves **Agricultural Subsidies;** Tripura approves the '**Chief Minister Balika Samriddhi Yojana' (Chief Minister Young Girl** **Prosperity Scheme); Maharashtra** promotes the use of **Artificial Sand for Construction Activities**; and more.
+**Big News: Sikkim** announces **Cervical Cancer Vaccination and Testing Policy; Madhya Pradesh** waives **Energy Surcharges; Tamil Nadu** approves **Mandatory Electric Vehicles (EV) Charging Points in New Buildings; Telangana** approves **Free Internet for Government Schools; Maharashtra** introduces the **Safe Reuse and Management of Treated Wastewater Policy, 2025;** and more.
 
 **Health**
 
-**Maharashtra** declares **Leprosy a** **Notifiable Disease**. The state requires all doctors and healthcare institutions, government and private, to report every diagnosed case of leprosy within 14 days. The policy aims to strengthen surveillance, ensure early detection, and help the state achieve its target of a "Leprosy-Free Maharashtra by 2027."
+**Maharashtra** expands **Cashless Treatment.** The state approves a significant expansion of the 'Mahatma Jyotirao Phule Jan Arogya Yojana' (Mahatma Jyotirao Phule Public Healthcare Scheme) (MJPJAY) and the 'Ayushman Bharat-Pradhan Mantri Jan Arogya Yojana' (Prime Minister's People's Public Healthcare Scheme) (AB-PMJAY). The number of diseases and medical procedures covered under the two state health insurance schemes will rise from 1,356 to 2,399. The decision aims to bring almost all major and chronic ailments under the purview of free or cashless treatment for eligible citizens across the state.
 
-**Source:** [Free Press Journal](https://www.freepressjournal.in/mumbai/maharashtra-declares-leprosy-a-notifiable-disease-to-achieve-leprosy-free-state-by-2027)
+**Source:** [Free Press Journal](https://www.freepressjournal.in/mumbai/maharashtra-expands-free-health-insurance-coverage-to-2399-treatments-under-mjpjay-ayushman-bharat)
 
-**Assam** introduces **Cashless Treatment Options**. The new policy upgrades the states' 'Ayushman Asom Mukhya Mantri Lok Sevak Arogya Yojana' (Assam Chief Minister Public Servant Health Scheme) (AA-MMLSAY), benefiting thousands of state employees, pensioners, and their dependents. Previously, AA-MMLSAY, launched in 2023, only offered healthcare reimbursement instead of cashless medical treatment.
+**In detail:** [Order](https://urldefense.com/v3/__https://gr.maharashtra.gov.in/Site/Upload/Government*20Resolutions/English/202511041057022117.pdf__;JQ!!KRhing!fagNjv5XWAl-BpJDVSX-hUuwwMt0Khu9-c-x_EZr3-dpxOFZTpD3RzP8-F1y2Vu3Ewq4UwtQyi3SvcWPuT_4TPQ$)
 
-**Source:** [Outlook](https://www.outlookmoney.com/retirement/plan/health-insurance/ayushman-asom-mukhya-mantri-lok-sevak-arogya-yojana-cm-launches-cashless-healthcare-facility)
+**Telangana** reconstitutes the **State Council for Clinical Establishments, under the Clinical Establishments (Registration and Regulation) Act, 2010**. The council will be responsible for compiling and updating the State Registers of Clinical Establishments, sending monthly returns to the National Register, representing the State in the National Council, hearing appeals, and publishing annual reports on the implementation of clinical standards.
 
-**Kerala** launches **the NIRNAYA (Nava Kerala Integrated Referral Network for Advanced Diagnostics and Care) Initiative.** The initiative, being implemented by Kerala's Health Department in collaboration with India Post, will link around 1300 laboratories across the state to offer a comprehensive range of 131 diagnostic tests. Eligible individuals will receive free testing, while others can access services at affordable rates.
+**Source:** [The Hindu](https://www.thehindu.com/news/national/telangana/telangana-reconstitutes-state-council-for-clinical-establishments-doctors-seek-practical-reforms-for-smaller-hospitals/article70244892.ece)
 
-**Source:** [New Indian Express](https://www.newindianexpress.com/cities/thiruvananthapuram/2025/Oct/30/nirnaya-to-offer-low-cost-diagnostic-services-in-kerala)
+**Sikkim** announces **Cervical Cancer Vaccination and Testing Policy**. Girls below the age of 14 will receive free vaccination against cervical cancer from April 2026. The state also announces that women in the age group of 30 to 65 years will be provided free cervical cancer test kits from the same month for early detection and treatment of the disease.
 
-**Mizoram** launches its **Tobacco-Free Youth Campaign 3.0**. The campaign reaffirms the government's commitment to creating a tobacco-free learning environment in schools.
-
-**Source:** [North East Now](https://nenow.in/north-east-news/mizoram/mizoram-launches-tobacco-free-youth-3-0-amid-alarming-use-rate.html)
+**Source:** [NDTV](https://www.ndtv.com/india-news/sikkim-to-offer-free-cervical-cancer-vaccines-to-girls-below-14-years-9596224)
 
 **Climate Change and Energy**
 
-**Haryana** issues **HERC (Terms and Conditions for determination of Tariff from Renewable Energy Sources Renewable Purchase Obligation and Renewable Energy Certificate) Regulations 2025.** The regulations issued by the Haryana Electricity Regulatory Commission (HERC) list the terms and conditions for determining tariffs for renewable energy projects, renewable purchase obligations, and renewable energy certificates. The regulations will come into force on April 1, 2026, and remain in effect until March 31, 2029. These regulations will apply to all grid-connected renewable energy projects entities in Haryana.
+**Kerala** approves **KSERC (Renewable Energy and Related Matters) Regulations, 2025**. The regulations, issued by the Kerala State Electricity Regulatory Commission (KSERC) came into effect on November 6, 2025, and remain valid until March 31, 2030. The new billing systems prescribed under the regulations will be implemented from January 1, 2026, while consumers or prosumers who receive feasibility approval by November 5, 2025, will be covered under the new regulations.
 
-**Source:** [Mercom](https://www.mercomindia.com/haryana-issues-tariff-determination-terms-for-renewable-energy-projects)
+**Source:** [BioEnergy Times](https://bioenergytimes.com/kerala-state-electricity-regulatory-commission-notifies-kserc-regulations-2025/)
 
-**In detail:** [HERC (Terms and Conditions for determination of Tariff from Renewable Energy Sources Renewable Purchase Obligation and Renewable Energy Certificate) Regulations 2025](https://herc.gov.in/WriteReadData/Orders/O20251029.pdf)
+**In detail:** [KSERC (Renewable Energy and Related Matters) Regulations, 2025](https://dev.erckerala.org/api/storage/draft-regulations/WHGPRV4PWntRfaPDsgbf2asrVyAPoW7dJLaVrK1p.pdf)
 
-**Delhi** relaxes its **Vehicle Scrapping Policy**. Owners of 10-year-old diesel and 15-year-old petrol vehicles will be able to obtain a No Objection Certificate (NOC) to re-register their vehicles in other states instead of sending them to the scrapyard. Earlier, the Delhi Transport Department permitted issuances of NOC only within one year of the vehicle registration expiry.
+**Madhya Pradesh** waives **Energy Surcharges**. The state inaugurates the 'Samadhan Yojana 2025-26' (Resolution Scheme 2025-26) which aims to provide relief to nearly 9 million electricity consumers across the state, with the government waiving \$338 million (INR 3,000 crore) in surcharges.
 
-**Source:** [India TV](https://www.indiatvnews.com/delhi/big-relief-for-delhi-vehicle-owners-no-scrapping-needed-for-old-diesel-and-petrol-cars-noc-rule-relaxed-by-rekha-gupta-government-2025-10-30-1015131)
+**Source:** [Indian Master Minds](https://indianmasterminds.com/news/madhya-pradesh-samadhan-yojana-2025-26-mohan-yadav-electricity-bill-waiver-156777/)
 
-**Karnataka** issues **Draft Karnataka Electricity Regulatory Commission \[Framework for Demand Flexibility (DF) / Demand Side Management (DSM)\] Regulations, 2025.** The draft, issued by the Karnataka Electricity Regulatory Commission (KERC), introduces new regulations on Demand Flexibility (DF) and Demand Side Management (DSM) in the state. The new framework emphasizes that DSM is not only a tool for energy conservation but also a critical part of overall energy efficiency planning for the state's distribution network.
+**In detail:** [Samadhan Yojana 2025-26](https://rooftop.mpez.co.in:8443/ots/samadhan/SamadhanYojana2025-26.pdf)
 
-**Source:** [Solar Quarter](https://solarquarter.com/2025/10/27/kerc-unveils-draft-regulations-2025-for-demand-flexibility-and-energy-efficiency-in-karnataka/)
+**Maharashtra** establishes **'Swayampurna' (Wholeness) Maharashtra Residential Rooftop (SMART) Scheme**. The scheme, approved by the Maharashtra State Electricity Distribution Company Limited (MSEDCL) aims to provide free solar-powered electricity for 25 years to households below the poverty line (BPL) and those belonging to people from Economically Weaker Sections (EWS).
 
-**In detail:** [Draft Karnataka Electricity Regulatory Commission \[Framework for Demand Flexibility (DF) / Demand Side Management (DSM)\] Regulations, 2025](https://kerc.karnataka.gov.in/uploads/media_to_upload1760767578.pdf)
+Source: [Indian Express](https://indianexpress.com/article/cities/pune/low-income-maharashtra-free-electricity-25-years-10343971/)
+
+In detail: [Swayampurna Maharashtra Residential Rooftop (SMART) scheme](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510061736312910.pdf)
+
+**Rajasthan** revises **Solar Tariffs**. The 'Jaipur Vidyut Vitran Nigam Ltd.' (JVVNL) (Jaipur Electricity Distribution Company) has announced a revision in tariffs for Net Metering and Net Billing systems under the Rajasthan Electricity Regukatory Commission (RERC) Grid-Interactive Distributed Renewable Energy Generating Systems Framework. The tariff for Net Metering has been revised to \$0.036 (INR 3.26) per kWh, applicable to all categories of consumers. The Net Billing tariff has been set at \$0.04 (INR 3.65) per kWh.
+
+**Source:** [Energetica](https://energetica-india.net/news/rajasthan-revises-solar-tariffs-to-strengthen-net-metering-and-billing-framework)
+
+**Tripura** regulates **Net Energy Credits via Draft TERC (The Grid Interactive Solar Rooftop Photovoltaic System under Gross/Net Metering) Regulation, 2024**. The Tripura Electricity Regulatory Commission (TERC) has capped net energy credits at a maximum of 3.8 units per kW per day for solar systems installed by domestic, irrigation, and water works consumers.
+
+**Source:** [Mercom](https://www.mercomindia.com/tripura-regulator-amends-rooftop-solar-rules)
+
+**In detail:** [Draft Tripura Electricity Regulatory (The Grid Interactive Solar Rooftop Photovoltaic System under Gross/Net Metering) Regulation, 2024, (First Amendment), 2025](https://terc.tripura.gov.in/sites/default/files/documents/Draft-%20TERC%20%28The%20Grid%20Interactive%20Solar%20Rooftop%20Photovoltaic%20System%20under%20Gross%20or%20Net%20Metering%29%20Regulation%20%281st%20Amendment%29%202025_0.pdf)
+
+**Tamil Nadu** approves **Mandatory Electric Vehicles (EV) Charging Points in New Buildings**. The state's Housing and Urban Development Department has made it mandatory for all new residential, commercial, and large buildings to include EV charging points.
+
+**Source:** [The Hawk](https://www.thehawk.in/news/india/tn-makes-ev-charging-infrastructure-compulsory-in-all-major-new-buildings)
+
+**In detail:** [Building Rules](https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:8f58e242-71ae-4492-ab90-04a5cbe3aff2)
 
 **Finance**
 
@@ -102,81 +119,69 @@ Nothing critical to report this week.
 
 **Industrial Policy and Business Regulations**  
 
-**Odisha** exempts **MSME Land Conversion Fees and Rent**. Entrepreneurs setting up Micro, Small, and Medium Enterprises (MSMEs) in the state will no longer need to apply for land conversion or pay related charges. Earlier, MSME owners had to pay 1 percent of the land's benchmark value as a conversion fee, along with an additional 1 percent as rent.
+**Karnataka** approves the **Karnataka Startup Policy (2025-30).** The policy will cost \$58 million (INR 518.27 crore) in a span of five years and aims to help establish up to 25,000 startups, of which 10,000 will be outside Bengaluru. The startups are expected to focus on areas such as artificial intelligence, blockchain, quantum computing and other tech-related issues.
 
-**Source:** [Sambad](https://sambadenglish.com/latest-news/odisha-govt-waives-land-conversion-fee-and-rent-for-msme-entrepreneurs-10610143)
+**Source:** [Deccan Herald](https://www.deccanherald.com/india/karnataka/karnataka-govt-aims-to-create-25000-startups-in-5-years-3789382)
+
+**Delhi** unveils **New Liquor Polic**y. The policy focuses on introducing premium liquor brands across retail outlets and allows the establishment of exclusive beer bars.
+
+**Source:** [Elite Wealth](https://elitewealth.in/delhi-government-announces-new-liquor-policy-to-introduce-premium-brands-and-exclusive-beer-bars/)
+
+**Goa** invokes the **Essential Services Maintenance Act (ESMA)**. Under ESMA, the manufacture, packaging, distribution and transportation of pharmaceutical products and their components as now considered essential services under the Goa Essential Services Maintenance Act, 1988. The aim is to prevent any strikes or disruptions in the pharmaceutical industry.
+
+**Source:** [Goemkarponn](https://goemkarponn.com/goa-govt-invokes-esma-to-prevent-disruption-in-pharma-sector/)
+
+**In detail:** [Notification](https://www.goa.gov.in/wp-content/uploads/2025/11/GOVT.-NOTIFIES-ESMA.pdf)
 
 **Land Acquisition and Labor Regulations**  
 
-**Maharashtra** introduces **Individual Property Cards**. The new rules aim to apply to owners of apartments in multi-storey buildings. The government has constituted an 8-member committee to frame 'Vertical Property Rules' that will enable the inclusion of flat owners' names in land extracts and property cards, which are records that currently reflect only the landowner's details.
+**Karnataka** publishes new **Skill Development Policy 2025-32**. The policy comes with a 7-year strategic blueprint, backed by an outlay of \$500 million (INR 4,432 crore).
 
-**Source:** [Free Press Journal](https://www.freepressjournal.in/mumbai/maharashtra-govt-moves-to-give-individual-property-cards-to-flat-owners-sets-up-panel-to-frame-vertical-property-rules)
-
-**In detail:** [Order](https://urldefense.com/v3/__https://gr.maharashtra.gov.in/Site/Upload/Government*20Resolutions/English/202510301631347419.pdf__;JQ!!KRhing!dw_lKnc6I0aqlByxNOCWTcY5A0fIU5uFW9iFPsJpC9AWNmMre8bFZeNBU_vtLaANisyYdCz6vQ4DUPFM7eio3II$)
-
-**Odisha** streamlines **Sale, Purchase, and Registration Process**. Land deals, which were earlier registered at sub-registrar offices, will now be done at tehsil offices from November 1, 2025, onwards.
-
-**Source:** [New Indian Express](https://www.newindianexpress.com/states/odisha/2025/Oct/31/tehsil-offices-to-start-registration-of-land-from-nov-1)
-
-**Ladakh** unveils the **Online Building Permission System (OBPS).** The OBPS is a fully digital platform designed to streamline and expedite the approval process for Building Construction Permits and Occupancy Certificates within the Municipal Committees of Leh and Kargil.
-
-**Source:** [Early Times](https://www.earlytimes.in/newsdet.aspx?q=392592)
+**Source:** [Hindu](https://www.thehindu.com/news/national/karnataka/karnataka-releases-a-newskill-development-policy-to-train-3-million-youth-by-2033/article70241395.ece)
 
 **Infrastructure and Governance**
 
-**Delhi** introduces the **'Pink Saheli Smart Card' (Pink Sister Smart Card)**. The new Smart Card provides free travel for women and transgender individuals across the Delhi Transport Corporation (DTC) system and in cluster buses.
+**Gujarat** pushes for **Urbanization via Satellite Towns**. The state has drawn up plans to develop five towns adjoining its major cities as 'satellite' towns. The five identified satellite towns are Kalol (under the Gandhinagar Urban Development Authority), Sanand (Ahmedabad Urban Development Authority), Savli (Vadodara Urban Development Authority), Bardoli (Surat Urban Development Authority), and Hirasar (Rajkot Urban Development Authority). The Urban Development Department (UDD) aims to ensure that these towns, adjacent to the state's five major cities grow in coordination with their respective "mother cities."
 
-**Source:** [New Indian Express](https://www.newindianexpress.com/cities/delhi/2025/Nov/02/delhi-government-introduces-smart-card-for-free-bus-travel-for-women-transgenders)
+**Source:** [Desh Gujarat](https://deshgujarat.com/2025/11/05/gujarat-to-develop-five-satellite-towns-around-its-major-cities/)
 
-**Madhya Pradesh** introduces **Key Policies**. The state launches the **Viksit Madhya Pradesh @ 2047** **Vision Document**, outlining the state's roadmap for the next 25 years of development. The state also launches the '**MP e-Seva Portal' (Madhya Pradesh e-Help Portal)**, offering 500 government services online, and the **Invest MP 3.0 Portal** to simplify digital investment and industrial services.
+**Haryana** approves **Key Policies**.
 
-**Source:** [Swarajya](https://swarajyamag.com/news-brief/cm-mohan-yadav-unveils-viksit-madhya-pradesh2047-vision-document-launches-new-airports-e-seva-and-tribal-healthcare-initiatives)
+The state instructs the **Haryana Skill Employment Corporation (HKRN)** to provide jobs to one member of each family who are victims of the 1984 anti-Sikh riots. The state also approves the **Factories (Amendment) Ordinance 2025**, ensuring official appointment letters to every worker, overtime limit and wage increases, and protective gear for machine-equipment.
 
-**In detail:** [Press release](https://www.mpinfo.org/Home/TodaysNews#helicopter,-Vision@2047,-Ujjain,-CM-Madhya-Pradesh,-Madhya-Pradesh,-cm-of-mp,-CM-Mohan-Yadav-%C2%B2%C2%B0%C2%B2%C2%B5%C2%B1%C2%B1%C2%B0%C2%B1%C3%8E%C2%B1%C2%B4%C2%B5)
+**Source:** [Punjab Kesari](https://haryana.punjabkesari.in/haryana/news/haryana-cabinet-meeting-teachers-transfer-policy-nayab-saini-1984-riot-victim-2239099)
 
-**Rajasthan** approves **Agricultural Subsidies**. The state approves agricultural input subsidies for 763000 farmers in 3777 villages affected by excessive rainfall during the 2025 'Kharif' (June to October) season. The decision aims to provide relief to farmers whose crops suffered damage due to extreme monsoons.
+**In detail:** [Press Release](https://prharyana.gov.in/en/press-note-231)
 
-**Source:** [Business Standard](https://www.business-standard.com/india-news/rajasthan-approves-input-subsidy-for-763k-farmers-hit-by-excessive-rain-125110101047_1.html)
+**Telangana** approves **Free Internet for Government Schools**. The policy aims to reach up to 22,730 schools that have computers but lack good Wi-Fi connectivity.
 
-**In detail:** [Press Release](https://dipr.rajasthan.gov.in/press-release-detail/226148/0)
+**Source:** [Telugu Samayam](https://telugu.samayam.com/telangana/news/telangana-govt-provides-to-free-internet-for-government-schools-with-the-help-of-bsnl-and-t-fiber/articleshow/125148939.cms)
 
-**Jammu and Kashmir** approves **Key Policies**.
+**Kerala** introduces new **Bus Permit Rules**. The state has decided to ban the import and re-registration of old buses from other states. Going forward, only Bharat Stage VI (BS6) compliant buses will be eligible for permits in Kerala, as part of the state's effort to reduce pollution and improve passenger safety.
 
-The **Jammu and Kashmir Tenancy Bill, 2025** establishes a "Rent Authority" to regulate the renting of premises and ensure speedy adjudication of tenancy-related disputes. The **Jammu and Kashmir Panchayati Raj (Amendment) Bill, 2025** increases the upper age limit of the State Election Commissioner from 65 to 70 years. The **Jammu and Kashmir Shops and Establishments (Licensing, Regulation of Employment and Conditions of Service) Bill, 2025** lifts restrictions on women working during night hours and introduces several welfare measures for workers in commercial establishments. Lastly, the **Jammu and Kashmir Cooperative Societies (Amendment) Bill, 2025** requires the Special Tribunal constituted under the Jammu and Kashmir Special Tribunal Act, 1988, to also function as a Cooperative Appellate Tribunal, aiming to improve efficiency and facilitating quicker resolution of disputes in the cooperative sector. The state also ratified the **Jammu and Kashmir Goods and Services Tax (Amendment) Bill, 2025**.
+**Source:** [Coach Builders India](https://coachbuildersindia.com/only-bs6-permits-in-kerala/)
 
-**Source:** [KNS Kashmir,](https://www.knskashmir.com/jandk-assembly-passes-four-key-bills-199207) [Daily Excelsior](https://www.dailyexcelsior.com/assembly-passes-gst-amendment-bill-2025/)
+**Puducherry** eases **Restrictions under the Factories Act, 1984**. Women employees can now work in factories up to 10pm. Previously, women employees were permitted to work only till 7pm.
 
-**Punjab** approves **Key Policies**.
+**Source:** [Times of India](https://timesofindia.indiatimes.com/city/puducherry/now-women-in-puducherry-can-work-in-factories-until-10pm/articleshow/125187514.cms)
 
-The state approves the **Punjab Unified Building Rules, 2025**, which allows for the construction of stilt-plus-four floors in all new buildings coming up in urban areas. The state also gives approval for changes on stamp duty and registration fees on instruments of hypothecation and equitable mortgage by amending the **Indian Stamp Act, 1899 (Punjab) and Registration Fee Rules**. Lastly, the state approves the **Punjab Substance Use Disorder Treatment and Counselling and Rehabilitation Centres Rules, 2025,** replacing the existing 2011 rules to strengthen regulation of de-addiction and rehabilitation centers across Punjab.
-
-**Source:** [New Indian Express](https://www.newindianexpress.com/nation/2025/Oct/28/punjab-cabinet-gives-nod-for-stilt-plus-four-floors-in-all-new-buildings-in-urban-areas)
-
-**Tripura** approves the '**Chief Minister Balika Samriddhi Yojana' (Chief Minister Young Girl** **Prosperity Scheme)**. The scheme aims to discourage child marriage and encourage education. Under the scheme, up to two girl children of some of the poorest families in the state will receive a fixed deposit of \$562 (INR 50,000) each at birth. The amount can be claimed after the beneficiary turns 18, provided she has not been married before that age. The state also approves an additional 5 percent subsidy for women entrepreneurs. Women will be eligible for loans up to \$112,396 (INR 1 crore), while the subsidy cap for men remains at 30 percent.
-
-**Source:** [Tripura Info](https://tripurainfo.com/EnglishNews.aspx?intnid=3841&title=Tripura-cabinet-approves-scheme-for-woman-entrepreneurs--child-marriage-prevention)
-
-**In detail:** [Cabinet Decision](https://ica.tripura.gov.in/sites/default/files/3432_25.pdf)
-
-**Maharashtra** promotes the use of **Artificial Sand for Construction Activities**. The government has delegated powers to approve artificial sand, or M-Sand, to District Collectors, who can sanction up to 100 units, an increase from the earlier 50-unit cap. The new policy aims to reduce illegal sandmining in rivers.
-
-**Source:** [Economic Times](https://realty.economictimes.indiatimes.com/news/allied-industries/maharashtra-finalises-policy-to-promote-use-of-artificial-sand-in-construction/124888020)
-
-**In detail:** [Government Resolution](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510271824139319.pdf)
-
-**Goa** amends the **Goa Mineral Policy, 2013**. The new norms govern ore transportation rules during the monsoon season. Under the amendment, the monsoon period - earlier fixed from June 7 to September 2 - will now be determined by the government "from time to time."
-
-**Source:** [Digital Goa](https://digitalgoa.com/monsoon-ore-transportation-period-to-be-decided-by-govt-goa-mineral-policy-amended/)
-
-**In detail:** [Gazette Notification](https://goaprintingpress.gov.in/downloads/2526/2526-31-SI-OG.pdf)
+**In detail:** [Order](https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:a507c570-2a0b-4479-98ee-1414dbc585b6)
 
 **Water and Sanitation**
 
-Nothing critical to report this week.
+**Maharashtra** introduces the **Safe Reuse and Management of Treated Wastewater Policy, 2025.** The policy aims to reduce freshwater use by promoting treated wastewater for gardening, construction, firefighting, and industrial purposes.
+
+**Source:** [Free Press Journal](https://www.freepressjournal.in/mumbai/maharashtra-govt-unveils-policy-to-promote-reuse-of-treated-wastewater-across-cities)
+
+**In detail:** [Order](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510311714186625.pdf)
 
 **Center - State Relations**
 
-Nothing critical to report this week.
+The **Union government** asks the **Forum of Regulators to create a Tariff Determination Framework**. The Forum of Regulators, a joint body of central and state electricity regulatory commissions, will draft a tariff determination framework that can be applied to power transmission projects to be covered under the Union government's asset monetization program. The tariff framework will be adopted by all the state electricity regulators for promoting transmission assets monetization.
+
+**Source:** [Business Standard](https://www.business-standard.com/industry/news/power-ministry-tariff-framework-transmission-asset-monetisation-125110900204_1.html)
+
+**In detail:** [Concept Note](https://cea.nic.in/wp-content/uploads/notification/2025/11/Concept_note_on_revenue_certainty__Tax_incidence_during_Monetization_of_Transmission_Asset.pdf)
 
 **Any Other**
 
