@@ -3,9 +3,9 @@ layout: post
 breadcrumbs: newsletter
 is_newsletter: true
 content_type: newsletter
-title: "States Weekly Newsletter: January 21, 2026    "
-short_title: "States Weekly Newsletter: January 21, 2026    "
-date: 2026-01-21T00:00:00.000-05:00
+title: "States Weekly Newsletter: January 28, 2026    "
+short_title: "States Weekly Newsletter: January 28, 2026    "
+date: 2026-01-28T00:00:00.000-05:00
 tags:
   - "States Weekly "
   - "Health "
@@ -13,66 +13,95 @@ tags:
   - "Industrial Policy and Business Regulations  "
   - "Land Acquisition and Labor Regulations  "
   - Infrastructure and Governance
-excerpt: "Big News: Himachal Pradesh issues Determination of Generic Levelized
-  Tariffs for Solar PV Projects for Financial Year 2026-27; Madhya Pradesh
-  launches the Madhya Pradesh Space Tech Policy-2026; Bihar launches a
-  Single-Window System in the Industry Department; Tamil Nadu releases the Tamil
-  Nadu Circular Economy Investment Policy, 2026; Goa passes the Goa Land Revenue
-  Code (Amendment) Bill, 2026; and more.  "
+  - "Water and Sanitation "
+  - "Center – State Relations   "
+excerpt: >+
+  Big News: Odisha bans tobacco and nicotine products; Delhi simplifies
+  procedures for installing solar plants on agricultural land; Telangana
+  releases its Next-Gen Life Sciences Policy 2026–30; Rajasthan approves its
+  first Semiconductor Policy; Tamil Nadu passes the Tamil Nadu Water Resources
+  (Regulation, Management and Augmentation) Bill, 2026; and more.
+   
 states:
-  - Maharashtra
-  - Uttar Pradesh
+  - Odisha
+  - Delhi
   - Tamil Nadu
+  - Telangana
+  - Karnataka
   - Punjab
   - Kerala
-  - Karnataka
-  - Himachal Pradesh
-  - Bihar
-  - Odisha
+  - Uttarakhand
+  - Puducherry
+  - Rajasthan
+  - Assam
   - Goa
-  - Madhya Pradesh
-  - Chhattisgarh
-  - Haryana
-  - Tripura
-  - Delhi
-  - Andhra Pradesh
+  - Himachal Pradesh
+  - Jharkhand
 sectors:
   - Climate Change and Energy
   - Infrastructure and Governance
   - Land & Labor Laws
   - Industrial Policy and Business Regulations
   - Health
+  - Center-State Relations
+  - Water & Sanitation
 is_featured: false
 author:
   - Aryan D'Rozario
 ---
 **States Weekly Newsletter**
 
-**January 21, 2026**
+**January 28, 2026**
 
-**Big News: Himachal Pradesh** issues **Determination of** **Generic Levelized Tariffs for Solar PV Projects for Financial Year 2026-27; Madhya Pradesh** launches the **Madhya Pradesh Space Tech Policy-2026; Bihar** launches a **Single-Window System in the Industry Department; Tamil Nadu** releases the **Tamil Nadu Circular Economy Investment Policy, 2026; Goa** passes the **Goa Land Revenue Code (Amendment) Bill, 2026;** and more.
+**Big News: Odisha** bans **tobacco and nicotine products; Delhi** simplifies **procedures for installing solar plants on agricultural land; Telangana** releases its **Next-Gen Life Sciences Policy 2026-30; Rajasthan** approves its first **Semiconductor Policy; Tamil Nadu** passes the **Tamil Nadu Water Resources (Regulation, Management and Augmentation) Bill, 2026;** and more.
 
 **Health**
 
-**Maharashtra** launches **special menopause clinics across Pune**. The state plans to set up clinics every Wednesday across Maharashtra dedicated to menopause related symptoms.
+**Karnataka** includes **Intravenous Immunoglobulin (IVIG) therapy under the Ayushman Bharat Arogya Karnataka Health Insurance Scheme.** IVIG is used to treat the Guillain-Barré Syndrome (GBS).
 
-**Source:** [Indian Express](https://indianexpress.com/article/cities/pune/maharashtra-launches-special-menopause-clinics-hospitals-10473633/)
+**Source:** [Times of India](https://timesofindia.indiatimes.com/city/bengaluru/karnatakas-health-scheme-now-covers-expensive-guillain-barr-syndrome-care/articleshow/127034620.cms)
+
+**In detail:** [Karnataka Intravenous Immunoglobulin (IVIG) Therapy - Notification](https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:de230bf4-4606-4565-9c15-f8c0a7879e22)
+
+**Kerala** increases coverage cap for the **Medisep Medical Insurance Scheme.** The scheme is mainly for government employees, pensioners and their dependents. The scheme now offers free treatment coverage of up to \$5,450 (INR 5 lakh) per year, an increase from the earlier cap of \$3,270 (INR 3 lakh).
+
+**Source:** [Economic Times](https://economictimes.indiatimes.com/news/india/kerala-government-launches-medisep-phase-2-rs-5l-cover-for-staff-pensioners/articleshow/127016937.cms)
+
+**Odisha** bans **tobacco and nicotine products**. The policy imposes new rules ordering a complete ban on the manufacture, processing, packaging, storage, transportation, distribution and sale of all products containing tobacco or nicotine.
+
+**Source:** [Economic Times](https://economictimes.indiatimes.com/news/india/odisha-imposes-complete-ban-on-all-chewable-tobacco-nicotine-products/articleshow/127170900.cms)
+
+**In detail:** [Tobacco ban (1)](https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:41beb575-20e8-4929-a38c-8bf1aaf2219a) [& (2)](https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:ae39c6c1-21bd-4735-830d-b1af0907ed4a)
+
+**Punjab** launches the **'Mukh Mantri Sehat Yojna (MMSY)' (Chief Minister's Good Health Scheme).** The scheme extends free cashless medical treatment of up to \$10,907 (INR 10 lakh) to every family in the state.
+
+**Source:** [Times of India](https://timesofindia.indiatimes.com/city/chandigarh/aap-chief-arvind-kejriwal-punjab-cm-bhagwant-mann-roll-out-rs-10l-health-cover-now-plan-pind-clinics/articleshow/127188121.cms)
+
+**In detail:** [MukhMantriSehatYojna](https://sha.punjab.gov.in/shapunjab/index.php)
 
 **Climate Change and Energy**
 
-**Delhi** approves a **Carbon Credit Monetization Framework**. The framework aims to convert the city's green projects into revenue-generating assets to aid in controlling pollution levels and encouraging sustainability.
+**Delhi** simplifies **procedures for installing solar plants on agricultural land.** The government clarifies that elevated solar systems do not violate the Delhi Land Reforms Act, 1954, removing the need for "Change in Land Use" (CLU) applications. Under the clarified policy, farmers can now install elevated solar panels above their land without a CLU application.
 
-**Source:** [Mercom](https://www.mercomindia.com/delhi-government-to-generate-revenue-from-green-projects-using-carbon-credits)
+**Source:** [Times of India](https://timesofindia.indiatimes.com/city/delhi/delhi-govt-clears-legal-hurdles-for-solar-plants-on-farm-land/articleshow/127025275.cms)
 
-**Haryana** offers **subsidized electricity to Micro and Small Enterprises (MSEs)**. The new subsidized rate is \$0.022 (INR 2). Currently, industrial units in Haryana pay about \$0.076 (INR 6.95) per unit at standard industrial voltage levels.
+**Delhi** releases the **(DERC)** **Seventh Amendment to its Guidelines for Group Net Metering (GNM) and Virtual Net Metering (VNM).** The amendment, issued by the Delhi Electricity Regulatory Commission (DERC), aims to ensure that renewable energy, especially rooftop solar, becomes more accessible and affordable for consumers across Delhi. One of the key changes introduced through this amendment is the expansion of the Virtual Net Metering Framework.
 
-**Source:** [Times of India](https://timesofindia.indiatimes.com/city/gurgaon/electricity-tariff-slashed-to-rs-2-per-unit-for-micro-small-industries-in-haryana/articleshow/126512630.cms)
+**Source:** [Solar Quarter](https://solarquarter.com/2026/01/20/derc-seventh-amendment-expands-virtual-net-metering-2025-and-cuts-solar-adoption-costs-in-delhi/)
 
-**Himachal Pradesh** issues **Determination of** **Generic Levelized Tariffs for Solar PV Projects for Financial Year 2026-27**. The tariffs, issued by the Himachal Pradesh Electricity Regulatory Commission (HPERC), aim to promote the use of renewable energy. Under the new order, solar projects are classified based on their size and location, which determines the tariff they can be charged for the electricity they generate.
+**In detail:** [DERCDelhi Electricity Regulatory Commission (Group Net Metering and Virtual Net Metering for Renewable Energy) (Seventh Amendment) Guidelines, 2025](https://www.derc.gov.in/sites/default/files/Final%20DERC%20%28Group%20Net%20Metering%20and%20Virtual%20Net%20Metering%20for%20Renewable%20Energy%29%20%28Seventh%20Amendment%29%20Guidelines%2C%202025_1.pdf)
 
-**Source:** [Solar Quarter](https://solarquarter.com/2026/01/14/himachal-pradesh-sets-new-solar-tariffs-for-2026-27-ranging-from-%E2%82%B93-34-to-%E2%82%B93-52-per-unit-to-boost-renewable-energy/)
+**Tamil Nadu** announces a **"Repowering Policy" for windmills.** The policy states that for wind energy generators commissioned before April 1, 2016, the windmill owners must opt for repowering, refurbishment, or life extension on the completion of 20 years of operational life.
 
-**In detail:** [HPERC order](https://hperc.org/wp-content/uploads/2026/01/Orsolar26-27.pdf)
+**Source:** [The Hindu](https://www.thehindu.com/news/national/tamil-nadu/tn-releases-amended-policy-for-repowering-wind-mills/article70534637.ece)
+
+**In detail:** [Government order](https://www.tngecl.org/static/greenenergy/assets/files/linkpdf/latestnews/Lifeextpolicywindprojects.pdf)
+
+**Tamil Nadu** launches the **Tamil Nadu Renewable Energy Land Portal and Rooftop Solar Explorer (RTSE).** The portal aims to help investors easily identify and access land required for setting up solar and other renewable energy projects. The online platform aims to simplify procedures, reduce delays, and help speed up project implementation.
+
+**Source:** [New Indian Express](https://www.newindianexpress.com/states/tamil-nadu/2026/Jan/24/minister-ss-sivasankar-launches-new-portals-to-give-fillip-to-solar-energy-in-tn)
+
+**In detail:** [Press release](https://cms.tn.gov.in/cms_migrated/document/press_release/pr230126_186.pdf) (in Tamil)
 
 **Finance**
 
@@ -80,118 +109,82 @@ Nothing critical to report this week.
 
 **Industrial Policy and Business Regulations**  
 
-**Andhra Pradesh** launches the **Andhra Pradesh Cluster Development Program (APCDP)**. Under the new program, the state will set up 45 "Common Facility Centers" across existing Micro, Small and Medium Enterprises (MSME) clusters to support advanced manufacturing, testing, research and development, packaging and quality certification.
+**Uttarakhand** revises rules under the **Uttarakhand Tour and Travel Business Policy, 2014**. The policy mandates that all tourism-related businesses must register and renew their license every five years, including homestays which were earlier exempt.
 
-**Source:** [Construction World](https://www.constructionworld.in/policy-updates-and-economic-news/andhra-pradesh-launches-cluster-drive-to-boost-msmes/84581)
+**Source:** [Indian masterminds](https://indianmasterminds.com/news/uttarakhand-homestay-rules-update-rural-tourism-5-year-renewal-178998/)
 
-**In detail:** [AP Cluster Development Program (APCDP) Policy](https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:c5491cc1-f2f6-4d53-ac8f-5634cccccdec)
+**Telangana** releases its **Next-Gen Life Sciences Policy 2026-30**. The policy outlines Telangana's approach to its role in global healthcare, therapeutics, and bio-manufacturing. The policy signals a shift from scale-based manufacturing to innovation-led growth and positions Telangana as an integrated life sciences hub spanning discovery, development and deployment. It aims to attract USD 25 billion in investments, create 500,000 jobs, and strengthen integration into global life sciences value chains.
 
-**Andhra Pradesh** issues **Amendments to AP Excise (Grant of License of Selling by Bar and Conditions of License) Rules 2025**. The amendments abolish the Additional Retail Excise Tax (ARET) imposed on bars. The new guidelines came into effect on January 13, 2026.
+**Source:** [Express Healthcare](https://www.expresshealthcare.in/news/telangana-unveils-next-gen-life-sciences-policy-2026-30-at-davos/452466/)
 
-**Source:** [Times of India](https://timesofindia.indiatimes.com/city/vijayawada/ap-govt-abolishes-additional-retail-excise-tax-on-bars/articleshow/126510810.cms)
-
-**In detail:** [Amendments to AP Excise (Grant of License of Selling by Bar and Conditions of License) Rules 2025](https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:79d0d6ea-4e60-4b6f-9115-1b64c7109fe6)
-
-**Bihar** launches a **Single-Window System in the Industry Department**. The system allows investors to access all approvals, incentives, and information online, eliminating the need to visit multiple offices. The Industry Department's online portal provides information on land allotment, subsidy distribution, inspections, and other essential industrial procedures.
-
-**Source:** [Indian masterminds](https://indianmasterminds.com/news/bihar-single-window-digital-system-investor-approvals-177081/)
-
-**Delhi** announces the **Delhi Startup Policy 2025**. The policy contains a \$38.52 million (INR 350 crore) five-year plan to back student entrepreneurs with equity-free seed funding, mentorship, investor access, and expanded incubation targeting 5000 startups by 2035.
-
-**Source:** [NDTV](https://www.ndtv.com/education/delhi-education-minister-launches-rs-350-crore-policy-to-support-student-entrepreneurs-10749582)
-
-**In detail:** [Draft Delhi Startup Policy 2025](https://industries.delhi.gov.in/sites/default/files/Industries/marquee-files/draft_delhi_startup_policy.pdf)
-
-**Haryana** launches a portal for the **normalization of factories operating outside designated industrial zones**. Factory clusters can now apply through the portal to obtain legal recognition, enabling them to apply for economic schemes and access civic facilities. Under the scheme, a cluster comprising 50 or more factories established on a minimum of 10 acres of land at a single site can collectively apply for recognition.
-
-**Source:** [The Tribune](https://www.tribuneindia.com/news/haryana/govt-launches-portal-to-regularise-factories-outside-industrial-zones/)
-
-**In detail:** [Portal](https://tcpharyana.gov.in/RUIC)
-
-**Madhya Pradesh** launches the **Madhya Pradesh Space Tech Policy-2026**. The policy aims to support startups, Micro, Small and Medium Enterprises (MSMEs), and industries through financial, infrastructural, and research assistance for space-based applications in agriculture, disaster management, water resources, and urban planning.
-
-**Source:** [Indian masterminds](https://indianmasterminds.com/news/madhya-pradesh-ai-policy-spacetech-policy-2026-177095/)
-
-**In detail:** [Draft Madhya Pradesh SpaceTech Policy](https://mpsedc.mp.gov.in/Uploaded%20Document/UpcomingEvents/03092025025820MP%20SpaceTech%20Policy%202025%20Draft.pdf)
-
-**Tamil Nadu** releases the **Tamil Nadu Circular Economy Investment Policy, 2026**. The policy provides a package of incentives for recycling facilities and technology enablers/platform entities. Companies fulfilling certain criteria would be eligible for the special package of incentives.
-
-**Source:** [The Hindu](https://www.thehindu.com/news/national/tamil-nadu/cm-stalin-releases-tamil-nadu-circular-economy-policy-and-warehousing-policy/article70504883.ece)
-
-**In detail:** [Press release](https://cms.tn.gov.in/cms_migrated/document/press_release/pr130126_106.pdf)
-
-**Goa** launches an **airline incentive scheme for one year to attract more flights and strengthen air connectivity to the state.** Under the scheme, airlines introducing additional flights or new routes to Goa will receive an incentive of around \$2,201 (INR 2 lakh) per flight, including new connecting routes.
-
-**Source:** [Herald Goa](https://www.heraldgoa.in/goa/goa-finalises-%E2%82%B92-crore-airline-incentive-scheme-to-boost-flights-at-dabolim-and-mopa-airports-cm-sawant/461033/)
-
-**Tripura** launches their **"Marketing Didi Policy."** The policy aims at strengthening market linkages and expanding opportunities for women-led enterprises. The policy, introduced last month by the Tripura Rural Livelihood Mission (TRLM), seeks to provide self-help group (SHG) members-popularly known as 'didi's'-with structured support in brand building, digital outreach, and access to wider consumer markets.
-
-**Source:** [North East Today](https://northeasttoday.in/northeast/tripura-launches-marketing-didi-policy-to-empower-women-entrepreneurs/)
+**In detail:** [Press Release](https://www.telangana.gov.in/news/press-releases/2026/01/%E0%B0%A6%E0%B0%BE%E0%B0%B5%E0%B1%8B%E0%B0%B8%E0%B1%8D-%E0%B0%B5%E0%B1%87%E0%B0%A6%E0%B0%BF%E0%B0%95%E0%B0%97%E0%B0%BE-%E0%B0%A4%E0%B1%86%E0%B0%B2%E0%B0%82%E0%B0%97%E0%B0%BE%E0%B0%A3-%E0%B0%AA/)
 
 **Land Acquisition and Labor Regulations**  
 
-**Karnataka** modernizes **land governance in the Kodagu region via the Karnataka Land Revenue (Second Amendment) Act, 2025**. By amending land revenue laws, the state aims to address documentation problems related to Jamma Bane (wetlands and forested highlands). The aim of the policy is to benefit indigenous communities by ensuring clear ownership records and easier access to legal and financial services.
+**Karnataka** launches an "**Auto Land Conversion System" for renewable energy (RE) projects.** Renewable energy projects do not require land conversion approval in the state and applications for projects must be processed within 30 days. If a District Commissioner does not approve an online application within this period, the land conversion will be automatically approved through the new online system.
 
-**Source:** [Adda](https://currentaffairs.adda247.com/karnataka-reforms-jamma-bane-land-records-to-fix-decades-old-issues-in-kodagu/)
+**Source:** [New Indian Express](https://www.newindianexpress.com/states/karnataka/2026/Jan/24/karnataka-govt-rolls-out-auto-land-conversion-system-for-renewable-energy-projects)
 
-**In detail:** [Karnataka Land Revenue (Second Amendment) Act, 2025](https://prsindia.org/files/bills_acts/bills_states/karnataka/2025/Bill61of2025KA.pdf)
+**Tamil Nadu** announces **pension increases from \$37 (INR 3,400) from \$21.8 (INR 2,000) per month.** The new pension increases benefit noon meal organizers (school food preparation workers), 'Anganwadi' workers (community health staff), and 'panchayat' (local government) secretaries.
+
+**Source:** [Deccan Herald](https://www.deccanherald.com/india/tamil-nadu/tamil-nadu-cm-announces-hike-in-pension-retirement-benefits-for-noon-meal-organisers-anganwadi-workers-3873492)
+
+**In detail:** [Press release](https://cms.tn.gov.in/cms_migrated/document/press_release/pr240126_188.pdf) (in Tamil)
+
+**Puducherry** increases **cap on housing subsidies.** The government has decided to increase the subsidy component to \$7,635 (INR 7 lakh) for Scheduled Caste (SC) and to \$6,817 (INR 6.25 lakh) for general category beneficiaries for the construction of houses in the Union Territory.
+
+**Source:** [The Hindu](https://www.thehindu.com/news/cities/puducherry/puducherry-government-increases-housing-subsidy-for-people-from-scheduled-caste-general-category/article70552234.ece)
 
 **Infrastructure and Governance**
 
-**Bihar** mandates **geospatial approval for all infrastructure projects with an estimated cost of more than \$5.5 million (INR 50 crore)**. Under the new policy, every Detailed Project Report (DPR) for large infrastructure schemes must receive technical clearance from the Bihar Remote Sensing Application Center (BIRSAC) before financial approval is granted.
+**Rajasthan** clarifies rules on **child marriages**. The rules clarify that a male below 21 years of age and a female below 18 years of age will fall under the category of child marriage.
 
-**Source:** [Patna press](https://patnapress.com/bihar-geospatial-clearance-birsac-infrastructure-projects/)
+**Source:** [Patrika](https://www.patrika.com/en/jaipur-news/rajasthan-government-decides-marriage-age-100-electricity-bill-discount-for-certain-groups-major-decisions-by-bhajan-al-cabinet-20285701)
 
-**Haryana** introduces **age-limits on school admissions**. Admission to Grade 1 in Haryana will strictly require a child to have completed six years of age from the 2026-27 academic session onwards. The decision complies with the National Education Policy (NEP) 2020.
+**In detail:** [Cabinet decisions](https://cmo.rajasthan.gov.in/pressreleasedetail/232508)
 
-**Source:** [Times of India](https://timesofindia.indiatimes.com/city/gurgaon/no-more-relaxation-haryana-to-enforce-6-year-age-norm-for-class-1-admission/articleshow/126590926.cms)
+**Rajasthan** approves its first **Semiconductor Policy**. This policy focuses on providing attractive incentives to projects approved under the India Semiconductor Mission.
 
-**Goa** passes the **Goa School Education (Amendment) Bill, 2026**. The bill adopts the National Education Policy (NEP) 2020's minimum age for admission to Grade 1 to six years (as of June 1, 2026), replacing the previous threshold of five-and-a-half years.
+**Source:** [Patrika](https://www.patrika.com/en/jaipur-news/rajasthan-government-decides-marriage-age-100-electricity-bill-discount-for-certain-groups-major-decisions-by-bhajan-al-cabinet-20285701)
 
-**Source:** [Digital Goa](https://digitalgoa.com/goa-legislative-assembly-clears-key-amendment-to-5-bills/)
+**In detail**: [Cabinet decisions](https://cmo.rajasthan.gov.in/pressreleasedetail/232508)
 
-**In detail:** [The Goa School Education (Amendment) Bill, 2026](https://static.goavidhansabha.gov.in/goalpub/docs/bills/1423_field_BN6OF2026-AI.pdf)
+**Assam** launches the **'Atal Vichal Agragami Assam Scheme' (Atal Visionary Leader Assam Scheme)**. The state will provide monthly financial assistance of \$272.6 (INR 25,000) to research scholars, while some research scholars will receive a higher stipend of \$436 (INR 40,000) per month.
 
-**Chhattisgarh** announces a **3 percent hike in Dearness Allowance (DA) for state government employees.** The decision takes the total DA to 58 percent of basic pay.
+Source: [Economic Times](https://education.economictimes.indiatimes.com/news/government-policies/assam-govt-announces-rs-25000-financial-assistance-for-research-scholars/126993842)
 
-**Source:** [CNBC](https://www.cnbctv18.com/personal-finance/chhattisgarh-da-hike-3-pc-increase-who-benefits-what-changes-salary-ws-l-19818930.htm)
+**Goa** retains the **"No-detention Policy" for students of grade V and VIII for the academic year 2026-27.** The policy ensures that no child will be held back on account of academic underperformance.
 
-**Goa** passes the **Goa Mundkars (Protection from Eviction) (Amendment) Bill, 2026.** The bill strengthens tenant protections by prohibiting landlords (Bhatkars) from selling properties containing a tenant farmer (Mundkars) dwelling to anyone else without the Mundkar's explicit consent.
+**Source:** [Goemkarponn](https://goemkarponn.com/no-detention-policy-to-stay-for-classes-v-viii-in-goa-next-academic-year/)
 
-**Source:** [Digital Goa](https://digitalgoa.com/goa-legislative-assembly-clears-key-amendment-to-5-bills/)
+**Himachal Pradesh** approves an **"Orphan and Widow" cess on gas purchases**. The cess will be applied on petrol and high-speed diesel at the point of first sale within the state. The new policy aims to generate additional funds to strengthen welfare schemes benefiting orphans and widows.
 
-**In detail**: [The Goa Mundkars (Protection from Eviction) (Amendment) Bill, 2026](https://static.goavidhansabha.gov.in/goalpub/docs/bills/1430_field_BN09OF2026-AI.pdf)
+**Source:** [The Hindu](https://www.thehindu.com/news/national/himachal-pradesh/himachal-cabinet-gives-nod-to-levy-orphan-and-widow-cess-on-petrol-high-speed-diesel/article70525457.ece)
 
-**Goa** passes the **Goa Land Revenue Code (Amendment) Bill,** **2026.** This bill reduces the mandatory time for disposing of land conversion applications from 60 days to 45 days with the aim of improving the ease of doing business.
+**In detail:** [Cabinet decisions](http://www.himachalpr.gov.in/OneNews.aspx?Language=1&ID=45049)
 
-**Source:** [Digital Goa](https://digitalgoa.com/goa-legislative-assembly-clears-key-amendment-to-5-bills/)
+**Jharkhand** approves the **Jharkhand Coaching Center (Control and Regulation) Bill, 2025.** The bill provides for the registration, control, regulation, and determination of minimum standards for coaching centers in the state.
 
-**In detail:** [The Goa Land Revenue Code (Amendment) Bill, 2026](https://static.goavidhansabha.gov.in/goalpub/docs/bills/1431_field_BN08OF2026-AI.pdf)
-
-**Goa** passes the **Goa Panchayat Raj (Amendment) Bill,** **2026**. The amendment allows local Member of Legislative Assembly (MLA) representatives and 'Zilla Panchayat' (local government) members to attend and deliberate in 'Gram Sabhas' (local assemblies) within their constituencies and provides legal protection against the demolition of old buildings reflected in original land records.
-
-**Source:** [Digital Goa](https://digitalgoa.com/goa-legislative-assembly-clears-key-amendment-to-5-bills/)
-
-**In detail:** [The Goa Panchayat Raj (Amendment) Bill, 2026](https://static.goavidhansabha.gov.in/goalpub/docs/bills/1426_field_BN07OF2026-AI.pdf)
-
-**Goa** passes the **Goa Agricultural Produce and Livestock Marketing (Promotion & Facilitation) (Amendment) Bill,** **2026.** This bill updates marketing regulations to better facilitate the trade of livestock and agricultural produce while streamlining licensing procedure for traders and market yards.
-
-**Source:** [Digital Goa](https://digitalgoa.com/goa-legislative-assembly-clears-key-amendment-to-5-bills/)
-
-**In detail:** [The Goa Agricultural Produce and Livestock Marketing (Promotion & Facilitation) (Amendment) Bill, 2026](https://static.goavidhansabha.gov.in/goalpub/docs/bills/1429_field_BN10OF2026-AI.pdf)
-
-**Himachal Pradesh** mandates the **implementation of the SAMARTH portal for all 'gram panchayats' (local assemblies) in the state.** The SAMARTH portal has been developed by the Union government to enable end-to-end digitization of tax and non-tax revenues at the gram panchayat level.
-
-**Source:** [Indian Express](https://indianexpress.com/article/cities/chandigarh/himachal-govt-samarth-portal-mandatory-implementation-panchayats-10479852/)
+**Source:** [Times of India](https://timesofindia.indiatimes.com/city/ranchi/jharkhand-coaching-centre-regulation-bill-2025-gets-governors-nod-new-rules-for-coaching-%20institutes/articleshow/126846252.cms)
 
 **Water and Sanitation**
 
-Nothing critical to report this week.
+**Tamil Nadu** passes the **Tamil Nadu Water Resources (Regulation, Management and Augmentation) Bill, 2026**. The bill provides for a Constitution of the Tamil Nadu Water Resources Management Authority (TNWRMA), district committees, and the formulation of State and District Water Resources Management Plans.
+
+**Source:** [The Hindu](https://www.thehindu.com/news/national/tamil-nadu/assembly-passes-bill-to-set-up-tamil-nadu-water-resources-management-authority/article70545871.ece)
+
+**In detail:** [Tamil Nadu Water Resources (Regulation, Management and Augmentation) Bill, 2026](https://www.stationeryprinting.tn.gov.in/extraordinary/2026/32A_Ex_IV_1_T_2026.pdf) (in Tamil)
 
 **Center - State Relations**
 
-Nothing critical to report this week.
+**The Union government** releases a draft **National Electricity Policy, 2026**. The policy proposes strict norms for power tariff determination, a framework for sweeping structural reforms to improve the financial health of discoms, financing requirements, and suggestions on long-term generation and transmission planning.
+
+**Source:** [Economic Times](https://energy.economictimes.indiatimes.com/news/power/govt-unveils-draft-national-electricity-policy-2026-with-focus-on-tariffs-discom-health/127070624)
+
+**In detail:** [Draft Electricity Policy, 2026](https://powermin.gov.in/sites/default/files/webform/notices/Seeking_comments_on_Draft_National_Electricity_Policy_2026.pdf)
 
 **Any Other**
 
-Nothing critical to report this week.
+**Karnataka** issues **draft rules specifying the quotas for Overseas Citizen of India (OCI) cardholders in medical education**. As per the draft, OCI's born on or before March 4, 2021, or being a OCI cardholder before the said date, will not be entitled for any reservation that is applicable to a citizen of India.
+
+**Source:** [Deccan Herald](https://www.deccanherald.com/india/karnataka/new-draft-rules-for-oci-quota-in-medical-education-3872942)
