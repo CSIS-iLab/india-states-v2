@@ -3,9 +3,9 @@ layout: post
 breadcrumbs: newsletter
 is_newsletter: true
 content_type: newsletter
-title: "States Weekly Newsletter: December 31, 2025 "
-short_title: "States Weekly Newsletter: December 31, 2025 "
-date: 2025-12-31T00:00:00.000-05:00
+title: "States Weekly Newsletter: January 14, 2026    "
+short_title: "States Weekly Newsletter: January 14, 2026    "
+date: 2026-01-14T00:00:00.000-05:00
 tags:
   - "States Weekly "
   - "Health "
@@ -15,25 +15,21 @@ tags:
   - Infrastructure and Governance
   - "Water and Sanitation "
   - "Center – State Relations   "
-excerpt: "Big News: Delhi continues “No Pollution Under Control (PUC), No Fuel”
-  Policy; Gujarat announces the Integrated Renewable Energy Policy, Pumped
-  Storage Project Policy, and Green Hydrogen Policy; Karnataka notifies the
-  Karnataka Land Revenue (Amendment) Rules, 2025; Haryana passes the Haryana
-  Shops and Commercial Establishments (Amendment) Act, 2025; and more."
+excerpt: "Big News: Maharashtra digitizes and lays down procedures for new
+  electricity connections; Uttar Pradesh approves Rules, 2025 for the Uttar
+  Pradesh Global Capability Centers (GCC) Policy, 2024; Tamil Nadu approves the
+  Tamil Nadu Deep Tech Startup Policy, 2025-26; Punjab approves the Punjab
+  Private Digital Open Universities Policy, 2026; and more. "
 states:
-  - Delhi
-  - Gujarat
-  - Karnataka
-  - Haryana
-  - Andhra Pradesh
-  - Rajasthan
-  - Kerala
-  - Odisha
+  - Maharashtra
   - Uttar Pradesh
-  - West Bengal
-  - Jharkhand
-  - Uttarakhand
+  - Tamil Nadu
+  - Punjab
+  - Kerala
+  - Karnataka
   - Himachal Pradesh
+  - Bihar
+  - Odisha
 sectors:
   - Center-State Relations
   - Climate Change and Energy
@@ -48,59 +44,47 @@ author:
 ---
 **States Weekly Newsletter**
 
-**December 31, 2025**
+**January 14, 2026**
 
-**Big News: Delhi** continues "**No Pollution Under Control (PUC), No Fuel" Policy; Gujarat** announces the **Integrated Renewable Energy Policy, Pumped Storage Project Policy,** and **Green Hydrogen Policy; Karnataka** notifies the **Karnataka Land Revenue (Amendment) Rules, 2025; Haryana** passes the **Haryana Shops and Commercial Establishments (Amendment) Act, 2025;** and more.
+**Big News: Maharashtra** digitizes and lays down procedures for **new electricity connections; Uttar Pradesh** approves **Rules, 2025 for the Uttar Pradesh Global Capability Centers (GCC) Policy, 2024; Tamil Nadu** approves the **Tamil Nadu Deep Tech Startup Policy, 2025-26; Punjab** approves the **Punjab Private Digital Open Universities Policy, 2026;** and more.
 
 **Health**
 
-**Andhra Pradesh** approves **surgical procedures performed by Ayurveda practitioners**. 58 surgical procedures, including wound debridement, abscess drainage, skin grafting, suturing, and the treatment of piles, fissures, etc. have been approved by the Health Department for Ayurveda practitioners to perform.
+**Karnataka** orders implementation of the Supreme Court's **uniform mental health guidelines for educational institutions within six months**. In July 2025, the Supreme Court laid down a detailed 15-point framework applicable nationwide. As per these norms, every institution with 100 or more enrolled students is required to appoint at least one qualified counselor, psychologist, or social worker trained in child mental healthcare.
 
-**Source:** [The South First](https://thesouthfirst.com/andhrapradesh/andhra-pradesh-allows-ayurveda-practitioners-to-perform-surgeries-ima-raises-objections/)
+**Source:** [News First Prime](https://newsfirstprime.com/karnataka/karnataka-orders-mandatory-mental-health-framework-in-all-educational-institutions-10981599)
+
+**In detail:** [Karnataka Government Notification](https://hed.karnataka.gov.in/uploads/media_to_upload1764582927.pdf)
+
+**Karnataka** expands its **menstrual cup distribution scheme for students**. The government has decided to expand the scheme statewide, extending a pilot initiative that was earlier implemented in only a few districts. The scheme aims to reduce the state's dependence on disposable sanitary napkins and lower long-term expenditure on menstrual hygiene products in government schools and colleges.
+
+**Source:** [The News Minute](https://www.thenewsminute.com/karnataka/karnataka-free-menstrual-cups-at-govt-schools-colleges-from-next-academic-year)
+
+**In detail:** [Karnataka Government Order](https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:b330a407-b378-4b95-9c2d-f1b5d8c0d44b)
+
+**Kerala** releases **comprehensive guidelines (SOP) for antibiotic-smart hospitals**. As part of the anti-microbial resistance (AMR) prevention initiative, hospitals will now be assigned color codes based on compliance with set standards. These codes will also form the basis for hospital accreditation. The new accreditation system will certify antibiotic-smart hospitals, AMR-compliant hospitals, and antibiotic-literate local bodies.
+
+**Source:** [Deshabhimani](https://www.deshabhimani.com/deshabhimani-english-/kerala-news/kerala-sop-antibiotic-smart-hospitals-29607)
+
+**In detail:** [Press release](https://minister-health.kerala.gov.in/%E0%B4%86%E0%B4%A8%E0%B5%8D%E0%B4%B1%E0%B4%BF%E0%B4%AC%E0%B4%AF%E0%B5%8B%E0%B4%9F%E0%B5%8D%E0%B4%9F%E0%B4%BF%E0%B4%95%E0%B5%8D-%E0%B4%B8%E0%B5%8D%E0%B4%AE%E0%B4%BE%E0%B4%B0%E0%B5%8D%E0%B4%9F/)
 
 **Climate Change and Energy**
 
-**Delhi** issues **Draft Amendments for DERC (Group Net Metering and Virtual Net Metering for Renewable Energy) Guidelines, 2019.** The Draft Amendments, issued by the Delhi Electricity Regulatory Commission (DERC), expand the applicability of virtual net metering (VNM) to all consumers, including single-point-of-supply consumers.
+**Bihar** releases **BERC (Deviation Settlement Mechanism and Related Matters) Regulations, 2025.** The regulations, issued by the Bihar Electricity Regulatory Commission (BERC), clarify that the states' two power distribution companies are distinct entities, and each must design and implement their schedule independently.
 
-**Source:** [Mercom](https://www.mercomindia.com/derc-proposes-changes-to-group-and-virtual-net-metering-rules)
+**Source:** [Mercom](https://www.mercomindia.com/bihar-notifies-deviation-settlement-mechanism-regulations-2025)
 
-**In detail:** [Delhi Electricity Regulatory Commission (Group Net Metering and Virtual Net Metering for Renewable Energy) (Seventh Amendment) Guidelines, 2025](https://www.derc.gov.in/sites/default/files/Draft%20DERC%20%28Group%20Net%20Metering%20and%20Virtual%20Net%20Metering%20for%20Renewable%20Energy%29%20%28Seventh%20Amendment%29%20Guidelines%2C%202025_1.pdf)
+**In detail:** [BERC (Deviation Settlement Mechanism and Related Matters) Regulations, 2025](https://berc.co.in/rules-requlations/regulations/individual-regulation/3225-bihar-electricity-regulatory-commission-deviation-settlement-mechanism-and-related-matters-regulations-2025-statement-of-reasons#1)
 
-**Delhi** continues "**No Pollution Under Control (PUC), No Fuel" Policy**. The Environment Department said vehicles without a valid PUC certificate will not be allowed to operate in Delhi, adding that anti-pollution measures will remain in force even as curbs under GRAP-IV are eased. Vehicles entering Delhi from outside the city that do not meet Bharat Stage VI (BS6) Emission Standards will also face these restrictions.
+**Himachal Pradesh** releases **Draft Himachal Pradesh Electricity Regulatory Commission (Himachal Pradesh Electricity Grid Code) Regulations, 2025**. The regulations, issued by the Himachal Pradesh Electricity Regulatory Commission (HPERC), aim at modernizing the state's power system operations and aligning them with national standards. This new framework will replace the previous 2008 regulations.
 
-**Source:** [Economic Times,](https://energy.economictimes.indiatimes.com/news/oil-and-gas/no-puc-no-fuel-policy-to-continue-in-delhi-even-after-grap-iv-easing-manjinder-singh-sirsa/126139812) [Times of India](https://timesofindia.indiatimes.com/city/delhi/no-fuel-without-pucc-non-bs6-vehicles-barred-delhi-makes-grap-4-rules-permanent-as-aqi-worsens-1st-e-waste-park-approved/articleshow/126211460.cms)
+**Source:** [Solar Quarter](https://solarquarter.com/2026/01/06/himachal-pradesh-unveils-2025-grid-code-to-modernize-state-electricity-operations-and-enhance-reliability/)
 
-**In detail:** [Govt Notification](https://environment.delhi.gov.in/sites/default/files/environment/circulars-orders/kaagaz_20251217_202240905202.pdf)
+**In detail:** [Draft Himachal Pradesh Electricity Grid Code Regulations, 2025](https://hperc.org/wp-content/uploads/2025/12/dgridcode25.pdf)
 
-**Gujarat** announces the **Integrated Renewable Energy Policy, Pumped Storage Project Policy, and Green Hydrogen Policy.** The aim of these three policies is to support an integrated renewable energy ecosystem, with the green hydrogen roadmap aiming to generate \$55.6 billion (INR 5 lakh crore) in investments and 600,000 jobs by 2030, while pumped storage projects are expected to attract \$8.35 billion (INR 75,000 crore) in investments.
+**Maharashtra** digitizes and lays down procedures for **new electricity connections**. To ensure compliance with the Maharashtra Electricity Regulatory Commission's (MERC) guidelines for new electricity connections: three days in metropolitan areas, seven days in urban areas, and fifteen days in rural areas, the Maharashtra State Electricity Distribution Company Limited (MSEDCL) has introduced procedural reforms supported by digitizing the entire process. The aim is to ensure that there are no delays in new electricity connections being installed.
 
-**Source:** [Hindu Business Line](https://www.thehindubusinessline.com/economy/gujarat-rolls-out-3-clean-energy-policies-eyes-5-lakh-crore-investments-in-green-hydrogen-re/article70436420.ece)
-
-**In detail**: [Gujarat Integrated Renewable Energy Policy 2025,](https://drive.google.com/file/d/1Xj2I-p87AV1pCDdajrBaXngOL29wiNgq/view) [Gujarat Green Hydrogen Policy 2025,](https://drive.google.com/file/d/1dLOoTuQVVx3PkfOao6BhGpHRayVQTMww/view) [Gujarat Pumped Storage Project Policy 2025](https://drive.google.com/file/d/1H3sjkkFDrLEJaj7Lv6qPG1ILroIvxMxa/view)
-
-**Karnataka** issues **Draft KERC (Roadmap for Reducing Cross Subsidy and Cross Subsidy Surcharge) Regulations, 2025.** The Draft Regulations, issued by the Karnataka Electricity Regulatory Commission (KERC) propose new regulations aimed at reducing cross-subsidies and cross-subsidy surcharges in the state in compliance with the Electricity Act, 2003, and the National Tariff Policy, which mandate that state commissions progressively align electricity tariffs with the actual cost of supply.
-
-**Source:** [Solar Quarter](https://solarquarter.com/2025/12/19/kerc-proposes-draft-regulations-to-gradually-reduce-cross-subsidies-and-align-electricity-tariffs-in-karnataka/)
-
-**In detail:** [Draft Karnataka Electricity Regulatory Commission (Roadmap for Reducing CrossSubsidy and Cross Subsidy Surcharge) Regulations, 2025](https://kerc.karnataka.gov.in/uploads/media_to_upload1766121500.pdf)
-
-**Rajasthan** issues **RERC's approval of the Draft Procedure for Grant of Green Energy Open Access.** Issued by the Rajasthan Electricity Regulatory Commission (RERC), the procedures aim to grant Green Energy Open Access in the state.
-
-**Source:** [Solar Quarter](https://solarquarter.com/2025/12/16/rerc-approves-detailed-procedure-for-green-energy-open-access-in-rajasthan/)
-
-**Kerala** issues **order on approval of Threshold Limit for Tariff Based Competitive Bidding in Intra-State Transmission Projects**. The Kerala State Electricity Regulatory Commission (KSERC) has ruled that intrastate power transmission projects costing above \$28.2 million (INR 250 crore) must be executed through the Tariff-Based Competitive Bidding (TBCB) route.
-
-**Source:** [Mercom](https://www.mercomindia.com/kerala-mandates-bidding-for-intrastate-transmission-projects-above-%E2%82%B92-5-million)
-
-**In detail:** [KSERC order](https://dev.erckerala.org/api/storage/orders/IN1jV33alM5baowQD75fo09KZbAqDZN04pXtpp52.pdf)
-
-**Odisha** defers **"No Pollution Under Control (PUC), No Fuel" Certificate**. The rule will now come into force on February 1, 2026, instead of January 1, 2026. The decision to defer the implementation was taken to give vehicle owners more time in obtaining PUC certificates.
-
-**Source:** [Sambad](https://sambadenglish.com/latest-news/no-puc-certificate-no-petrol-rule-in-odisha-to-be-implemented-from-february-1-2026-sta-10943212/amp)
-
-**Odisha** approves **"MMSBY - Installation of Smart Meters Phase-I" Policy.** The policy aims to accelerate the rollout of 100 percent smart metering across the state while protecting low-end electricity consumers from additional costs.
-
-**Source:** [Odisha bytes](https://odishabytes.com/odisha-cabinet-approves-smart-meter-phase-i-waives-rent-for-87-consumers/)
+**Source:** [Indian Express](https://indianexpress.com/article/cities/pune/msedcl-introduces-new-system-for-timely-new-electricity-connections-10457048/)
 
 **Finance**
 
@@ -108,88 +92,74 @@ Nothing critical to report this week.
 
 **Industrial Policy and Business Regulations**  
 
-**Karnataka** notifies **Karnataka Land Revenue (Amendment) Rules, 2025**. The rules exempt renewable energy projects and small-scale industries from obtaining prior permission to operate on agricultural land.
+**Uttar Pradesh** approves **Rules, 2025 for the Uttar Pradesh Global Capability Centers (GCC) Policy. 2024.** Under the rules, a GCC is defined as a captive unit established by an Indian or foreign company to deliver strategic functions such as IT, R&D, finance, HR, design, engineering, analytics, and knowledge services. To attract GCCs, the policy offers a broad incentive package, including land and stamp duty subsidies, capital and interest support, payroll and recruitment incentives, skilling and talent development support, and other case-specific benefits.
 
-Source: [Deccan Herald](https://www.deccanherald.com/india/karnataka/new-rules-to-ease-non-agricultural-use-of-farmlands-in-karnataka-3842112)
+**Source:** [Var India](https://www.varindia.com/news/up-cabinet-clears-sop-2025-for-gcc-policy-boosts-global-service-hub-push)
 
-In detail: [Karnataka Land Revenue (Amendment Bill), 2025](https://prsindia.org/files/bills_acts/bills_states/karnataka/2025/Bill11of2025KA.pdf)
+**In detail:** [Cabinet Decision](https://information.up.gov.in/admin/UploadDocument/OtherPress/compressed_06012026072605PN-CM-Cabinet%20Decisions-06%20January,%202026.pdf)
 
-**Rajasthan** publishes new **Urban Area Regulations, 2025**. This new regulatory framework aims to govern development on hilly terrain within city limits. The policy lays down clear slope-based categories, construction limits, and land-size requirements, aiming to prevent unregulated growth while allowing limited, planned use of hill areas.
+**Tamil Nadu** approves the **Tamil Nadu Deep Tech Startup Policy, 2025-26**. The policy aims to accelerate the innovation and commercialization of advanced technologies and earmarks \$11.08 billion (INR 9970 crore) to back 100 startups and strengthen the innovation ecosystem.
 
-**Source:** [Pink City Post](https://www.pinkcitypost.com/rajasthan-moves-to-regulate-construction-on-urban-hills-under-new-policy/)
+**Source:** [Electronics for You Business](https://www.electronicsforyou.biz/industry-buzz/tamil-nadu-launches-indias-first-deeptech-startup-policy/)
 
-**In detail:** [Hill Policy](https://udh.rajasthan.gov.in/content/dam/raj/udh/udh%20department/pdf/News/Draft%20Hill%20Byelaws%202024%20press%20note.pdf)
-
-**Uttar Pradesh** launches the **Meetings, Incentives, Conferences and Exhibitions (MICE) Incentive Scheme.** The scheme aims to connect the state's Micro, Small, and Medium Enterprises (MSMEs) with national and international markets. This scheme is a part of the Uttar Pradesh Export Promotion Policy 2025-2030. Under the scheme, financial assistance of \$77.9 (INR 7,000) per foreign participant or up to a maximum of \$6,680 (INR 6 lakh) per event will be provided for organizing MICE programs.
-
-**Source:** [Hans](https://www.thehansindia.com/uttarpradesh/yogi-governments-major-initiative-mice-incentive-scheme-to-provide-a-global-platform-for-msmes-1032289)
-
-**In detail:** [Uttar Pradesh Export Promotion Policy 2025-2030](https://invest.up.gov.in/wp-content/uploads/2025/11/UPEPP-2025-30_181125.pdf)
-
-**West Bengal** issues a **West Bengal Mini Cinema Policy**. The policy aims to accelerate the growth of the film industry, particularly in suburban and rural areas.
-
-**Source:** [Millennium post](https://www.millenniumpost.in/bengal/bengal-unveils-mini-cinema-policy-for-film-screening-in-rural-suburban-areas-640584)
+**In detail:** [Tamil Nadu Deep Tech Startup Policy 2025-26](https://itnthub.tn.gov.in/assets/deep-tech-policy-book.pdf)
 
 **Land Acquisition and Labor Regulations**  
 
-**Haryana** passes the **Haryana Shops and Commercial Establishments (Amendment) Act, 2025.** The legislation increases the daily working hours from nine to ten hours while retaining the overall weekly limit of 48 hours for employees of shops and private commercial establishments.
+**Karnataka** eases **building regulations for small residential plots in Bengaluru**. The Urban Development Department (UDD) has amended the Revised Master Plan (RMP), 2015 to relax "setback rules" for residential buildings constructed on plots up to 2691 square-feet (250 square-meters).
 
-**Source:** [Tribune](https://www.tribuneindia.com/news/haryana/haryana-assembly-passes-bill-to-increase-daily-working-time-to-10-hours-for-shop-employees/)
+**Source:**[Times of India](https://timesofindia.indiatimes.com/city/bengaluru/karnataka-government-relaxes-setback-norms-for-small-plots-in-bengaluru/articleshow/126359706.cms)
 
-**In detail:** [Haryana Shops and Commercial Establishments (Amendment) Act, 2025](https://haryanaassembly.gov.in/wp-content/uploads/2025/12/Bill-39-eng.pdf)
+**In detail:** [Karnataka gazette notification](https://erajyapatra.karnataka.gov.in/WriteReadData/2026/9676.pdf)
+
+**Karnataka** approves **formalizing illegal houses in urban local bodies**. The state has decided to issue A-Khata Certificates to properties currently under B-Khata in unauthorized layouts managed by urban local bodies. This applies to buildings, apartments, and flats. A-Khata Certificates are given only to properties in layouts formally approved by the authorities, while B-Khata covers units in layouts without official approval. A 'Khata' is the official property record maintained by the local municipal authority.
+
+**Source:** [Hindustan Times](https://www.hindustantimes.com/real-estate/karnataka-cabinet-approves-a-khata-for-b-khata-properties-in-illegal-layouts-101767877212761.html)
 
 **Infrastructure and Governance**
 
-**Delhi** amends **Delhi Excise Rules, 2010**. The amendments increase storage and possession limits for special denatured spirits and expand the permissible quantity of sacramental wine that churches may purchase and possess.
+**Bihar** mandates **public grievance hearings under the 'Sabka Samman-Jeevan Aasan' (Respect for All, Easier Lives) scheme**. The aim of the scheme is to ensure that those in rural areas are not required to make repeated visits to block and district offices for basic services. As per the scheme, public grievance hearings will be held every Monday and Friday at the panchayat, block, district and state levels, beginning January 19, 2026.
 
-**Source:** [Business Standard](https://www.business-standard.com/industry/news/delhi-amends-excise-rules-raises-sacramental-wine-limit-christmas-125122300810_1.html)
+**Source:** [Patna Press](https://patnapress.com/bihar-weekly-public-hearings-sabka-samman-jeevan-aasan/)
 
-**In detail:** Delhi Excise (Amendment) Rules, 2025 (PDF)
+**Odisha** approves the **Odisha Tourism (Amendment) Policy, 2026**. The amendment aims to attract investment, promote sustainable tourism, and support balanced regional development. Key amendments include reducing the minimum investment threshold for 3‑star and higher hotels and resorts from 50 rooms to 10 and streamlining expansion rules for existing units.
 
-**Haryana** declares a **new district**. Hansi is now the 23rd district of the state. It was earlier a part of Hisar District.
+**Source:** [Hans India](https://www.thehansindia.com/news/national/odisha-boosts-tourism-with-policy-changes-1038384)
 
-**Source:** [Adda 247](https://currentaffairs.adda247.com/haryana-declares-hansi-as-its-23rd-district/)
+**Odisha** amends the **Odisha Apartment (Ownership and Management) Act, 2023**. The amendments aim to streamline the registration of common areas and facilities in apartment complexes. As per this amendment, the "Association of Allottees" will now be required to pay only a nominal stamp duty of \$556 (INR 50,000) for registration of the common areas and facilities.
 
-**In detail:** [Press release](https://www.prharyana.gov.in/en/press-note-271)
+**Source:** [Prameya News](https://www.prameyanews.com/odisha-cabinet-simplifies-apartment-registration-reduces-stamp-duty-burden)
 
-**Haryana** issues **Haryana Municipal Advertisement (Amendment) Byelaws, 2025.** The new rules impose stricter guidelines on outdoor advertising across urban local bodies, aiming to enhance road safety, improve city aesthetics, and plug revenue leakages in the municipal advertising system.
+**Uttar Pradesh** extends **stamp duty relief to gift deeds among family members for commercial and industrial properties**. Earlier, the stamp duty on commercial properties was levied at 7 percent in urban areas and at 5 percent in rural areas. As per the new policy, stamp duty on gift deeds among family members will be limited to \$55.4 (INR 5,000).
 
-**Source:** [Story Board18](https://www.storyboard18.com/advertising/haryana-tightens-outdoor-advertising-rules-to-boost-road-safety-transparency-86296.htm)
+**Source:** [Hindustan Times](https://www.hindustantimes.com/cities/lucknow-news/up-cabinet-decisions-stamp-duty-relief-extended-to-industrial-commercial-property-transfer-to-kin-101767723006729.html#google_vignette)
 
-**In detail:** [Haryana Municipal Advertisement (Amendment) Bye-laws, 2025](https://ulbharyana.gov.in/AdminDashboard/ViewUploadFile?fileName=CONTENTFILES%5C8b50249b-80bb-49a8-be3b-5207ecdc7581.pdf)
+**In detail:** [Cabinet Decision](https://information.up.gov.in/admin/UploadDocument/OtherPress/compressed_06012026072605PN-CM-Cabinet%20Decisions-06%20January,%202026.pdf)
 
-**Jharkhand** approves the **Panchayats (Extension to Scheduled Areas) Act (PESA) Rules.** The new rules empower 'Gram Sabhas' (Local Governance Bodies) with wider administrative and decision-making powers in Fifth Schedule areas, which are regions with a high tribal population.
+**Punjab** approves the **Punjab Private Digital Open Universities Policy,** **2026**. The policy aims to regulate and promote private digital open universities offering online and Open Distance Learning (ODL) programs.
 
-**Source:** [Indian Express](https://indianexpress.com/article/india/jharkhand-cabinet-approves-pesa-rules-to-empower-gram-sabhas-10436032/)
+**Source:** [Millennium Post](https://www.millenniumpost.in/nation/punjab-cabinet-clears-sweeping-set-of-decisions-643394)
 
-**In detail:** [Cabinet decisions](https://cm.jharkhand.gov.in/sites/default/files/cabinet-decisions-2025-12/cabinet_decision_23_12_2025%28Hindi%29.pdf) (in Hindi)
+**Punjab** extends its **Housing Amnesty Policy, 2025**. The policy applies for allotted and auctioned plots under various schemes of the Housing and Urban Development Department. This will allow defaulting allottees of the Special Development Authority to apply one more time under the Amnesty Policy before the cutoff date of March 31, 2026, and deposit their outstanding amount within three months.
 
-**Kerala** introduces a **Nativity Card.** The card will serve as a new identification document to prove residency as part of measures to address concerns related to citizenship checks.
+**Source:** [The Tribune](https://www.tribuneindia.com/news/punjab/punjab-cabinet-gives-nod-to-medical-college-at-lehragagga-digital-open-universities-policy/)
 
-**Source:** [The Hindu](https://www.thehindu.com/news/national/kerala/kerala-to-introduce-nativity-card-to-address-citizenship-concerns/article70434077.ece)
+**In detail:** [Order](https://urldefense.com/v3/__https://www.gmada.gov.in/sites/default/files/Amesty*20Scheme*20Policy*20notification*2020-02-2025.pdf__;JSUlJQ!!KRhing!cGMYfg7Z79UE4qixR0Vb7NFRtLlNNHAEQ7Z9Upy4M7jpJ0N9H4wXvZWXyoecOVyju274_X9iO-uP55Z-FBO81qo$)
 
-**Uttarakhand** approves **new rules.**
+**Himachal Pradesh** releases a **Senior Residency Policy**. The policy covers all medical colleges in the state and seeks to streamline the allocation of senior resident posts for better utilization of human resources. The quota for General Duty Officers (GDOs) in senior residency will be increased to 66 percent, up from the current 50:50 split with direct recruitment.
 
-The state reduces the **Value-Added Tax (VAT) on Natural Gas** from 20 to 5 percent. The state cabinet also approves a **New System of Self-Certification of Building Plans** for low-risk buildings, such as single residential or small commercial buildings, by specific listed architects. Additionally, the maximum age limit for the **appointment of professors and associate professors in medical colleges** is increased to 62 years.
+**Source**: [Hindustan Times](https://www.msn.com/en-in/news/India/himachal-to-hire-1000-rogi-mitras-overhaul-medical-residency-policy/ar-AA1TM1ca?ocid=BingNewsSerp)
 
-**Source:** [Economic Times](https://economictimes.indiatimes.com/news/india/uttarakhand-cabinet-cuts-vat-on-natural-raises-medical-faculty-age-limit/articleshow/126163683.cms)
+**In detail:** [Press release](http://www.himachalpr.gov.in/%28S%28lpj1aqyzzchyrvjbskrusotm%29%29/OneNews.aspx?Language=1&ID=44893)
 
 **Water and Sanitation**
 
-**Jharkhand** bans **deep boring in forest areas and the extraction of water from rivers and ponds.** For any project requiring water from rivers, dams, or ponds in forest areas, the local forest administration must be informed, and permission must be applied for.
-
-**Source:** [Indian masterminds](https://indianmasterminds.com/news/jharkhand-bans-deep-boring-forest-areas-water-extraction-170237/)
+Nothing critical to report this week.
 
 **Center - State Relations**
 
-**The Union government** approves **Amaravati as Andhra Pradesh's only capital city.** The order provides statutory status to the capital city.
-
-**Source:** [Hindustan Times](https://www.hindustantimes.com/india-news/centre-approves-amaravati-as-sole-capital-of-andhra-101766433116295.html)
+Nothing critical to report this week.
 
 **Any Other**
 
-**Himachal Pradesh** publishes **Green to Gold** **Policy.** The plan aims to regulate cannabis as an industrial and medicinal Crop. Under the policy, only industrial hemp will be cultivated, with strict caps on Tetra Hydro Cannabinol (THC). All industrial hemp cultivated in the state must contain less than 0.3 percent THC. The state's "Green to Gold" push aims to make Himachal Pradesh self-reliant by 2027 while dismantling the illicit drug economy.
-
-**Source:** [India Today](https://www.indiatoday.in/india/story/himachal-pradesh-regulated-cannabis-farming-to-boost-economy-cm-sukhvinder-singh-sukhu-green-to-gold-plan-2842668-2025-12-27)
-
-**In detail:** [Press release](http://himachalpr.gov.in/OnePressRelease.aspx?Language=1&ID=44368)
+Nothing critical to report this week.
