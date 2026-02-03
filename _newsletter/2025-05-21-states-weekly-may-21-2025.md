@@ -41,7 +41,7 @@ sectors:
   - Industrial Policy and Business Regulations
   - Water & Sanitation
   - Land & Labor Laws
-is_featured: true
+is_featured: false
 author:
   - Akshat Singh
 ---
