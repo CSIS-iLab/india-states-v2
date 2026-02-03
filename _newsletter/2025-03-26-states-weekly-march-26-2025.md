@@ -43,7 +43,7 @@ sectors:
   - Climate Change and Energy
   - Infrastructure and Governance
   - Water & Sanitation
-is_featured: true
+is_featured: false
 author:
   - Akshat Singh
 ---
