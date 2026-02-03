@@ -32,7 +32,7 @@ sectors:
   - Climate Change and Energy
   - Infrastructure and Governance
   - Industrial Policy and Business Regulations
-is_featured: true
+is_featured: false
 author:
   - Akshat Singh
 ---
