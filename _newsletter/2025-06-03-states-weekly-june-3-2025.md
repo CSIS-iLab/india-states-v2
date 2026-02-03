@@ -42,7 +42,7 @@ sectors:
   - Infrastructure and Governance
   - Health
   - Climate Change and Energy
-is_featured: true
+is_featured: false
 author:
   - Akshat Singh
 ---
