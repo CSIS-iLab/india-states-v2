@@ -46,7 +46,7 @@ sectors:
   - Land & Labor Laws
   - Industrial Policy and Business Regulations
   - Health
-is_featured: true
+is_featured: false
 author:
   - Akshat Singh
 ---
