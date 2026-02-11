@@ -34,7 +34,7 @@ sectors:
   - Health
   - Industrial Policy and Business Regulations
   - Infrastructure and Governance
-is_featured: true
+is_featured: false
 author:
   - Akshat Singh
 ---
