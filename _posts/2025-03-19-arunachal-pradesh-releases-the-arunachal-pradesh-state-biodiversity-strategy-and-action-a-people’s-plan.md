@@ -9,7 +9,7 @@ title: "Arunachal Pradesh releases the Arunachal Pradesh State Biodiversity
   communities, districts, and indigenous groups to take charge of their
   environment with the support of the government. "
 short_title: "Arunachal Pradesh releases the Arunachal Pradesh State
-  Biodiversity Strategy and Action: A People’s Plan. "
+  Biodiversity Strategy and Action: A People’s Plan"
 date: 2025-03-19T00:00:00.000-04:00
 states:
   - Arunachal Pradesh
