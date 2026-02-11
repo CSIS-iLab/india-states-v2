@@ -14,10 +14,10 @@ states:
 sectors:
   - Land & Labor Laws
 sources:
-  - name: Times of India
-    url: https://timesofindia.indiatimes.com/city/chennai/metro-expansions-new-airport-language-of-museum-and-more-key-takeaways-announcements-from-tamil-nadu-budget/articleshow/119009087.cms
+  - url: https://www.thehindu.com/news/national/tamil-nadu/tn-budget-2025-registration-fee-reduced-by-1-for-immovable-assets-under-womens-name/article69329476.ece
+    name: The Hindu
 details:
-  - name: Tamil Nadu Budget Speech 2025-26
-    url: https://financedept.tn.gov.in/en/my-documents/2020/07/BS_2025-26_English_A4_Final.pdf
+  - url: https://financedept.tn.gov.in/en/my-documents/2020/07/BS_2025-26_English_A4_Final.pdf
+    name: Budget Speech 2025-26
 ---
 Tamil Nadu announces that the registration fee for all immovable assets, including houses, plots, and agricultural lands, valued up to $11,500, will be reduced by 1 percent when registered in the name of women.
