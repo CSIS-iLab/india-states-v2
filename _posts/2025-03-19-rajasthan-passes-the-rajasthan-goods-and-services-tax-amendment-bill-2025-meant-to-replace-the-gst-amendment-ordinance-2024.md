@@ -20,4 +20,4 @@ details:
   - name: "GST Amendment Bill 2024 "
     url: https://prsindia.org/files/bills_acts/bills_states/rajasthan/2024/Bill3of2024RJ.pdf
 ---
-**Rajasthan **passes the **Rajasthan Goods and Services Tax (Amendment) Bill, 2025 **meant to replace the GST Amendment Ordinance 2024. The bill aims to enhance tax collection continuity and provide relief to taxpayers. 
+Rajasthan passes the Rajasthan Goods and Services Tax (Amendment) Bill, 2025 meant to replace the GST Amendment Ordinance 2024. The bill aims to enhance tax collection continuity and provide relief to taxpayers. 
