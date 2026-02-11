@@ -3,14 +3,14 @@ layout: post
 content_type: articles
 breadcrumbs: articles
 is_newsletter: false
-title: "Rajasthan Electricity Regulatory Commission (RERC) waives application
+title: Rajasthan Electricity Regulatory Commission (RERC) waives application
   fees, security deposits, and meter testing charges for domestic rooftop solar
   installations under the PM Solar Rooftop Scheme, aiming to accelerate adoption
   and achieve the state's goal of installing rooftop solar in 500,000
-  households. "
-short_title: "Rajasthan Electricity Regulatory Commission (RERC) waives
+  households.
+short_title: Rajasthan Electricity Regulatory Commission (RERC) waives
   application fees, security deposits, and meter testing charges for domestic
-  rooftop solar installations "
+  rooftop solar installations
 date: 2025-03-19T00:00:00.000-04:00
 states:
   - Rajasthan
