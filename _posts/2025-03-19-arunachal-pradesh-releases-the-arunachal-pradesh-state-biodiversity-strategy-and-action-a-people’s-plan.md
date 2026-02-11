@@ -22,4 +22,4 @@ details:
   - name: "Arunachal Pradesh State Biodiversity Strategy and Action: A People’s Plan"
     url: https://wwfin.awsassets.panda.org/downloads/apsbsapmar2025.pdf
 ---
-**Arunachal Pradesh **releases the **Arunachal Pradesh State Biodiversity Strategy and Action: A People’s Plan**. The plan aims to achieve national biodiversity targets through clear, localised action points and by empowering communities, districts, and indigenous groups to take charge of their environment with the support of the government. 
+Arunachal Pradesh releases the Arunachal Pradesh State Biodiversity Strategy and Action: A People’s Plan. The plan aims to achieve national biodiversity targets through clear, localised action points and by empowering communities, districts, and indigenous groups to take charge of their environment with the support of the government. 
