@@ -19,4 +19,4 @@ sources:
   - name: Times of India
     url: https://timesofindia.indiatimes.com/auto/news/delhis-ev-policy-2-0-to-phase-out-cng-autos-target-95-evs-by-2027-details/articleshow/118876259.cms
 ---
-**Delhi **proposes the **Delhi Electric Vehicle Policy 2.0**, targeting 95 percent of the vehicle registration to be electric by 2027. The proposed policy also aims to phase out CNG-powered vehicles, including auto-rickshaws, taxis, light commercial vehicles, replacing them with electric options.
+Delhi proposes the Delhi Electric Vehicle Policy 2.0, targeting 95 percent of the vehicle registration to be electric by 2027. The proposed policy also aims to phase out CNG-powered vehicles, including auto-rickshaws, taxis, light commercial vehicles, replacing them with electric options.
