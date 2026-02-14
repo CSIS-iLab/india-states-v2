@@ -13,5 +13,8 @@ states:
   - Karnataka
 sectors:
   - Climate Change and Energy
+sources:
+  - name: Business World
+    url: https://www.businessworld.in/article/karnataka-lifts-cap-on-green-power-tariff-reimbursement-for-data-centres-551925
 ---
 Karnataka amends the Data Centre Policy 2022-2027 removing the 5 MW cap on green power tariﬀ reimbursement for data centre entities, allowing them to claim up to $146,105 in incentives.
