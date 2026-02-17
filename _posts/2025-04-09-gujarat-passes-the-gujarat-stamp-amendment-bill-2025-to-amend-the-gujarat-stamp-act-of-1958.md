@@ -14,7 +14,7 @@ date: 2025-04-09T00:00:00.000-04:00
 states:
   - Gujarat
 sectors:
-  - Industrial Policy and Business Regulations
+  - Infrastructure and Governance
 sources:
   - name: Desh Gujarat
     url: https://deshgujarat.com/2025/04/08/gujarat-govt-cuts-jantri-rates-new-stamp-duty-act-provisions-effective-from-april-10/
