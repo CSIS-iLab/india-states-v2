@@ -1,23 +1,19 @@
 ---
-layout: post
-content_type: articles
-breadcrumbs: articles
-is_newsletter: false
-title: Bihar Electricity Regulatory Commission (BERC) introduces the Renewable
-  Purchase Obligation, its Compliance and REC Framework Implementation
-  Regulations, 2025, introducing a new category of distributed renewable energy
-  in its renewable power obligation (RPO) for 2030. The Commission has proposed
-  a target of fulfilling 4.5 percent of RPO requirements through distributed
-  renewable energy by 2030.
-short_title: Bihar Electricity Regulatory Commission (BERC)
+title: Haryana Electricity Regulatory Commission (HERC) issues the Tariff Order,
+  2025-26 revising the power tariﬀ rate across the state. According to the
+  order, the power rates in state will increase from $0.0023 per unit for
+  domestic consumers, and $0.0035 per kilovolt-ampere hour (kVAh) for industrial
+  consumers
+short_title: "Haryana Electricity Regulatory Commission (HERC) issues the Tariff
+  Order, 2025-26 revising the power tariﬀ rate across the state. "
 date: 2025-04-09T00:00:00.000-04:00
 states:
-  - Bihar
+  - Haryana
 sectors:
   - Climate Change and Energy
 sources:
-  - name: Mercom
-    url: https://www.mercomindia.com/bihar-adds-distributed-renewable-energy-to-its-proposed-rpo-targets
+  - name: Mint
+    url: https://www.livemint.com/news/india/haryana-electricity-tariff-hike-rates-revised-for-domestic-and-industrial-users-check-latest-charges-for-all-slabs-11743554869733.html
 details: []
 ---
-Bihar Electricity Regulatory Commission (BERC) introduces the Renewable Purchase Obligation, its Compliance and REC Framework Implementation Regulations, 2025, introducing a new category of distributed renewable energy in its renewable power obligation (RPO) for 2030. The Commission has proposed a target of fulfilling 4.5 percent of RPO requirements through distributed renewable energy by 2030. 
+Haryana Electricity Regulatory Commission (HERC) issues the Tariff Order, 2025-26 revising the power tariﬀ rate across the state. According to the order, the power rates in state will increase from $0.0023 per unit for domestic consumers, and $0.0035 per kilovolt-ampere hour (kVAh) for industrial consumers.
