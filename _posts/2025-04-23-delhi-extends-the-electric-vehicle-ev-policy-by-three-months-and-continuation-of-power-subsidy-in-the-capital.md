@@ -16,8 +16,6 @@ sectors:
 sources:
   - name: Indian Express
     url: https://indianexpress.com/article/cities/delhi/delhi-govt-approves-extension-of-ev-policy-by-3-more-months-continuation-of-power-subsidy-9946516/
-details:
-  - name: Press briefing
-    url: https://www.youtube.com/watch?v=xK_EdSN6Skc
+details: []
 ---
-Delhi extends the Electric Vehicle (EV) policy by three months and continuation of power subsidy in the Capital. The state expects to release the Electric Vehicle Policy
+Delhi extends the Electric Vehicle (EV) policy by three months and continuation of power subsidy in the Capital. The state expects to release the Electric Vehicle Policy 2.0 soon.
