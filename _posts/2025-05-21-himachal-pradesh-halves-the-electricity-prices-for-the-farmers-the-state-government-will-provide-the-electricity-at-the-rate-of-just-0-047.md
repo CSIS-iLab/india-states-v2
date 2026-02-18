@@ -20,4 +20,4 @@ details:
   - name: Press release
     url: http://himachalpr.gov.in/OnePressRelease.aspx?Language=1&ID=40207
 ---
-Arunachal Pradesh approves the formation of NEEPCO Arunachal Hydro Power Corporation Limited, a joint venture company between the state government and the central public sector undertaking, North Eastern Electric Power Corporation Limited. The new company will implement five hydropower projects with a combined capacity to generate 2,626 megawatts of electricity.
+Himachal Pradesh halves the electricity prices for the farmers. The state government will provide the electricity at the rate of just $0.047 per unit and the remaining cost will be borne by the state government.
