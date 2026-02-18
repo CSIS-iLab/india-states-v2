@@ -10,7 +10,7 @@ title: Arunachal Pradesh approves the formation of NEEPCO Arunachal Hydro Power
   with a combined capacity to generate 2,626 megawatts of electricity
 short_title: Arunachal Pradesh approves the formation of NEEPCO Arunachal Hydro
   Power Corporation Limited
-date: 2025-05-20T00:00:00.000-04:00
+date: 2025-05-21T00:00:00.000-04:00
 states:
   - Arunachal Pradesh
 sectors:
