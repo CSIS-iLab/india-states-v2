@@ -19,4 +19,4 @@ sources:
   - url: https://www.indiatoday.in/information/story/uttar-pradesh-launches-mission-to-eliminate-child-labour-by-2027-2732509-2025-05-29
     name: India Today
 ---
-Karnataka releases the Karnataka Platform-based Gig Workers (Social Security and Welfare) Ordinance, 2025. The ordinance aims to protect rights of platform- based gig workers, places obligations on aggregators or platforms in relation to social security, occupational health and safety, transparency in automated monitoring and decision makings systems, and establishes a welfare board and fund for platform- based gig workers.
+Uttar Pradesh launches a new mission to eradicate child labour in the state by 2027. This mission aligns with the United Nations Sustainable Development Goals (SDGs). The state government will identify, and rescue children engaged in child labour and emphasise on their rehabilitation, counselling and education.
