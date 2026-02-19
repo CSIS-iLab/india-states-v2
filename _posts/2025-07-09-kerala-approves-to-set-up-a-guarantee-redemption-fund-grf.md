@@ -1,22 +1,21 @@
 ---
-layout: post
-content_type: articles
-breadcrumbs: articles
-is_newsletter: false
-title: Kerala approves to set up a Guarantee Redemption Fund (GRF). The
-  formation of GRF, proposed by the central government, is to manage the risks
-  arising from guarantees extended by states to public sector undertakings. For
-  the first time the formation of GRF is being included in the criteria for
-  determining the borrowing limit of states.
-short_title: Kerala approves to set up a Guarantee Redemption Fund (GRF).
+title: Odisha establishes the Odisha Urban Design Hub (OUDH). The a specialised
+  planning body under the Housing and Urban Development Department has been set
+  up to push for sustainable urban development. The OUDH will serve as the apex
+  institution for embedding design excellence and heritage preservation into
+  Odisha’s urban growth. It will focus on a multi-sectoral strategy that
+  combines infrastructure   planning, municipal finance, community engagement,
+  and data-driven governance to create liveable, inclusive cities.
+short_title: Odisha establishes the Odisha Urban Design Hub (OUDH).
 date: 2025-07-09T00:00:00.000-04:00
+tags: []
 states:
-  - Kerala
+  - Odisha
 sectors:
   - Infrastructure and Governance
 sources:
-  - name: The Week
-    url: https://www.theweek.in/wire-updates/national/2025/07/02/mes5-kl-cabinet-fund.html
+  - name: Pragativadi
+    url: https://pragativadi.com/odisha-launches-urban-design-hub-to-guide-growth-in-11-major-cities/
 details: []
 ---
-Kerala approves to set up a Guarantee Redemption Fund (GRF). The formation of GRF, proposed by the central government, is to manage the risks arising from guarantees extended by states to public sector undertakings. For the first time the formation of GRF is being included in the criteria for determining the borrowing limit of states.
+Odisha establishes the Odisha Urban Design Hub (OUDH). The a specialised planning body under the Housing and Urban Development Department has been set up to push for sustainable urban development. The OUDH will serve as the apex institution for embedding design excellence and heritage preservation into Odisha’s urban growth. It will focus on a multi-sectoral strategy that combines infrastructure planning, municipal finance, community engagement, and data-driven governance to create liveable, inclusive cities.
