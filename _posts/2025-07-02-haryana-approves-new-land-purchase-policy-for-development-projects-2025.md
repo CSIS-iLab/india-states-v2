@@ -1,22 +1,18 @@
 ---
-layout: post
-content_type: articles
-breadcrumbs: articles
-is_newsletter: false
-title: Haryana approves new Land Purchase Policy for Development Projects, 2025.
-  The new policy by the state government aims to provide a platform to
-  landowners to prevent distress sale in case of dire necessity due to
-  non-availability of suitable purchasers. Under the new policy a provision has
-  been made that the landowner can sell the share in part or full.
-short_title: Haryana approves new Land Purchase Policy for Development Projects, 2025.
+title: Punjab amends the Conversion Policy 2021. The amendments enable the
+  conversion of industrial plots into hospitals, hotels, industrial parks, and
+  other permitted uses. As per the revised policy, a conversion charge of 12.5%
+  of the industrial reserve price will be levied.
+short_title: "Punjab amends the Conversion Policy 2021. The amendments enable
+  the conversion of industrial plots into hospitals, hotels, industrial parks,
+  and other permitted uses. "
 date: 2025-07-02T00:00:00.000-04:00
 states:
-  - Haryana
+  - Punjab
 sectors:
   - Land & Labor Laws
 sources:
-  - name: Outlook
-    url: https://www.outlookbusiness.com/news/haryana-govt-approves-new-land-purchase-policy-for-development-projects
-details: []
+  - name: " Hindustan Times"
+    url: https://www.hindustantimes.com/cities/chandigarh-news/punjab-cabinet-approves-industrial-plots-conversion-101750965566971.html
 ---
-Haryana approves new Land Purchase Policy for Development Projects, 2025. The new policy by the state government aims to provide a platform to landowners to prevent distress sale in case of dire necessity due to non-availability of suitable purchasers. Under the new policy a provision has been made that the landowner can sell the share in part or full.
+Punjab amends the Conversion Policy 2021. The amendments enable the conversion of industrial plots into hospitals, hotels, industrial parks, and other permitted uses. As per the revised policy, a conversion charge of 12.5% of the industrial reserve price will be levied.
