@@ -7,7 +7,7 @@ title: Government of India reforms Special Economic Zones (SEZs) Rules, 2006.
   The amendments notified by the Department of Commerce address the specialized
   needs of semiconductor and electronics component manufacturing sectors
 short_title: "Government of India reforms Special Economic Zones (SEZs) Rules, 2006. "
-date: 2025-06-18T00:00:00.000-04:00
+date: 2025-06-25T00:00:00.000-04:00
 states:
   - Delhi
 sectors:
