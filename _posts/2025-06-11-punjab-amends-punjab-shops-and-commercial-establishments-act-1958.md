@@ -11,7 +11,7 @@ date: 2025-06-11T00:00:00.000-04:00
 states:
   - Punjab
 sectors:
-  - Land & Labor Laws
+  - Industrial Policy and Business Regulations
 sources:
   - url: https://www.livemint.com/companies/news/punjab-cabinet-approves-amendment-to-shops-act-to-reduce-compliance-burden-on-small-businesses-11749040756386.html
     name: Mint
