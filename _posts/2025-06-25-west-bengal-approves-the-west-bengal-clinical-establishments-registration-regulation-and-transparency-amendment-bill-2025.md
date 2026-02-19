@@ -1,22 +1,19 @@
 ---
-layout: post
-content_type: articles
-breadcrumbs: articles
-is_newsletter: false
-title: West Bengal approves The West Bengal Clinical Establishments
-  (Registration, Regulation, and Transparency) (Amendment) Bill, 2025. The
-  amendment bill aims to cap healthcare expenses, safeguard patients
-  financially, and bring greater accountability to private healthcare services.
-short_title: "West Bengal approves The West Bengal Clinical Establishments
-  (Registration, Regulation, and Transparency) (Amendment) Bill, 2025. "
+title: Uttar Pradesh launches scheme to promote medical device manufacturing in
+  Greater Noida. The scheme rolled out by The Yamuna Expressway Industrial
+  Development Authority (YEIDA) is targeting high-potential sectors, such as
+  cancer care, radiology, imaging, IVD, implants, electronic medical devices,
+  etc.
+short_title: "Uttar Pradesh launches scheme to promote medical device
+  manufacturing in Greater Noida. "
 date: 2025-06-25T00:00:00.000-04:00
 states:
-  - West Bengal
+  - Uttar Pradesh
 sectors:
   - Health
 sources:
-  - name: The Hindu
-    url: https://www.thehindu.com/news/national/west-bengal/west-bengal-assembly-passes-bill-on-transparency-in-medical-costs-in-private-facilities/article69705713.ece
+  - name: New Indian Express
+    url: https://www.newindianexpress.com/nation/2025/Jun/17/uttar-pradesh-government-launches-new-scheme-to-boost-medical-device-manufacturing-in-ncr
 details: []
 ---
-West Bengal approves The West Bengal Clinical Establishments (Registration, Regulation, and Transparency) (Amendment) Bill, 2025. The amendment bill aims to cap healthcare expenses, safeguard patients financially, and bring greater accountability to private healthcare services.
+Uttar Pradesh launches scheme to promote medical device manufacturing in Greater Noida. The scheme rolled out by The Yamuna Expressway Industrial Development Authority (YEIDA) is targeting high-potential sectors, such as cancer care, radiology, imaging, IVD, implants, electronic medical devices, etc.
