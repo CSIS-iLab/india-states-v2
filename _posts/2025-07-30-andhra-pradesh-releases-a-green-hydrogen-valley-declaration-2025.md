@@ -1,22 +1,23 @@
 ---
-layout: post
-content_type: articles
-breadcrumbs: articles
-is_newsletter: false
-title: Andhra Pradesh releases a Green Hydrogen Valley Declaration - 2025. The
-  declaration outlines a roadmap for building India’s largest ecosystem for
-  green hydrogen production, research, and application. The roadmap aims to help
-  Andhra Pradesh reach its ambitious target of establishing electrolyser
-  manufacturing capacity at 5GW by 2029.
-short_title: "Andhra Pradesh releases a Green Hydrogen Valley Declaration - 2025. "
+title: Karnataka announces new KERC (Intra-State Deviation Settlement Mechanism
+  and Related Matters) Regulations, 2025. The regulations issued by Karnataka
+  Electricity Regulatory Commission (KERC) seeks to improve grid stability and
+  reliability across the state. These rules are intended to reduce the gap
+  between scheduled and actual power generation and consumption, ensuring better
+  balance in Karnataka’s electricity grid.
+short_title: "Karnataka announces new KERC (Intra-State Deviation Settlement
+  Mechanism and Related Matters) Regulations, 2025. "
 date: 2025-07-30T00:00:00.000-04:00
 states:
-  - Andhra Pradesh
+  - Karnataka
 sectors:
   - Climate Change and Energy
 sources:
-  - url: https://www.thehindu.com/news/national/andhra-pradesh/chief-minister-chandrababu-naidu-unveils-green-hydrogen-valley-declaration/article69837986.ece
-    name: The Hindu
-details: []
+  - url: https://solarquarter.com/2025/07/21/kerc-introduces-new-deviation-settlement-regulations-2025-to-strengthen-karnatakas-power-grid-stability/
+    name: Solar Qaurter
+details:
+  - name: KERC (Intra-State Deviation Settlement Mechanism and Related Matters)
+      Regulations, 2025
+    url: https://kerc.karnataka.gov.in/uploads/media_to_upload1752742102.pdf
 ---
-Andhra Pradesh releases a Green Hydrogen Valley Declaration - 2025. The declaration outlines a roadmap for building India’s largest ecosystem for green hydrogen production, research, and application. The roadmap aims to help Andhra Pradesh reach its ambitious target of establishing electrolyser manufacturing capacity at 5GW by 2029.
+Karnataka announces new KERC (Intra-State Deviation Settlement Mechanism and Related Matters) Regulations, 2025. The regulations issued by Karnataka Electricity Regulatory Commission (KERC) seeks to improve grid stability and reliability across the state. These rules are intended to reduce the gap between scheduled and actual power generation and consumption, ensuring better balance in Karnataka’s electricity grid.
