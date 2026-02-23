@@ -14,7 +14,7 @@ date: 2025-07-30T00:00:00.000-04:00
 states:
   - Odisha
 sectors:
-  - Health
+  - Infrastructure and Governance
 sources:
   - url: https://odishabytes.com/odisha-cm-announces-life-insurance-coverage-for-sanitation-workers
     name: Odisha Bytes
