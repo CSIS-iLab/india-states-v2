@@ -26,4 +26,4 @@ details:
     url: https://it.odisha.gov.in/sites/default/files/2025-02/IT Policy
       2025_Updated_01022025.pdf
 ---
-Odisha amends the Odisha Food Processing Policy, 2016. The policy seeks to simplify the administration and approval process for fiscal incentives, especially for micro-, small and medium-sized enterprises.
+Odisha approves Electronics Component Manufacturing Policy and Odisha IT Policy, 2025. The Electronics Component Manufacturing Policy aims to generate high-skilled employment opportunities while reducing reliance on imported electronic components. The policy oﬀers a comprehensive incentive framework that includes fully matching the central government's Electronics Component Manufacturing Scheme (ECMS). The Odisha IT Policy, 2025 oﬀers a wide range of business-friendly incentives such as capital and interest subsidies, land and rental support and state GST reimbursement in the IT sector.
