@@ -1,21 +1,21 @@
 ---
-layout: post
-content_type: articles
-breadcrumbs: articles
-is_newsletter: false
-title: Uttarakhand approves Uttarakhand Aroma Revolution Policy 2026-2036. Under
-  the first phase of the policy, 22,750 hectares of land will be brought under
-  aromatic crops through 91,000 beneficiaries. Farmers will be provided
-  subsidies of up to 80 percent on cultivation costs for one hectare and 50
-  percent on costs beyond one hectare.
-short_title: Uttarakhand approves Uttarakhand Aroma Revolution Policy 2026-2036.
+title: " The Union government extends the validity of the Armed Forces (Special
+  Powers) Act (AFSPA) in Manipur for six-months. AFSPA has also been extended to
+  nine districts in Nagaland and 21 police station areas in five other districts
+  of the state for six months, according to a notification issued by the Union
+  government. The law was also extended to Tirap, Changlang and Longding
+  districts in Arunachal Pradesh and three police station areas bordering Assam,
+  in Namsai district."
+short_title: " The Union government extends the validity of the Armed Forces
+  (Special Powers) Act (AFSPA) "
 date: 2025-10-01T00:00:00.000-04:00
 states:
-  - Uttarakhand
+  - Delhi
 sectors:
-  - Infrastructure and Governance
+  - Center-State Relations
 sources:
-  - url: https://firstindia.co.in/news/india/uttarakhand-cabinet-approves-aroma-revolution-policy-2026-36-over-90000-farmers-to-benefit
-    name: First India
+  - url: https://www.ndtv.com/india-news/afspa-extended-in-parts-of-manipur-nagaland-arunachal-pradesh-9352025
+    name: NDTV
+details: []
 ---
-Uttarakhand approves Uttarakhand Aroma Revolution Policy 2026-2036. Under the first phase of the policy, 22,750 hectares of land will be brought under aromatic crops through 91,000 beneficiaries. Farmers will be provided subsidies of up to 80 percent on cultivation costs for one hectare and 50 percent on costs beyond one hectare.
+The Union government extends the validity of the Armed Forces (Special Powers) Act (AFSPA) in Manipur for six-months. AFSPA has also been extended to nine districts in Nagaland and 21 police station areas in five other districts of the state for six months, according to a notification issued by the Union government. The law was also extended to Tirap, Changlang and Longding districts in Arunachal Pradesh and three police station areas bordering Assam, in Namsai district.
