@@ -1,22 +1,17 @@
 ---
-layout: post
-content_type: articles
-breadcrumbs: articles
-is_newsletter: false
-title: Tamil Nadu sanctions Semiconductor Design Promotion Scheme. The scheme
-  offers subsidies and prototyping grants to fabless design firms and aims to
-  promote skill development programs and the manufacturing of semiconductor
-  machinery.   The scheme is part of the $57.13 million (INR 500 crore) Tamil
-  Nadu Semiconductor Mission 2030, announced during the presentation of the
-  state’s 2025 budget.
-short_title: "Tamil Nadu sanctions Semiconductor Design Promotion Scheme. "
+title: " Uttar Pradesh notifies MSME Industrial Estate Management Policy, 2025.
+  The policy aims to revamp decade-old MSME industrial estates and turn them
+  into productive, revenue generating assets. The policy also introduces a
+  streamlined system for plot allocation via e-auction, standard pricing, and
+  time-bound payment mechanisms."
+short_title: " Uttar Pradesh notifies MSME Industrial Estate Management Policy, 2025. "
 date: 2025-08-20T00:00:00.000-04:00
 states:
-  - Tamil Nadu
+  - Uttar Pradesh
 sectors:
   - Industrial Policy and Business Regulations
 sources:
-  - url: https://www.business-standard.com/industry/news/tamil-nadu-semiconductor-mission-2030-scheme-centres-of-excellence-125081800139_1.html
-    name: Business Standard
+  - name: Economic Times
+    url: https://government.economictimes.indiatimes.com/news/policy/uttar-pradesh-government-unveils-msme-industrial-estate-management-policy-2025-with-e-auction-system/123249747
 ---
-Tamil Nadu sanctions Semiconductor Design Promotion Scheme.The scheme offers subsidies and prototyping grants to fabless design firms and aims to promote skill development programs and the manufacturing of semiconductor machinery. The scheme is part of the $57.13 million (INR 500 crore) Tamil Nadu Semiconductor Mission 2030, announced during the presentation of the state’s 2025 budget.
+Uttar Pradesh notifies MSME Industrial Estate Management Policy, 2025. The policy aims to revamp decade-old MSME industrial estates and turn them into productive, revenue generating assets. The policy also introduces a streamlined system for plot allocation via e-auction, standard pricing, and time-bound payment mechanisms.
