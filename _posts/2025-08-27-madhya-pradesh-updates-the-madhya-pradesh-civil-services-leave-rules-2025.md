@@ -1,23 +1,15 @@
 ---
-layout: post
-content_type: articles
-breadcrumbs: articles
-is_newsletter: false
-title: Madhya Pradesh updates the Madhya Pradesh Civil Services (Leave) Rules,
-  2025. The rules extend maternity and childcare leave to surrogate mothers and
-  single parents.
-short_title: "Madhya Pradesh updates the Madhya Pradesh Civil Services (Leave)
-  Rules, 2025. "
+title: Delhi revises the monthly stipend for nursing interns. The monthly
+  stipend applies to interns in government-run hospitals and increases from
+  $5.70 (INR 500) to $150 (INR 13,150).
+short_title: "Delhi revises the monthly stipend for nursing interns. "
 date: 2025-08-27T00:00:00.000-04:00
 states:
-  - Madhya Pradesh
+  - Delhi
 sectors:
   - Health
 sources:
-  - url: https://www.hindustantimes.com/india-news/madhya-pradesh-govt-approves-new-leave-rules-for-surrogate-mothers-single-parents-101755673295410.html
+  - url: https://www.hindustantimes.com/cities/delhi-news/cabinet-approves-stipend-hike-for-nursing-interns-101755629778161.html
     name: Hindustan Times
-details:
-  - name: Press Release
-    url: https://www.mpinfo.org/Home/CabinetDetails?newsid=20250819N234&fontname=FontEnglish&LocID=32&pubdate=08/19/2025
 ---
-Madhya Pradesh updates the Madhya Pradesh Civil Services (Leave) Rules, 2025. The rules extend maternity and childcare leave to surrogate mothers and single parents.
+Delhi revises the monthly stipend for nursing interns. The monthly stipend applies to interns in government-run hospitals and increases from $5.70 (INR 500) to $150 (INR 13,150).
