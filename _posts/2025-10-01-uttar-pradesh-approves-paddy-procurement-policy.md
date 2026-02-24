@@ -1,23 +1,18 @@
 ---
-layout: post
-content_type: articles
-breadcrumbs: articles
-is_newsletter: false
-title: Uttar Pradesh approves Paddy Procurement Policy. The policy, formulated
-  under the Price Support Scheme, provides a set price for common and Grade-A
-  paddy.
-short_title: "Uttar Pradesh approves Paddy Procurement Policy. "
+title: Odisha announces WhatsApp Chatbot Governance. The new policy allows
+  access to a range of citizen-centric services, including birth and income
+  certificates, inter- caste marriage benefits, government scheme incentives,
+  and applications for driving and fertilizer licences, through WhatsApp. The
+  chatbot, named ‘Ama Sathi’ (My Companion), will make 120 services available
+  across the state.
+short_title: "Odisha announces WhatsApp Chatbot Governance. "
 date: 2025-10-01T00:00:00.000-04:00
 states:
-  - Uttar Pradesh
+  - Odisha
 sectors:
   - Infrastructure and Governance
 sources:
-  - name: Statesman
-    url: https://www.thestatesman.com/india/up-cabinet-clears-90-km-link-expressway-22-proposals-approved-1503492112.html
-details:
-  - url: https://information.up.gov.in/admin/UploadDocument/CmPress/compressed_26092025105112PN-CM-Cabinet
-      Decisions-26 September%2C 2025.pdf
-    name: Cabinet decisions
+  - name: New Indian Express
+    url: https://www.newindianexpress.com/states/odisha/2025/Sep/26/odisha-launches-ama-sathi-whatsapp-chatbot-to-simplify-access-to-120-public-services
 ---
-Uttar Pradesh approves Paddy Procurement Policy. The policy, formulated under the Price Support Scheme, provides a set price for common and Grade-A paddy.
+Odisha announces WhatsApp Chatbot Governance. The new policy allows access to a range of citizen-centric services, including birth and income certificates, inter- caste marriage benefits, government scheme incentives, and applications for driving and fertilizer licences, through WhatsApp. The chatbot, named ‘Ama Sathi’ (My Companion), will make 120 services available across the state.
