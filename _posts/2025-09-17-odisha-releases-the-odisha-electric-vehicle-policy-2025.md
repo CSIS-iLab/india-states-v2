@@ -13,7 +13,7 @@ date: 2025-09-17T00:00:00.000-04:00
 states:
   - Odisha
 sectors:
-  - Climate Change and Energy
+  - Industrial Policy and Business Regulations
 sources:
   - url: https://odishatv.in/news/odisha/odisha-govt-unveils-new-electric-vehicle-policy-2025-incentives-up-to-rs-20-lakh-271830
     name: " Odisha TV"
