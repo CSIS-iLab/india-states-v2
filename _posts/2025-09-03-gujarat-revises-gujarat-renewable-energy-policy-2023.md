@@ -1,22 +1,17 @@
 ---
-layout: post
-content_type: articles
-breadcrumbs: articles
-is_newsletter: false
-title: Gujarat revises Gujarat Renewable Energy Policy, 2023. The state issues
-  amended guidelines for the procurement of renewable energy (RE) from
-  small-scale projects below the threshold limit. The amendment clarifies that
-  solar projects up to 5 MW and wind projects up to 10 MW can sell electricity
-  to distribution licensees without the need for a competitive bidding process.
-short_title: Gujarat revises Gujarat Renewable Energy Policy, 2023.
+title: Andhra Pradesh amends its Tourism Land Allotment Policy 2024-2029. The
+  new amendments include key aspects such as eligibility for land allotment,
+  land bank notifications, and procedures for allocating declared lands for
+  tourism projects.
+short_title: "Andhra Pradesh amends its Tourism Land Allotment Policy 2024-2029. "
 date: 2025-09-03T00:00:00.000-04:00
 states:
-  - Gujarat
+  - Andhra Pradesh
 sectors:
-  - Climate Change and Energy
+  - Industrial Policy and Business Regulations
 sources:
-  - name: Energetica
-    url: https://www.energetica-india.net/news/gujarat-revises-renewable-energy-policy-to-empower-small-scale-projects
+  - name: New Indian Express
+    url: https://www.newindianexpress.com/states/andhra-pradesh/2025/Aug/22/andhra-pradesh-cabinet-approves-landmark-circular-economy-policy
 details: []
 ---
-Gujarat revises Gujarat Renewable Energy Policy, 2023. The state issues amended guidelines for the procurement of renewable energy (RE) from small-scale projects below the threshold limit. The amendment clarifies that solar projects up to 5 MW and wind projects up to 10 MW can sell electricity to distribution licensees without the need for a competitive bidding process.
+Andhra Pradesh amends its Tourism Land Allotment Policy 2024-2029. The new amendments include key aspects such as eligibility for land allotment, land bank notifications, and procedures for allocating declared lands for tourism projects.
