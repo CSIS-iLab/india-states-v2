@@ -14,7 +14,7 @@ date: 2025-09-10T00:00:00.000-04:00
 states:
   - Madhya Pradesh
 sectors:
-  - Climate Change and Energy
+  - Industrial Policy and Business Regulations
 sources:
   - name: Electronics for you
     url: https://www.electronicsforyou.biz/industry-buzz/defence-corridor-and-electronics-base-anchor-madhya-pradeshs-spacetech-policy-2025-vision/
