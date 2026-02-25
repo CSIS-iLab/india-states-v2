@@ -9,7 +9,7 @@ title: Goa prohibits Power without a License. The Goa Electricity Department
   new connections will require a valid construction license and technical
   clearance.
 short_title: "Goa prohibits Power without a License. "
-date: 2025-10-29T00:00:00.000-04:00
+date: 2025-10-22T00:00:00.000-04:00
 states:
   - Goa
 sectors:
