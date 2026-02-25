@@ -10,7 +10,7 @@ title: Punjab issues draft PSERC Deviation Settlement Mechanism and Related
   security and stability.
 short_title: "Punjab issues draft PSERC Deviation Settlement Mechanism and
   Related Matters Regulations, 2025. "
-date: 2025-10-29T00:00:00.000-04:00
+date: 2025-10-22T00:00:00.000-04:00
 states:
   - Punjab
 sectors:
