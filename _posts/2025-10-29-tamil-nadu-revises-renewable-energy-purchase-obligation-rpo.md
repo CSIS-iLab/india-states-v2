@@ -8,7 +8,7 @@ title: Tamil Nadu revises Renewable Energy Purchase Obligation (RPO). The
   (TNERC) updates compliance requirements for captive users. The new regulations
   supersede earlier notifications and set targets for renewable consumption.
 short_title: Tamil Nadu revises Renewable Energy Purchase Obligation (RPO).
-date: 2025-10-29T00:00:00.000-04:00
+date: 2025-10-22T00:00:00.000-04:00
 states:
   - Tamil Nadu
 sectors:
