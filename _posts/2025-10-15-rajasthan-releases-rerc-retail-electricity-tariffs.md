@@ -14,7 +14,7 @@ date: 2025-10-15T00:00:00.000-04:00
 states:
   - Rajasthan
 sectors:
-  - Health
+  - Climate Change and Energy
 sources:
   - name: Mercom
     url: https://www.mercomindia.com/rajasthan-sets-%E2%82%B96-50-kwh-base-tariff-for-large-industries-voltage-rebates-stay
