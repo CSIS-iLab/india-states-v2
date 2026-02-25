@@ -19,4 +19,4 @@ details:
   - url: https://labour.delhi.gov.in/sites/default/files/Labour/important-news/notificationdseexemp.pdf
     name: Notification
 ---
-Andhra Pradesh introduces Common Zoning Regulations (CZR) – 2025. The regulations oﬀer a new framework that reorganizes land-use categories from 16 to 9, ensuring clarity for developers and citizens, while protecting eco-sensitive zones. The newly formed nine comprehensive zones are — Residential Zone (R), Commercial Zone (C), Public & Semi-public Zone (PS), Industrial Zone (I), Recreational Zone (RE), Transportation Zone (T), Mixed Use Zone (M), Agriculture Use Zone (A), Development Restricted / Protected Use Zone (SA/PR).
+Delhi amends Labor Regulations for Women. The state will now allow women to work at shops and commercial establishments at night. This will require mandatory written consent from the employee.
