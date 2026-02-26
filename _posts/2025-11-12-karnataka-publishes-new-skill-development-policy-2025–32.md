@@ -1,20 +1,21 @@
 ---
-layout: post
-content_type: articles
-breadcrumbs: articles
-is_newsletter: false
-title: "Karnataka publishes new Skill Development Policy 2025–32. The policy
-  comes with a 7-year strategic blueprint, backed by an outlay of $500 million
-  (INR 4,432 crore). "
-short_title: "Karnataka publishes new Skill Development Policy 2025–32. "
+title: Gujarat pushes for Urbanization via Satellite Towns. The state has drawn
+  up plans to develop five towns adjoining its major cities as ‘satellite’
+  towns. The five identified satellite towns are Kalol (under the Gandhinagar
+  Urban Development Authority), Sanand (Ahmedabad Urban Development Authority),
+  Savli (Vadodara Urban Development Authority), Bardoli (Surat Urban Development
+  Authority), and Hirasar (Rajkot Urban Development Authority). The Urban
+  Development Department (UDD) aims to ensure that these towns, adjacent to the
+  state’s five major cities grow in coordination with their respective “mother
+  cities.”
+short_title: Gujarat pushes for Urbanization via Satellite Towns.
 date: 2025-11-12T00:00:00.000-05:00
 states:
-  - Karnataka
+  - Gujarat
 sectors:
-  - Land & Labor Laws
+  - Infrastructure and Governance
 sources:
-  - url: https://www.thehindu.com/news/national/karnataka/karnataka-releases-a-newskill-development-policy-to-train-3-million-youth-by-2033/article70241395.ece
-    name: Hindu
-details: []
+  - name: Desh Gujarat
+    url: https://deshgujarat.com/2025/11/05/gujarat-to-develop-five-satellite-towns-around-its-major-cities/
 ---
-Karnataka publishes new Skill Development Policy 2025–32. The policy comes with a 7-year strategic blueprint, backed by an outlay of $500 million (INR 4,432 crore).
+Gujarat pushes for Urbanization via Satellite Towns. The state has drawn up plans to develop five towns adjoining its major cities as ‘satellite’ towns. The five identified satellite towns are Kalol (under the Gandhinagar Urban Development Authority), Sanand (Ahmedabad Urban Development Authority), Savli (Vadodara Urban Development Authority), Bardoli (Surat Urban Development Authority), and Hirasar (Rajkot Urban Development Authority). The Urban Development Department (UDD) aims to ensure that these towns, adjacent to the state’s five major cities grow in coordination with their respective “mother cities.”
