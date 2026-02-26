@@ -1,20 +1,18 @@
 ---
-layout: post
-content_type: articles
-breadcrumbs: articles
-is_newsletter: false
-title: Odisha approves the Odisha Global Capability Centre (GCC) Policy – 2025.
-  The policy aims to attract multinational corporations, investment, five GCC
-  hubs, and over 50,000 jobs, complementing the Odisha IT Policy 2025 and
-  promoting balanced regional development.
-short_title: Odisha approves the Odisha Global Capability Centre (GCC) Policy – 2025.
+title: "Punjab launches Phase II of the “Fastrack Punjab Portal.” The portal
+  integrates 173 industrial services on a single platform to further streamline
+  business facilitation in the state. "
+short_title: "Punjab launches Phase II of the “Fastrack Punjab Portal.” "
 date: 2025-11-26T00:00:00.000-05:00
 states:
-  - Odisha
+  - Punjab
 sectors:
   - Industrial Policy and Business Regulations
 sources:
-  - url: https://pragativadi.com/odisha-cabinet-approves-12-key-proposals-focus-on-jobs-and-transparency/
-    name: Pragativadi
+  - url: https://www.hindustantimes.com/cities/chandigarh-news/ease-of-doing-business-mann-launches-phase-ii-of-fastrack-punjab-portal-brings-173-services-under-single-window-101763754671322.html
+    name: Hindustan Times
+details:
+  - url: https://fasttrack.punjab.gov.in/
+    name: " Fast Track Portal"
 ---
-Odisha approves the Odisha Global Capability Centre (GCC) Policy – 2025. The policy aims to attract multinational corporations, investment, five GCC hubs, and over 50,000 jobs, complementing the Odisha IT Policy 2025 and promoting balanced regional development.
+Punjab launches Phase II of the “Fastrack Punjab Portal.” The portal integrates 173 industrial services on a single platform to further streamline business facilitation in the state.
