@@ -1,21 +1,19 @@
 ---
-layout: post
-content_type: articles
-breadcrumbs: articles
-is_newsletter: false
-title: Tamil Nadu introduces Single Window Portal for Development Projects and
-  Land Use Applications. The single-window portal will deal with applications
-  relating to land development, change of land use, and issuance of completion
-  certificates under the Tamil Nadu Town and Country Planning Act, 1971.
-short_title: "Tamil Nadu introduces Single Window Portal for Development
-  Projects and Land Use Applications. "
+title: "Uttar Pradesh issues its Electricity Bill Relief Scheme, 2025. The
+  scheme, devised by the Uttar Pradesh Power Corporation Limited (UPPCL) aims to
+  provide financial relief to over 1.45 crore (1,450,000) consumers who have
+  defaulted on electricity bill payments. "
+short_title: "Uttar Pradesh issues its Electricity Bill Relief Scheme, 2025. "
 date: 2025-11-19T00:00:00.000-05:00
 states:
-  - Tamil Nadu
+  - Uttar Pradesh
 sectors:
   - Climate Change and Energy
 sources:
-  - url: https://www.newindianexpress.com/states/tamil-nadu/2025/Nov/14/tamil-nadu-notifies-single-window-portal-for-building-projects
-    name: New Indian Express
+  - name: Economic Times
+    url: https://energy.economictimes.indiatimes.com/news/power/uppcl-announces-relief-scheme-for-over-1-4-crore-electricity-bill-defaulters/125263334
+details:
+  - name: UP Electricity Bill Relief Scheme 2025
+    url: https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:ef3d7952-0bb8-44a8-9ff3-abfc0a1e777c
 ---
-Tamil Nadu introduces Single Window Portal for Development Projects and Land Use Applications. The single-window portal will deal with applications relating to land development, change of land use, and issuance of completion certificates under the Tamil Nadu Town and Country Planning Act, 1971.
+Uttar Pradesh issues its Electricity Bill Relief Scheme, 2025. The scheme, devised by the Uttar Pradesh Power Corporation Limited (UPPCL) aims to provide financial relief to over 1.45 crore (1,450,000) consumers who have defaulted on electricity bill payments.
