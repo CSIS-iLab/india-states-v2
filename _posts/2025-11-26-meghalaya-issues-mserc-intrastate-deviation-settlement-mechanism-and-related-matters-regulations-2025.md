@@ -25,4 +25,4 @@ details:
       Settlement Mechanism and Related Matters) Regulations, 2025
     url: https://mserc.gov.in/regulations/2025/MSERC_Intra_State_Deviation_Settlement_Mechanism_and_Related_Matters_Regulations_2025.pdf
 ---
-Telangana issues (TGERC) Draft Telangana Electricity Regulatory Commission (Framework for Resource Adequacy) Regulations, 2025. The regulations issued by the Telangana Electricity Regulatory Commission outline a comprehensive 10-year framework for demand forecasting, generation planning, and procurement.
+Meghalaya issues (MSERC) Intrastate Deviation Settlement Mechanism and Related Matters Regulations, 2025. The regulations issued by the Meghalaya State Electricity Regulatory Commission (MSERC) aim to enhance grid stability. The regulations will apply to all generating stations owned by the Meghalaya Power Generation Corporation or any other intrastate generating stations, to renewable energy projects of at least 5 MW capacity that have signed short-term and medium-term power supply agreements with DISCOMs.
