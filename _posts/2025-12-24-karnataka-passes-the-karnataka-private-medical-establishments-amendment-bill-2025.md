@@ -14,7 +14,7 @@ date: 2025-12-24T00:00:00.000-05:00
 states:
   - Karnataka
 sectors:
-  - Climate Change and Energy
+  - Health
 sources:
   - url: https://www.deccanherald.com/india/karnataka/assembly-passes-kpme-bill-3836039
     name: Deccan Herald
