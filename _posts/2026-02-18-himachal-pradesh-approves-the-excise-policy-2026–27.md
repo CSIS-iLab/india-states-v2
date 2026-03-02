@@ -18,4 +18,4 @@ details:
   - url: http://himachalpr.gov.in/OnePressRelease.aspx?Language=1&ID=45245
     name: Cabinet decisions
 ---
-Himachal Pradesh approves the Toll Tax Barrier Policy 2026–27. Under the policy, toll barriers will be allotted to bidders quoting above the fixed base price; a move aimed at maximizing returns for the state.
+Himachal Pradesh approves the Excise Policy 2026–27.The new policy requires that liquor vendors be allotted through an e-auction process.
