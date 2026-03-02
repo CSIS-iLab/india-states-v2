@@ -1,25 +1,20 @@
 ---
-layout: post
-content_type: articles
-breadcrumbs: articles
-is_newsletter: false
-title: "Tamil Nadu passes the Tamil Nadu Water Resources (Regulation, Management
-  and Augmentation) Bill, 2026. The bill provides for a Constitution of the
-  Tamil Nadu Water Resources Management Authority (TNWRMA), district committees,
-  and the formulation of State and District Water Resources Management Plans. "
-short_title: Tamil Nadu passes the Tamil Nadu Water Resources (Regulation,
-  Management and Augmentation) Bill, 2026.
+title: The Union government releases a draft National Electricity Policy, 2026.
+  The policy proposes strict norms for power tariff determination, a framework
+  for sweeping structural reforms to improve the financial health of discoms,
+  financing requirements, and suggestions on long-term generation and
+  transmission planning.
+short_title: "The Union government releases a draft National Electricity Policy, 2026. "
 date: 2026-01-28T00:00:00.000-05:00
 states:
-  - Tamil Nadu
+  - Delhi
 sectors:
-  - Water & Sanitation
+  - Center-State Relations
 sources:
-  - url: https://www.thehindu.com/news/national/tamil-nadu/assembly-passes-bill-to-set-up-tamil-nadu-water-resources-management-authority/article70545871.ece
-    name: The Hindu
+  - url: https://energy.economictimes.indiatimes.com/news/power/govt-unveils-draft-national-electricity-policy-2026-with-focus-on-tariffs-discom-health/127070624
+    name: Economic Times
 details:
-  - url: https://www.stationeryprinting.tn.gov.in/extraordinary/2026/32A_Ex_IV_1_T_2026.pdf
-    name: Tamil Nadu Water Resources (Regulation, Management and Augmentation) Bill,
-      2026
+  - url: https://powermin.gov.in/sites/default/files/webform/notices/Seeking_comments_on_Draft_National_Electricity_Policy_2026.pdf
+    name: Draft Electricity Policy, 2026
 ---
-Tamil Nadu passes the Tamil Nadu Water Resources (Regulation, Management and Augmentation) Bill, 2026. The bill provides for a Constitution of the Tamil Nadu Water Resources Management Authority (TNWRMA), district committees, and the formulation of State and District Water Resources Management Plans.
+The Union government releases a draft National Electricity Policy, 2026. The policy proposes strict norms for power tariff determination, a framework for sweeping structural reforms to improve the financial health of discoms, financing requirements, and suggestions on long-term generation and transmission planning.
