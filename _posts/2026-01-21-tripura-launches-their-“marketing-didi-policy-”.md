@@ -11,7 +11,7 @@ date: 2026-01-21T00:00:00.000-05:00
 states:
   - Karnataka
 sectors:
-  - Industrial Policy and Business Regulations
+  - Land & Labor Laws
 sources:
   - url: https://currentaffairs.adda247.com/karnataka-reforms-jamma-bane-land-records-to-fix-decades-old-issues-in-kodagu/
     name: Adda
