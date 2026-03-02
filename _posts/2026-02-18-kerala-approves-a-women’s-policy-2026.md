@@ -19,4 +19,4 @@ details:
   - url: https://prdlive.kerala.gov.in/news/400565
     name: Cabinet decisions
 ---
-Kerala approves the Kerala State Policy for Senior Citizens (2026). The policy seeks to build an elderly-friendly society where no senior citizens are left isolated or neglected.
+Kerala approves a Women’s Policy, 2026. The policy prioritizes women's safety, labor rights, legal protections, and support for tribal and coastal communities.
