@@ -1,26 +1,14 @@
 ---
-layout: post
-content_type: articles
-breadcrumbs: articles
-is_newsletter: false
-title: The Union government signs a Memorandum of Agreement (MoA) with the
-  Nagaland state government and the Eastern Nagaland People’s Organization
-  (ENPO). The agreement allows for the formation of the Frontier Nagaland
-  Territorial Authority (FNTA) within the state. The FNTA, subject to review
-  after 10 years, will grant legislative, executive, and financial autonomy to
-  Nagaland’s six eastern districts.
-short_title: "The Union government signs a Memorandum of Agreement (MoA) with
-  the Nagaland state government and the Eastern Nagaland People’s Organization
-  (ENPO). "
+title: Kerala approves inclusion of 28 additional communities in the list of
+  Socially and Educationally Backward Classes (SEBC). The classification enables
+  students from these groups to access reservation and other education-related
+  benefits in higher education.
+short_title: Kerala approves inclusion of 28 additional communities in the list of
 date: 2026-02-11T00:00:00.000-05:00
-states: []
-sectors:
-  - Center-State Relations
+states:
+  - Kerala
 sources:
-  - url: https://www.hindustantimes.com/india-news/centre-nagaland-enpo-ink-pact-for-frontier-nagaland-territorial-authority-101770304967315.html
-    name: Hindustan Times
-details:
-  - name: Press Release News on Air
-    url: https://www.newsonair.gov.in/central-govt-nagaland-govt-enpo-sign-agreement-to-form-fnta/
+  - url: https://bestcolleges.indiatoday.in/news-detail/kerala-cabinet-adds-28-communities-to-sebc-list-expands-access-to-higher-education-benefits-7831
+    name: India Today
 ---
-The Union government signs a Memorandum of Agreement (MoA) with the Nagaland state government and the Eastern Nagaland People’s Organization (ENPO). The agreement allows for the formation of the Frontier Nagaland Territorial Authority (FNTA) within the state. The FNTA, subject to review after 10 years, will grant legislative, executive, and financial autonomy to Nagaland’s six eastern districts
+Kerala approves inclusion of 28 additional communities in the list of Socially and Educationally Backward Classes (SEBC).The classification enables students from these groups to access reservation and other education-related benefits in higher education.
