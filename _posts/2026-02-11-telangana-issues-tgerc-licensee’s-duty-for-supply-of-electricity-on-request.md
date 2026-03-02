@@ -24,4 +24,4 @@ details:
     url: https://www.tgerc.telangana.gov.in/file_upload/uploads/Regulations/Final/tserc/2026/TGERC
       2nd Amend to Reg 4 of 2013.pdf
 ---
-Telangana issues TGERC (Licensee’s Duty for Supply of Electricity on Request) Second Amendment Regulation, 2026. The regulations, issued by the Telangana Electricity Regulatory Commission (TGERC), introduces a simplified fixed-charge
+Telangana issues TGERC (Licensee’s Duty for Supply of Electricity on Request) Second Amendment Regulation, 2026. The regulations, issued by the Telangana Electricity Regulatory Commission (TGERC), introduces a simplified fixed-charge system based on sanctioned load, doing away with distance-based levies for poles and powerlines.
