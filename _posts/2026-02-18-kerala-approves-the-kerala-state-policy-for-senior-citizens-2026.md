@@ -19,4 +19,4 @@ details:
   - name: Press release
     url: https://prdlive.kerala.gov.in/news/400565
 ---
-Kerala announces a draft Urban Policy.The policy aims to develop Kerala by 2050 as a continuous network of climate-smart cities and towns, ensuring scientific planning and good governance.
+Kerala approves the Kerala State Policy for Senior Citizens (2026).The policy seeks to build an elderly-friendly society where no senior citizens are left isolated or neglected.
