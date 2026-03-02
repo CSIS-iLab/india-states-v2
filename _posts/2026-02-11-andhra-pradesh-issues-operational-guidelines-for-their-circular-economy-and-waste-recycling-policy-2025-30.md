@@ -22,4 +22,4 @@ details:
   - url: https://www.scribd.com/document/975267359/12-AP-Circular-Economy-and-Waste-Recycling-Policy-AP
     name: Andhra Pradesh Circular Economy and Waste Recycling Policy - 2025-30
 ---
-Punjab introduces prepaid smart metering for all government office electricity connections. The scheme, launched by the Punjab State Power Corporation Limited (PSPCL), requires that electricity supply to government offices will be automatically disconnected once the prepaid balance is exhausted.
+Andhra Pradesh issues Operational Guidelines for their Circular Economy and Waste Recycling Policy, 2025-30.The guidelines introduce a comprehensive framework that includes a dual-tier infrastructure model, a Green Star Rating certification for industries, and a digital Circular Economy Dashboard for monitoring waste flows.
