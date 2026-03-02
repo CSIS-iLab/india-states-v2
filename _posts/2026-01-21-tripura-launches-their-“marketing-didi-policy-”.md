@@ -1,22 +1,22 @@
 ---
-layout: post
-content_type: articles
-breadcrumbs: articles
-is_newsletter: false
-title: Tripura launches their “Marketing Didi Policy.” The policy aims at
-  strengthening market linkages and expanding opportunities for women-led
-  enterprises. The policy, introduced last month by the Tripura Rural Livelihood
-  Mission (TRLM), seeks to provide self-help group (SHG) members—popularly known
-  as ‘didi’s’—with structured support in brand building, digital outreach, and
-  access to wider consumer markets.
-short_title: Tripura launches their “Marketing Didi Policy.”
+title: "Karnataka modernizes land governance in the Kodagu region via the
+  Karnataka Land Revenue (Second Amendment) Act, 2025. By amending land revenue
+  laws, the state aims to address documentation problems related to Jamma Bane
+  (wetlands and forested highlands). The aim of the policy is to benefit
+  indigenous communities by ensuring clear ownership records and easier access
+  to legal and financial services. "
+short_title: Karnataka modernizes land governance in the Kodagu region via the
+  Karnataka Land Revenue
 date: 2026-01-21T00:00:00.000-05:00
 states:
-  - Tripura
+  - Karnataka
 sectors:
   - Industrial Policy and Business Regulations
 sources:
-  - url: https://northeasttoday.in/northeast/tripura-launches-marketing-didi-policy-to-empower-women-entrepreneurs/
-    name: North East Today
+  - url: https://currentaffairs.adda247.com/karnataka-reforms-jamma-bane-land-records-to-fix-decades-old-issues-in-kodagu/
+    name: Adda
+details:
+  - url: https://prsindia.org/files/bills_acts/bills_states/karnataka/2025/Bill61of2025KA.pdf
+    name: " Karnataka Land Revenue (Second Amendment) Act, 2025"
 ---
-Tripura launches their “Marketing Didi Policy.” The policy aims at strengthening market linkages and expanding opportunities for women-led enterprises. The policy, introduced last month by the Tripura Rural Livelihood Mission (TRLM), seeks to provide self-help group (SHG) members—popularly known as ‘didi’s’—with structured support in brand building, digital outreach, and access to wider consumer markets.
+Karnataka modernizes land governance in the Kodagu region via the Karnataka Land Revenue (Second Amendment) Act, 2025. By amending land revenue laws, the state aims to address documentation problems related to Jamma Bane (wetlands and forested highlands). The aim of the policy is to benefit indigenous communities by ensuring clear ownership records and easier access to legal and financial services.
