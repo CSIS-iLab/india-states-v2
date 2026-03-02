@@ -1,25 +1,16 @@
 ---
-layout: post
-content_type: articles
-breadcrumbs: articles
-is_newsletter: false
-title: Kerala issues order on approval of Threshold Limit for Tariff Based
-  Competitive Bidding in Intra-State Transmission Projects. The Kerala State
-  Electricity Regulatory Commission (KSERC) has ruled that intrastate power
-  transmission projects costing above $28.2 million (INR 250 crore) must be
-  executed through the Tariﬀ-Based Competitive Bidding (TBCB) route.
-short_title: "Kerala issues order on approval of Threshold Limit for Tariff
-  Based Competitive Bidding in Intra-State Transmission Projects. "
+title: Odisha defers “No Pollution Under Control (PUC), No Fuel” Certificate.
+  The rule will now come into force on February 1, 2026, instead of January 1,
+  2026. The decision to defer the implementation was taken to give vehicle
+  owners more time in obtaining PUC certificates.
+short_title: "Odisha defers “No Pollution Under Control (PUC), No Fuel” Certificate. "
 date: 2025-12-31T00:00:00.000-05:00
 states:
-  - Kerala
+  - Odisha
 sectors:
   - Climate Change and Energy
 sources:
-  - name: Mercom
-    url: https://www.mercomindia.com/kerala-mandates-bidding-for-intrastate-transmission-projects-above-%E2%82%B92-5-million
-details:
-  - name: SERC order
-    url: https://dev.erckerala.org/api/storage/orders/IN1jV33alM5baowQD75fo09KZbAqDZN04pXtpp52.pdf
+  - url: https://sambadenglish.com/latest-news/no-puc-certificate-no-petrol-rule-in-odisha-to-be-implemented-from-february-1-2026-sta-10943212/amp
+    name: Sambad
 ---
-Kerala issues order on approval of Threshold Limit for Tariff Based Competitive Bidding in Intra-State Transmission Projects. The Kerala State Electricity Regulatory Commission (KSERC) has ruled that intrastate power transmission projects costing above $28.2 million (INR 250 crore) must be executed through the Tariﬀ-Based Competitive Bidding (TBCB) route.
+Odisha defers “No Pollution Under Control (PUC), No Fuel” Certificate. The rule will now come into force on February 1, 2026, instead of January 1, 2026. The decision to defer the implementation was taken to give vehicle owners more time in obtaining PUC certificates.
