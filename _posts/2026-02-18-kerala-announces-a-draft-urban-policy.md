@@ -17,4 +17,4 @@ sources:
     name: Onmanorama
 details: []
 ---
-Himachal Pradesh approves the Excise Policy 2026–27.The new policy requires that liquor vendors be allotted through an e-auction process.
+Kerala announces a draft Urban Policy. The policy aims to develop Kerala by 2050 as a continuous network of climate-smart cities and towns, ensuring scientific planning and good governance.
