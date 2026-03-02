@@ -15,5 +15,8 @@ sectors:
 sources:
   - url: https://timesofindia.indiatimes.com/city/jaipur/liquor-shops-may-remain-opentill-10pm-retail-prices-set-to-rise/articleshow/127729214.cms
     name: Times of India
+details:
+  - name: Amendment in Excise and Temperance Policy 2025-2029
+    url: https://finance.rajasthan.gov.in/PDFDOCS/EXCISE/14808.pdf
 ---
 Rajasthan amends The Rajasthan Excise and Temperance Policy 2025–2029. The policy paves the way for extended operating hours for liquor shops across the state
