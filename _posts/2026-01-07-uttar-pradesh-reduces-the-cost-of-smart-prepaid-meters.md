@@ -17,5 +17,8 @@ sectors:
 sources:
   - url: https://timesofindia.indiatimes.com/city/lucknow/smart-prepaid-meter-cost-in-up-slashed-to-rs-2800/articleshow/126278050.cms
     name: Times of India
+details:
+  - name: UPERC Press release
+    url: https://www.uperc.org/App_File/PressNoteCDB-2025-pdf1231202553502PM.pdf
 ---
 Uttar Pradesh reduces the cost of smart prepaid meters. The Uttar Pradesh Electricity Regulatory Commission (UPERC) reduced the costs of smart prepaid meters in its revised Cost Data Book (CDB), 2025. The regulator has fixed the cost at $31 (INR 2,800) for single-phase smart prepaid meters and $45.5 (INR 4,100) for three- phase ones.
