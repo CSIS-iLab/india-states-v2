@@ -9,7 +9,7 @@ title: "Maharashtra issues an order ratifying the Marathi Language Policy,
   against government officers who don’t speak in Marathi. "
 short_title: "Maharashtra issues an order ratifying the Marathi Language Policy,
   approved in 2024. "
-date: 2025-02-19T00:00:00.000-05:00
+date: 2025-02-12T00:00:00.000-05:00
 states:
   - Maharashtra
 sources:
