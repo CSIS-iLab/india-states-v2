@@ -11,6 +11,8 @@ title: "Odisha releases the Odisha State Budget 2025-25 with an outlay of $33.43
 short_title: Odisha releases the Odisha State Budget 2025-25 with an outlay of
   $33.43 billion
 date: 2025-02-26T00:00:00.000-05:00
+states:
+  - Odisha
 sectors:
   - Finance
 sources:
