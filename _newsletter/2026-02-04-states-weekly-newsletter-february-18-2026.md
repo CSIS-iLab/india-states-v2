@@ -6,6 +6,12 @@ content_type: newsletter
 title: "States Weekly Newsletter: February 18, 2026 "
 short_title: "States Weekly Newsletter: February 18, 2026 "
 date: 2026-02-04T00:00:00.000-05:00
+tags:
+  - "States Weekly "
+  - Health 
+  - Infrastructure and Governance
+  - "Land Acquisition and Labor Regulations  "
+  - "Industrial Policy and Business Regulations  "
 excerpt: "Big News: Haryana announces a block-level mental health scheme aimed
   at improving access to both mental and physical healthcare services across
   urban and rural areas of the state; Kerala announces a Graphene Policy;
