@@ -4,6 +4,7 @@ breadcrumbs: newsletter
 is_newsletter: true
 content_type: newsletter
 title: "States Quarterly: Quarter 4 (October- December), 2023"
+short_title: "States Quarterly: Quarter 4 (October- December), 2023"
 date: 2024-04-30T13:14:00.000Z
 tags:
   - "India  "
@@ -36,7 +37,7 @@ sectors:
   - Health
   - Land & Labor Laws
   - Industrial Policy and Business Regulations
-is_featured: true
+is_featured: false
 author:
   - Gaurav Sansanwal
 ---
