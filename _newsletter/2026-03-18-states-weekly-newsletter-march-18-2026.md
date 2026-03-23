@@ -42,7 +42,7 @@ sectors:
   - Industrial Policy and Business Regulations
   - Climate Change and Energy
   - Health
-is_featured: false
+is_featured: true
 author:
   - Aryan D'Rozario
 ---
