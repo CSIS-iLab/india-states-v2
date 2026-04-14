@@ -6,6 +6,15 @@ content_type: newsletter
 title: "States Weekly Newsletter: April 8, 2026 "
 short_title: "States Weekly Newsletter: April 8, 2026 "
 date: 2026-04-08T00:00:00.000-04:00
+tags:
+  - "India States Weekly "
+  - "Health "
+  - "Climate Change and Energy "
+  - "Industrial Policy and Business Regulations  "
+  - "Land Acquisition and Labor Regulations  "
+  - Infrastructure and Governance
+  - "Water and Sanitation "
+  - " Center – State Relations   "
 excerpt: "Big News: Tamil Nadu releases draft Mental Healthcare Regulations,
   2026; Karnataka passes the Karnataka Motor Vehicles Taxation (Amendment) Bill,
   2026; Jammu and Kashmir passes the Jammu and Kashmir Jan Vishwas 2.0
