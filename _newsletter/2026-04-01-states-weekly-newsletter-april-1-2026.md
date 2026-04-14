@@ -6,6 +6,14 @@ content_type: newsletter
 title: "States Weekly Newsletter: April 1, 2026"
 short_title: "States Weekly Newsletter: April 1, 2026"
 date: 2026-04-01T00:00:00.000-04:00
+tags:
+  - India States Weekly
+  - "Health "
+  - "Climate Change and Energy "
+  - "Industrial Policy and Business Regulations  "
+  - "Land Acquisition and Labor Regulations  "
+  - Infrastructure and Governance
+  - "Water and Sanitation "
 excerpt: "Big News: Delhi introduces its Electric Vehicle Policy 2.0; Uttar
   Pradesh approves an Uttar Pradesh Private Business Park Scheme, 2025;
   Telangana amends their Building Rules, 2012; Gujarat passes a Uniform Civil
