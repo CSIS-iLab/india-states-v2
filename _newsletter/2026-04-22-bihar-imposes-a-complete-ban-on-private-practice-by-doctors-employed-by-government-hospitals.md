@@ -3,10 +3,8 @@ layout: post
 breadcrumbs: newsletter
 is_newsletter: true
 content_type: newsletter
-title: Bihar imposes a complete ban on private practice by doctors employed by
-  government hospitals.
-short_title: Bihar imposes a complete ban on private practice by doctors
-  employed by government hospitals.
+title: "States Weekly Newsletter: April 22, 2026"
+short_title: "States Weekly Newsletter: April 22, 2026"
 date: 2026-04-22T00:00:00.000-04:00
 tags: []
 excerpt: >+
