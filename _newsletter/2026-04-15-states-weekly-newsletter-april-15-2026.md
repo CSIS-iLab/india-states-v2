@@ -3,8 +3,8 @@ layout: post
 breadcrumbs: newsletter
 is_newsletter: true
 content_type: newsletter
-title: "States Weekly: Newsletter April 15, 2026"
-short_title: "States Weekly: Newsletter April 15, 2026"
+title: "States Weekly Newsletter: April 15, 2026"
+short_title: "States Weekly Newsletter: April 15, 2026"
 date: 2026-04-15T00:00:00.000-04:00
 tags:
   - India States Weekly
