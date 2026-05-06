@@ -3,8 +3,8 @@ layout: post
 breadcrumbs: newsletter
 is_newsletter: true
 content_type: newsletter
-title: "States Weekly: April 29, 2026"
-short_title: "States Weekly: April 29, 2026"
+title: "States Weekly Newsletter: April 29, 2026"
+short_title: "States Weekly Newsletter: April 29, 2026"
 date: 2026-04-29T00:00:00.000-04:00
 tags:
   - India States Weekly
@@ -37,7 +37,7 @@ sectors:
   - Center-State Relations
   - Infrastructure and Governance
   - Industrial Policy and Business Regulations
-is_featured: true
+is_featured: false
 author:
   - Aryan D'Rozario
 ---
