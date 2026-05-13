@@ -3,7 +3,7 @@ layout: post
 breadcrumbs: newsletter
 is_newsletter: true
 content_type: newsletter
-title: "States Weekly: December 24, 2025 "
+title: "States Weekly Newsletter: December 24, 2025 "
 short_title: "States Weekly Newsletter: December 24, 2025 "
 date: 2025-12-24T00:00:00.000-05:00
 tags:
@@ -21,7 +21,7 @@ excerpt: "Big News: Karnataka passes the Karnataka Private Medical
   Pradesh Shops and Establishments (Second Amendment) Act, 2025.\ 
 
 
-  \\ 
+  \\
 
   \ "
 states:
