@@ -6,6 +6,14 @@ content_type: newsletter
 title: "States Weekly Newsletter: May 6, 2026"
 short_title: "States Weekly Newsletter: May 6, 2026"
 date: 2026-05-06T00:00:00.000-04:00
+tags:
+  - States Weekly
+  - Climate Change and Energy
+  - Industrial Policy and Business Regulations
+  - Land Acquisition and Labor Regulations
+  - Infrastructure and Governance
+  - Water and Sanitation
+  - Center – State Relations
 excerpt: >+
   Big News: Maharashtra and Goa each release their AI Policy 2026, Chhattisgarh
   approves the Urban Gas Distribution Policy 2026, Maharashtra releases the
