@@ -3,8 +3,8 @@ layout: post
 breadcrumbs: newsletter
 is_newsletter: true
 content_type: newsletter
-title: "States Weekly: November 12, 2025 "
-short_title: "States Weekly: November 12, 2025 "
+title: "States Weekly Newsletter: November 12, 2025 "
+short_title: "States Weekly Newsletter: November 12, 2025 "
 date: 2025-11-12T00:00:00.000-05:00
 tags:
   - "States Weekly "
