@@ -35,7 +35,7 @@ sectors:
   - Infrastructure and Governance
   - Water & Sanitation
   - Center-State Relations
-is_featured: true
+is_featured: false
 author:
   - Aryan D'Rozario
 ---
