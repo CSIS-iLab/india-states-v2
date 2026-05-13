@@ -3,8 +3,8 @@ layout: post
 breadcrumbs: newsletter
 is_newsletter: true
 content_type: newsletter
-title: "States Weekly: Newsletter March 25, 2026"
-short_title: "States Weekly: Newsletter March 25, 2026"
+title: "States Weekly Newsletter: March 25, 2026"
+short_title: "States Weekly Newsletter: March 25, 2026"
 date: 2026-03-25T00:00:00.000-04:00
 tags:
   - States Weekly
