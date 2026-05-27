@@ -16,5 +16,8 @@ sectors:
 sources:
   - url: https://www.livemint.com/money/personal-finance/dearness-allowance-tripura-declares-5-pc-da-hike-salary-state-government-employees-pensioners-1-april-2026-7th-pay-panel-11779617098724.html
     name: Mint
+details:
+  - url: https://finance.tripura.gov.in/sites/default/files/File0001_25.PDF
+    name: Notification
 ---
 Tripura announces a 5 percent increase in Dearness Allowance for state government employees and pensioners. The hike increases the salary component part in basic pay to 41 percent and is effective from April 1, 2026.
