@@ -10,13 +10,7 @@ title: Bihar approves “cashless treatment” to its legislators, officials, st
 short_title: "Bihar approves “cashless treatment” to its legislators, officials,
   staff, and retired pensioners. "
 date: 2026-06-03T00:00:00.000-04:00
-tags:
-  - States Weekly
-  - "   Climate Change and Energy  "
-  - Infrastructure & Governance
-  - " Industrial Policy and Business Regulations  "
-  - "Land Acquisition and Labor Regulations  "
-  - Health
+tags: []
 states:
   - Bihar
 sectors:
