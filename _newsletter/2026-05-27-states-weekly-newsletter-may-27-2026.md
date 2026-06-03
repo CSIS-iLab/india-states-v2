@@ -31,7 +31,7 @@ sectors:
   - Land & Labor Laws
   - Climate Change and Energy
   - Water & Sanitation
-is_featured: true
+is_featured: false
 author:
   - Aryan D'Rozario
 ---
