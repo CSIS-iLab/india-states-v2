@@ -6,6 +6,12 @@ content_type: newsletter
 title: "States Weekly Newsletter: June 3, 2026"
 short_title: "States Weekly Newsletter: June 3, 2026"
 date: 2026-06-03T00:00:00.000-04:00
+tags:
+  - Health
+  - "Climate Change and Energy "
+  - "Industrial Policy & Business Regulations  "
+  - "Land Acquisition and Labor Regulations  "
+  - Infrastructure and Governance
 excerpt: "Big News: Bihar issues a Land Acquisition Policy and Land Survey
   Rules; Punjab repeals the Punjab Ad-hoc, Contractual, Daily Wage, Temporary,
   Work Charged and Outsourced Employees’ Welfare Act, 2016; Assam passes the
