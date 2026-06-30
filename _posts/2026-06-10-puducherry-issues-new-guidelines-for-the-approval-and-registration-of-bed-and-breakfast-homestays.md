@@ -1,20 +1,16 @@
 ---
-layout: post
-content_type: articles
-breadcrumbs: articles
-is_newsletter: false
-title: "Puducherry issues new guidelines for the approval and registration of
-  bed and breakfast homestays. "
-short_title: "Puducherry issues new guidelines for the approval and registration
-  of bed and breakfast homestays. "
+title: "Haryana amends the Haryana Building Code 2017. "
+short_title: "Haryana amends the Haryana Building Code 2017. "
 date: 2026-06-10T00:00:00.000-04:00
 states:
-  - Puducherry
+  - Haryana
 sectors:
-  - Industrial Policy and Business Regulations
+  - Land & Labor Laws
 sources:
-  - name: The Hindu
-    url: https://www.thehindu.com/news/cities/puducherry/puducherry-rolls-out-new-guidelines-for-homestays-bed-and-breakfast-establishments-to-boost-tourism/article71055957.ece
-details: []
+  - url: https://www.tribuneindia.com/news/haryana/haryana-makes-ev-charging-infrastructure-mandatory-in-new-buildings/
+    name: The Tribune
+details:
+  - url: https://rajpatra.hp.gov.in/OPENFILE1.aspx?ID=266/GAZETTE/2026-06/03/2026%20&etype=SPECIAL
+    name: Notification; Town and Country Planning (17th Amendment) Rules, 2026
 ---
-**Puducherry** issues new guidelines for the **approval and registration of bed and breakfast homestays.** Establishments can be self-certified and graded into four categories: silver, gold, gold plus, and platinum, based on facilities and services.
+**Haryana** amends the **Haryana Building Code 2017**. The amendments ensure that Electric Vehicle (EV) charging infrastructure 
