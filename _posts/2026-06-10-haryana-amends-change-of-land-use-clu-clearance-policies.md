@@ -1,17 +1,16 @@
 ---
-layout: post
-content_type: articles
-breadcrumbs: articles
-is_newsletter: false
-title: "Haryana amends Change of Land Use (CLU) clearance policies. "
-short_title: "Haryana amends Change of Land Use (CLU) clearance policies. "
+title: "Telangana bans cash payments to laborers and workers. "
+short_title: "Telangana bans cash payments to laborers and workers. "
 date: 2026-06-10T00:00:00.000-04:00
 states:
-  - Haryana
+  - Telangana
 sectors:
   - Land & Labor Laws
 sources:
-  - url: https://swarajyamag.com/news-brief/haryana-unveils-major-ease-of-doing-business-reforms-cuts-land-use-change-paperwork-from-19-documents-to-three
-    name: Swarajya
+  - url: https://www.business-standard.com/industry/news/telangana-govt-bans-cash-wages-brings-gig-workers-under-new-regulations-126060101138_1.html
+    name: "Business Standard "
+details:
+  - url: https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:c56b60e2-6ea6-46cf-868c-87ffbd52d966
+    name: Telangana Wages Notification
 ---
-**Haryana** amends **Change of Land Use (CLU) clearance policies**. The new policy slashes required documents from 19 to only 3. Additionally, auto-renewal options have been rolled out for eligible industries, easing both compliance costs and procedural hold-ups.
+**Telangana** bans **cash payments** **to laborers and workers.** Electronic transfers will now be mandatory.
