@@ -1,23 +1,15 @@
 ---
-layout: post
-content_type: articles
-breadcrumbs: articles
-is_newsletter: false
-title: " Tamil Nadu issues TNERC (Terms and Conditions for Determination of
-  Conventional Generation Tariff) Regulations, 2026. "
-short_title: " Tamil Nadu issues TNERC (Terms and Conditions for Determination
-  of Conventional Generation Tariff) Regulations, 2026. "
+title: "Punjab issues PSERC (Electricity Supply Code, Standards of Performance
+  and Related Matters) (3rd Amendment) Regulations, 2026. "
+short_title: "Punjab issues PSERC (Electricity Supply Code, Standards of
+  Performance and Related Matters) (3rd Amendment) Regulations, 2026. "
 date: 2026-06-10T00:00:00.000-04:00
 states:
-  - Tamil Nadu
+  - Punjab
 sectors:
   - Climate Change and Energy
 sources:
-  - name: Energy Dive
-    url: https://www.energdive.com/news/tamil-nadu-s-electricity-regulator-issues-draft-renewable-energy-tariff-regulations
-details:
-  - name: Tamil Nadu Electricity Regulatory Commission (Terms and Conditions for
-      Determination of Conventional Generation Tariff) Regulations, 2026
-    url: http://tnerc.tn.gov.in/PressRelease/files/PR-030620262110Eng.pdf
+  - name: Solar Quarter
+    url: https://solarquarter.com/2026/06/06/pserc-2026-amendment-updates-punjab-electricity-supply-code-with-new-load-ev-and-infrastructure-rules/
 ---
-**Tamil Nadu** issues **TNERC (Terms and Conditions for Determination of Conventional Generation Tariff) Regulations, 2026.** The regulations, issued by the Tamil Nadu Electricity Regulatory Commission (TNERC) will be applicable to all new grid-connected renewable energy projects commissioned during this period.
+**Punjab** issues **PSERC (Electricity Supply Code, Standards of Performance and Related Matters) (3rd Amendment) Regulations, 2026.** The regulations, issued by the Punjab State Electricity Regulatory Commission (PSERC), introduce a structured approach for calculating electricity demand based on the size and type of development.
