@@ -41,7 +41,7 @@ states:
   - West Bengal
   - Arunachal Pradesh
   - Union Territory of Ladakh
-is_featured: true
+is_featured: false
 author:
   - Aryan D'Rozario
 ---
