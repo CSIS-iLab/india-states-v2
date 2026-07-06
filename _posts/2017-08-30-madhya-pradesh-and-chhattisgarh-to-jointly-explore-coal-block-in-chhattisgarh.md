@@ -9,12 +9,8 @@ sectors:
 subsectors:
 - Coal
 sources:
-- name: 'Times of India
-
-'
-  url: 'http://timesofindia.indiatimes.com/city/mumbai/mumbai-rains-create-chaos-poisar-river-rising-alarmingly-dahisar-overflows/articleshow/60278500.cms
-
-'
+- name: 'Times of India'
+  url: 'http://timesofindia.indiatimes.com/city/mumbai/mumbai-rains-create-chaos-poisar-river-rising-alarmingly-dahisar-overflows/articleshow/60278500.cms'
 ---
 
 Madhya Pradesh and Chhattisgarh have formed a joint venture, Kerwa Coal Limited Company, to explore a new coal block in the Korba district of Chhattisgarh. The Madhya Pradesh government will have a 49 percent stake in the venture. 25 percent of output will be reserved for micro, small, and medium enterprises. 

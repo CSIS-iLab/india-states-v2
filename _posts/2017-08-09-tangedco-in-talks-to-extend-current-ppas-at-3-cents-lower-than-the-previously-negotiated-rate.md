@@ -14,12 +14,8 @@ sectors:
 subsectors:
 - Power
 sources:
-- name: 'The Hindu
-
-'
-  url: 'http://www.thehindu.com/news/national/tamil-nadu/tangedco-keen-on-extending-ppas/article19412865.ece
-
-'
+- name: 'The Hindu'
+  url: 'http://www.thehindu.com/news/national/tamil-nadu/tangedco-keen-on-extending-ppas/article19412865.ece'
 ---
 
 The Tamil Nadu Generation and Distribution Company (TANGEDCO) is in talks with private power producers to extend current medium-term power purchase agreements by two years with a tariff of 4 cents per unit, down from the current rate of up to 7 cents per unit. TANGEDCO is in talks with Jindal Power, Adani Enterprises, and National Energy Trading and Services Ltd for a total capacity of 500 megawatts (MW).

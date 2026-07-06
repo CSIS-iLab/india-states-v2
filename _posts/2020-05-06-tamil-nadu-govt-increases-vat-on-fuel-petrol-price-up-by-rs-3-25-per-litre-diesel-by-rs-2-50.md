@@ -1,8 +1,7 @@
 ---
 content_type: articles
 breadcrumbs: articles
-title: 'Tamil Nadu govt increases VAT on fuel: Petrol price up by Rs 3.25 per litre,
-  diesel by Rs 2.50'
+title: 'Tamil Nadu govt increases VAT on fuel: Petrol price up by Rs 3.25 per litre, diesel by Rs 2.50'
 date: 2020-05-06 04:00:00 +0000
 states:
 - Tamil Nadu

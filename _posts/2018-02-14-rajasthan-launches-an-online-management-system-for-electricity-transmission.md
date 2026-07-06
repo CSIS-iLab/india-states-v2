@@ -8,12 +8,8 @@ sectors:
 subsectors:
 - Power
 sources:
-- name: 'Times of India
-
-'
-  url: 'https://timesofindia.indiatimes.com/city/jaipur/smart-transmission-management-system-launched-in-state/articleshow/62796138.cms
-
-'
+- name: 'Times of India'
+  url: 'https://timesofindia.indiatimes.com/city/jaipur/smart-transmission-management-system-launched-in-state/articleshow/62796138.cms'
 ---
 
 Rajasthan has launched an online smart electricity transmission operation management system in the state through which scheduling of generation and demand, deviation settlement, energy accounting and billing, approval of open access will be automated. 

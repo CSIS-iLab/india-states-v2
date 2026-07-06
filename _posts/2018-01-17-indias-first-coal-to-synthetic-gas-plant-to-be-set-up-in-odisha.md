@@ -10,12 +10,8 @@ subsectors:
 - Coal
 - Oil and Gas
 sources:
-- name: 'News 18
-
-'
-  url: 'http://www.news18.com/news/business/gail-to-set-up-indias-1st-coal-to-gas-conversion-plant-in-odisha-1629517.html
-
-'
+- name: 'News 18'
+  url: 'http://www.news18.com/news/business/gail-to-set-up-indias-1st-coal-to-gas-conversion-plant-in-odisha-1629517.html'
 ---
 
 India's first plant to convert coal to synthetic gas will be set up in Odisha under the supervision of GAIL, the central gas transmission utility. 

@@ -1,8 +1,7 @@
 ---
 content_type: articles
 breadcrumbs: articles
-title: 'Delhi offers incentives for consumers purchases power from waste-to-energy
-  plants '
+title: 'Delhi offers incentives for consumers purchases power from waste-to-energy plants'
 date: 2019-01-30 05:00:00 +0000
 states:
 - Delhi

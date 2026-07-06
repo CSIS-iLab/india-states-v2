@@ -1,8 +1,7 @@
 ---
 content_type: articles
 breadcrumbs: articles
-title: 'Coronavirus lockdown: Discoms get 3 months for payment to ensure 24x7 power
-  supply'
+title: 'Coronavirus lockdown: Discoms get 3 months for payment to ensure 24x7 power supply'
 date: 2020-04-01 04:00:00 +0000
 states:
 - Center-State Relations

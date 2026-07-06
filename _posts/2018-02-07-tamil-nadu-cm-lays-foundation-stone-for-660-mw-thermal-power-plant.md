@@ -9,12 +9,8 @@ sectors:
 subsectors:
 - Coal
 sources:
-- name: 'The Hindu
-
-'
-  url: 'http://www.thehindu.com/news/national/tamil-nadu/after-long-delay-udangudi-power-project-kicks-off/article22580584.ece
-
-'
+- name: 'The Hindu'
+  url: 'http://www.thehindu.com/news/national/tamil-nadu/after-long-delay-udangudi-power-project-kicks-off/article22580584.ece'
 ---
 
 Tamil Nadu chief minister laid the foundation stone for the first stage of the two units of 660 MW Udangudi Thermal Power Project, scheduled to be completed by 2021 by Bharat Heavy Electricals Limited (BHEL). 

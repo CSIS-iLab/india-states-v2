@@ -1,8 +1,7 @@
 ---
 content_type: articles
 breadcrumbs: articles
-title: 'Karnataka Electricity Regulatory Commission (KERC) issues draft Renewable
-  Purchase Obligation (RPO) '
+title: 'Karnataka Electricity Regulatory Commission (KERC) issues draft Renewable Purchase Obligation (RPO)'
 date: 2022-05-12 07:00:00 +0000
 states:
 - Karnataka

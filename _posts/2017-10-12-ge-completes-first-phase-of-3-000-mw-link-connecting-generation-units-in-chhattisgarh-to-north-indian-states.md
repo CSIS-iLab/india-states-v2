@@ -15,12 +15,8 @@ sectors:
 subsectors:
 - Power
 sources:
-- name: 'Economic Times
-
-'
-  url: 'http://economictimes.indiatimes.com/industry/indl-goods/svs/engineering/ge-completes-first-phase-of-champa-kurukshetra-hvdc-link/articleshow/60956150.cms
-
-'
+- name: 'Economic Times'
+  url: 'http://economictimes.indiatimes.com/industry/indl-goods/svs/engineering/ge-completes-first-phase-of-champa-kurukshetra-hvdc-link/articleshow/60956150.cms'
 ---
 
 General Electric (GE) completed the first phase of Champa-Kurukshetra HVDC link of 3,000 MW. The link aims to energize demand centers of northern India by enabling states such as Punjab, Haryana, Uttar Pradesh, and Rajasthan to access power from generation projects coming up in Raigarh, Champa and Raipur generation complex in Chhattisgarh.

@@ -12,9 +12,7 @@ sectors:
 subsectors:
 - Renewables
 sources:
-- name: 'Hindu Business Line
-
-'
+- name: 'Hindu Business Line'
   url: http://www.thehindubusinessline.com/companies/vikram-solar-commissions-10-mw-solar-plant-for-ttd-in-ap/article9636786.ece
 ---
 

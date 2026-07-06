@@ -11,12 +11,8 @@ sectors:
 subsectors:
 - Renewables
 sources:
-- name: 'Financial Express
-
-'
-  url: 'http://www.financialexpress.com/industry/ibc-solar-commission-22-5-mwp-project-in-rajasthan/695355/
-
-'
+- name: 'Financial Express'
+  url: 'http://www.financialexpress.com/industry/ibc-solar-commission-22-5-mwp-project-in-rajasthan/695355/'
 ---
 
 IBC SOLAR commissioned a 22.5 MWp solar power plant, its sixth in Rajasthan. 

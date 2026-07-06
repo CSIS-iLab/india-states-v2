@@ -16,12 +16,8 @@ sectors:
 subsectors:
 - Renewables
 sources:
-- name: 'Business Today
-
-'
-  url: 'http://www.businesstoday.in/current/economy-politics/world-bank-grants-india-permission-to-construct-kishanganga-ratle-projects-indus-water-treaty/story/257649.html
-
-'
+- name: 'Business Today'
+  url: 'http://www.businesstoday.in/current/economy-politics/world-bank-grants-india-permission-to-construct-kishanganga-ratle-projects-indus-water-treaty/story/257649.html'
 ---
 
 The World Bank ruled that India is permitted to go forward with planned hydroelectric power plants on tributaries of the Jhelum and Chenab rivers under the 1960 Indus Waters Treaty. India is building the Kishanganga (330 MW) and Ratle (850 MW) hydroelectric plants in Jammu and Kashmir.

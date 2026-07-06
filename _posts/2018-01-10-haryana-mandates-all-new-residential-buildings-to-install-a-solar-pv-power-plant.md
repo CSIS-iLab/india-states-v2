@@ -9,12 +9,8 @@ sectors:
 subsectors:
 - Renewables
 sources:
-- name: 'Indian Express
-
-'
-  url: 'http://indianexpress.com/article/india/haryana-makes-solar-power-plants-mandatory-for-new-buildings-5009217/
-
-'
+- name: 'Indian Express'
+  url: 'http://indianexpress.com/article/india/haryana-makes-solar-power-plants-mandatory-for-new-buildings-5009217/'
 ---
 
 The Haryana New and Renewable Energy Department has made it mandatory for all new residential buildings, built on a plot size of 500 square yards and above to install solar photovoltaic (PV) power plants. This is also applicable to all new private medical facilities, educational institutions, hotels, and tourism complexes.

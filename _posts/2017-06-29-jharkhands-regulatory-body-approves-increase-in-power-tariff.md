@@ -11,9 +11,7 @@ sectors:
 subsectors:
 - Power
 sources:
-- name: 'Avenue Mail
-
-'
+- name: 'Avenue Mail'
   url: http://www.avenuemail.in/jamshedpur/power-becomes-costlier-jharkhand/109760/
 ---
 

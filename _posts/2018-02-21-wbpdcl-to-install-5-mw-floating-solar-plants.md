@@ -8,12 +8,8 @@ sectors:
 subsectors:
 - Renewables
 sources:
-- name: 'PV Tech
-
-'
-  url: 'https://www.pv-tech.org/news/west-bengal-power-firm-tendering-for-10mw-of-floating-solar-on-thermal-powe
-
-'
+- name: 'PV Tech'
+  url: 'https://www.pv-tech.org/news/west-bengal-power-firm-tendering-for-10mw-of-floating-solar-on-thermal-powe'
 ---
 
 The West Bengal Power Development Corporation Limited (WBPDCL) plans to install 5 MW floating solar plants on its raw water ponds at both the Santhaldih and Sagardighi thermal power plants. 

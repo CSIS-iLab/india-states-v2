@@ -12,9 +12,7 @@ sectors:
 subsectors:
 - Renewables
 sources:
-- name: 'PV Tech
-
-'
+- name: 'PV Tech'
   url: https://www.pv-tech.org/news/indias-kerala-reduces-benchmark-solar-tariff-after-record-lows-in-other-sta
 ---
 

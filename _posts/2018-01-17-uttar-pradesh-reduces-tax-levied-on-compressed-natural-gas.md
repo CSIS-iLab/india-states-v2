@@ -8,12 +8,8 @@ sectors:
 subsectors:
 - Oil and Gas
 sources:
-- name: 'Hindustan Times
-
-'
-  url: 'http://www.hindustantimes.com/lucknow/uttar-pradesh-reduces-vat-on-cng-from-10-to-5-pc/story-wI00wyEduADu4rjTbPAJBL.html
-
-'
+- name: 'Hindustan Times'
+  url: 'http://www.hindustantimes.com/lucknow/uttar-pradesh-reduces-vat-on-cng-from-10-to-5-pc/story-wI00wyEduADu4rjTbPAJBL.html'
 ---
 
 The state cabinet has cut value added tax (VAT) on compressed natural gas (CNG) to five cents. 

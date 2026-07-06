@@ -17,12 +17,8 @@ sectors:
 subsectors:
 - Power
 sources:
-- name: 'Economic Times
-
-'
-  url: 'http://economictimes.indiatimes.com/industry/energy/power/andhra-pradesh-power-companies-adopt-bharatqr/articleshow/60157027.cms
-
-'
+- name: 'Economic Times'
+  url: 'http://economictimes.indiatimes.com/industry/energy/power/andhra-pradesh-power-companies-adopt-bharatqr/articleshow/60157027.cms'
 ---
 
 Two state power distribution companies (discoms) have started accepting digital bill payments via BharatQR, becoming some of the first discoms to accept digital payments. BharatQR, launched by the Reserve Bank of India, is an interoperable payment method that accepts payments via all four major payment networks: Visa, Mastercard, RuPay, and American Express.

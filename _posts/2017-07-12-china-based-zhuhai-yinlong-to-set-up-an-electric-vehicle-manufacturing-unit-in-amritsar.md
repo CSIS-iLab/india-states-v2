@@ -13,9 +13,7 @@ sectors:
 subsectors:
 - Energy-related Transportation
 sources:
-- name: 'Daily News and Analysis
-
-'
+- name: 'Daily News and Analysis'
   url: http://www.dnaindia.com/business/report-chinese-firm-to-launch-pilot-electric-car-project-in-amritsar-2491185
 ---
 

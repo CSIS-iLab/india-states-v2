@@ -9,12 +9,8 @@ sectors:
 subsectors:
 - Oil and Gas
 sources:
-- name: 'Money Control
-
-'
-  url: 'http://www.moneycontrol.com/news/india/punjab-inks-mou-with-ioc-to-set-up-biogas-bio-cng-plants-2483639.html
-
-'
+- name: 'Money Control'
+  url: 'http://www.moneycontrol.com/news/india/punjab-inks-mou-with-ioc-to-set-up-biogas-bio-cng-plants-2483639.html'
 ---
 
 The Punjab government has signed an MOU with the Indian Oil Corporation to set up bio-gas and bio-compressed natural gas plants in the state. 

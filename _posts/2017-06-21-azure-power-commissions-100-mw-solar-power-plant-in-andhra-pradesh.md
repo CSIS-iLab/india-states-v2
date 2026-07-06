@@ -12,9 +12,7 @@ sectors:
 subsectors:
 - Renewables
 sources:
-- name: 'Hindu Business Line
-
-'
+- name: 'Hindu Business Line'
   url: http://www.thehindubusinessline.com/companies/azure-power-commissions-100-mw-ntpc-solar-project-in-ap/article9726718.ece
 ---
 

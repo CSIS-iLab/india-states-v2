@@ -12,12 +12,8 @@ subsectors:
 - Renewables
 - Energy-related Transportation
 sources:
-- name: 'Business Standard
-
-'
-  url: 'http://www.business-standard.com/article/companies/delhi-metro-to-meet-a-sixth-of-its-energy-needs-from-solar-to-curtail-costs-117062100493_1.html
-
-'
+- name: 'Business Standard'
+  url: 'http://www.business-standard.com/article/companies/delhi-metro-to-meet-a-sixth-of-its-energy-needs-from-solar-to-curtail-costs-117062100493_1.html'
 ---
 
 The Delhi Metro Rail Corporation unveiled a solar policy that calls for it to meet nearly a sixth of its power requirements from solar energy. DMRC may install solar panels on roof sheds and in parking lots.

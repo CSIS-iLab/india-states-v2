@@ -1,8 +1,7 @@
 ---
 content_type: articles
 breadcrumbs: articles
-title: 'DISCOMs Should Provide Net Metering for Renewable Energy Systems in Ten Days:
-  Kerala'
+title: 'DISCOMs Should Provide Net Metering for Renewable Energy Systems in Ten Days: Kerala'
 date: 2019-09-18 04:00:00 +0000
 states:
 - Kerala

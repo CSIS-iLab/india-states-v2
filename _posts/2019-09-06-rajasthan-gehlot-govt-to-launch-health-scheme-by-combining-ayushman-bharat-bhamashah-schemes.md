@@ -1,8 +1,7 @@
 ---
 content_type: articles
 breadcrumbs: articles
-title: 'Rajasthan: Gehlot govt to launch health scheme by combining Ayushman Bharat,
-  Bhamashah schemes'
+title: 'Rajasthan: Gehlot govt to launch health scheme by combining Ayushman Bharat, Bhamashah schemes'
 date: 2019-09-06 04:00:00 +0000
 states:
 - Rajasthan

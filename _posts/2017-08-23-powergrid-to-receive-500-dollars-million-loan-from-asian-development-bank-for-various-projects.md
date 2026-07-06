@@ -18,12 +18,8 @@ sectors:
 subsectors:
 - Power
 sources:
-- name: 'Economic Times
-
-'
-  url: 'http://energy.economictimes.indiatimes.com/news/power/power-grid-inks-500-million-loan-pact-with-adb/60128824
-
-'
+- name: 'Economic Times'
+  url: 'http://energy.economictimes.indiatimes.com/news/power/power-grid-inks-500-million-loan-pact-with-adb/60128824'
 ---
 
 State-run power transmission utility Power Grid Corp today said it will get a loan of $500 million from the Asian Development Bank (ADB) for its various projects. According to the statement, the proceeds of the loan are proposed to be utilised for funding of Green Energy Corridor (Part D); 800 kilovolt (KV) High Voltage Direct Current (HVDC) bipole link between Western Region (Raigarh, Chhattisgarh) and Southern Region (Pugalur, Tamil Nadu) and 320 KV HDVC link between Pugalur and North Trichur (Kerala)

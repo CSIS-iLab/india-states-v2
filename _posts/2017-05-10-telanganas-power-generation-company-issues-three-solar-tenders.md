@@ -11,12 +11,8 @@ sectors:
 subsectors:
 - Renewables
 sources:
-- name: 'PV Tech
-
-'
-  url: 'https://www.pv-tech.org/news/telangana-state-power-firm-tenders-15mw-solar-in-india
-
-'
+- name: 'PV Tech'
+  url: 'https://www.pv-tech.org/news/telangana-state-power-firm-tenders-15mw-solar-in-india'
 ---
 
 The Telangana State Power Generation Corporation has issued three tenders for solar power projects with a combined capacity of 20 MW, the first tenders in the state.

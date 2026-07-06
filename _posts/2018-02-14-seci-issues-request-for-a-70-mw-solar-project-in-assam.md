@@ -9,19 +9,11 @@ sectors:
 subsectors:
 - Renewables
 sources:
-- name: 'Energy infra Post
-
-'
-  url: 'http://energyinfrapost.com/seci-tenders-70mw-solar-project-assam/
-
-'
+- name: 'Energy infra Post'
+  url: 'http://energyinfrapost.com/seci-tenders-70mw-solar-project-assam/'
 details:
-- name: 'Press Release
-
-'
-  url: 'http://seci.co.in/show_whats_new.php?id=603
-
-'
+- name: 'Press Release'
+  url: 'http://seci.co.in/show_whats_new.php?id=603'
 ---
 
 Solar Energy Corporation of India (SECI) has issued a request for selection (RfP) for a 70MW solar project in Assam at the Amguri solar park. 

@@ -14,9 +14,7 @@ sectors:
 subsectors:
 - Oil and Gas
 sources:
-- name: 'Economic Times
-
-'
+- name: 'Economic Times'
   url: http://energy.economictimes.indiatimes.com/news/oil-and-gas/ground-breaking-ceremony-of-rs-6000-crore-dhamra-lng-terminal-held/59510908
 ---
 

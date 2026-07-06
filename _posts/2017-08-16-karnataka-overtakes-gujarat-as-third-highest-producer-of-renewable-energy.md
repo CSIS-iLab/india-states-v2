@@ -9,12 +9,8 @@ sectors:
 subsectors:
 - Renewables
 sources:
-- name: 'Times of India
-
-'
-  url: 'http://timesofindia.indiatimes.com/city/bengaluru/ktaka-at-3rd-spot-in-renewable-energy-production/articleshow/59981631.cms
-
-'
+- name: 'Times of India'
+  url: 'http://timesofindia.indiatimes.com/city/bengaluru/ktaka-at-3rd-spot-in-renewable-energy-production/articleshow/59981631.cms'
 ---
 
 Karnataka has overtaken Gujarat to become India’s third highest producer of renewable energy, after Tamil Nadu and Maharashtra. Karnataka has 7,458 MW of installed capacity.

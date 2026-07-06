@@ -11,9 +11,7 @@ sectors:
 subsectors:
 - Renewables
 sources:
-- name: 'Daily Pioneer
-
-'
+- name: 'Daily Pioneer'
   url: http://www.dailypioneer.com/state-editions/raipur/solar-energy-policy--2017-27-endorsed.html
 ---
 

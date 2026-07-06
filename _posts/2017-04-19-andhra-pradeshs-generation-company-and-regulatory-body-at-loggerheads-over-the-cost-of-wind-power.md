@@ -13,9 +13,7 @@ sectors:
 subsectors:
 - Renewables
 sources:
-- name: 'Economic Times
-
-'
+- name: 'Economic Times'
   url: http://energy.economictimes.indiatimes.com/news/renewable/andhra-pradesh-power-regulator-main-generation-company-spar-over-wind-energy-tariff/58174867
 ---
 

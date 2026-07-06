@@ -12,12 +12,8 @@ sectors:
 subsectors:
 - Coal
 sources:
-- name: 'Economic Times
-
-'
-  url: 'http://economictimes.indiatimes.com/news/bhel-commissions-270-mw-thermal-unit-in-nashik-district-of-maharashtra-/articleshow/58838003.cms
-
-'
+- name: 'Economic Times'
+  url: 'http://economictimes.indiatimes.com/news/bhel-commissions-270-mw-thermal-unit-in-nashik-district-of-maharashtra-/articleshow/58838003.cms'
 ---
 
 State-run Bharat Heavy Electricals Ltd (BHEL)has commissioned the fourth 270 megawatt (MW) coal-fired unit at RattanIndia Nasik Power Ltd’s 5×270 MW thermal power project.

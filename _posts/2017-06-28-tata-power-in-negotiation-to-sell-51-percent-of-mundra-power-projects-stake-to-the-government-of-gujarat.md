@@ -12,12 +12,8 @@ sectors:
 subsectors:
 - Coal
 sources:
-- name: 'Financial Express
-
-'
-  url: 'http://www.financialexpress.com/industry/tata-power-mulls-51-stake-sale-in-mundra-umpp-to-gujarat-govt-for-re-1-token-amount/730410/
-
-'
+- name: 'Financial Express'
+  url: 'http://www.financialexpress.com/industry/tata-power-mulls-51-stake-sale-in-mundra-umpp-to-gujarat-govt-for-re-1-token-amount/730410/'
 ---
 
 Tata Power, concerned that its Mundra Ultra Mega Power Project will become a non-performing asset, and has offered to sell a 51 percent stake in the project to the Gujarat government for 1 cent, plus help in covering production costs.

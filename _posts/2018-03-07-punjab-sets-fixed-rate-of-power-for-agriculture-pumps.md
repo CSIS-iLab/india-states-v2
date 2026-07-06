@@ -8,12 +8,8 @@ sectors:
 subsectors:
 - Power
 sources:
-- name: 'Times of India
-
-'
-  url: 'https://timesofindia.indiatimes.com/city/chandigarh/pspcl-finalises-policy-to-bill-tubewell-connections-at-flat-rate/articleshow/63101942.cms
-
-'
+- name: 'Times of India'
+  url: 'https://timesofindia.indiatimes.com/city/chandigarh/pspcl-finalises-policy-to-bill-tubewell-connections-at-flat-rate/articleshow/63101942.cms'
 ---
 
 The Punjab State Power Corporation Limited (PSPCL) notified farmers, who voluntarily surrender their power subsidy, that they will be charged a fixed rate of $6.16 per BHP each month. 

@@ -1,8 +1,7 @@
 ---
 content_type: articles
 breadcrumbs: articles
-title: 'Maharashtra: CM approves MCGM proposal to start its own independent power
-  generation plant'
+title: 'Maharashtra: CM approves MCGM proposal to start its own independent power generation plant'
 date: 2019-12-18 05:00:00 +0000
 states:
 - Maharashtra

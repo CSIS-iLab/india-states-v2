@@ -1,8 +1,7 @@
 ---
 content_type: articles
 breadcrumbs: articles
-title: 'Pharma wrap: Govt to give Rs 14k crore boost to promote production of bulk
-  drugs, medical devices'
+title: 'Pharma wrap: Govt to give Rs 14k crore boost to promote production of bulk drugs, medical devices'
 date: 2020-03-25 04:00:00 +0000
 states:
 - Center-State Relations

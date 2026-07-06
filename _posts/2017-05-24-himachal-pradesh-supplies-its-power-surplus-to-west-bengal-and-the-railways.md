@@ -11,12 +11,8 @@ sectors:
 subsectors:
 - Power
 sources:
-- name: 'Times of India
-
-'
-  url: 'http://www.tribuneindia.com/news/himachal/states-line-up-to-purchase-power/410142.html
-
-'
+- name: 'Times of India'
+  url: 'http://www.tribuneindia.com/news/himachal/states-line-up-to-purchase-power/410142.html'
 ---
 
 With a power surplus of almost 1150 MW, Himachal Pradesh has started supplying power to West Bengal and the Railways. The state sells power at an average price of 4.3 cents per unit, only marginally higher than last year’s average of 4 cents

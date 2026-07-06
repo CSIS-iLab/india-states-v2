@@ -8,12 +8,8 @@ sectors:
 subsectors:
 - Energy-related Transportation
 sources:
-- name: 'Bloomberg Quint
-
-'
-  url: 'https://www.bloombergquint.com/business/2018/02/07/indian-state-with-most-cars-plans-electric-vehicle-push
-
-'
+- name: 'Bloomberg Quint'
+  url: 'https://www.bloombergquint.com/business/2018/02/07/indian-state-with-most-cars-plans-electric-vehicle-push'
 details:
 - name: Maharashtra Electric Vehicle and Related Infrastructure Policy 2018
   url: https://csis-prod.s3.amazonaws.com/s3fs-public/A4-MIDC-Maharashtras-Electric-POLICY.PDF?qsFlIsn3QwQ9cpu1b8eOhDCItiAWPnok

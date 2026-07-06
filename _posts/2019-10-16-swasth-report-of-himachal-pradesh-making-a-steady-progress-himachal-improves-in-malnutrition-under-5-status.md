@@ -1,8 +1,7 @@
 ---
 content_type: articles
 breadcrumbs: articles
-title: 'Swasth Report Of Himachal Pradesh: Making A Steady Progress Himachal Improves
-  In Malnutrition Under 5 Status'
+title: 'Swasth Report Of Himachal Pradesh: Making A Steady Progress Himachal Improves In Malnutrition Under 5 Status'
 date: 2019-10-16 04:00:00 +0000
 states:
 - Himachal Pradesh

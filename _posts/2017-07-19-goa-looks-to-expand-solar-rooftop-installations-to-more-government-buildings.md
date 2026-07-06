@@ -11,9 +11,7 @@ sectors:
 subsectors:
 - Renewables
 sources:
-- name: 'Economic Times
-
-'
+- name: 'Economic Times'
   url: http://energy.economictimes.indiatimes.com/news/renewable/soon-government-buildings-in-goa-to-be-solar-powered/59571391
 ---
 

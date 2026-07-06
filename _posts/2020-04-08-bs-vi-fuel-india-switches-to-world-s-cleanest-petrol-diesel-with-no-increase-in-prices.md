@@ -1,8 +1,7 @@
 ---
 content_type: articles
 breadcrumbs: articles
-title: 'BS-VI Fuel: India Switches To World’s Cleanest Petrol, Diesel With No Increase
-  In Prices'
+title: 'BS-VI Fuel: India Switches To World’s Cleanest Petrol, Diesel With No Increase In Prices'
 date: 2020-04-08 04:00:00 +0000
 states:
 - Center-State Relations

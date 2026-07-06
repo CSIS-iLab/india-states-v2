@@ -1,8 +1,7 @@
 ---
 content_type: articles
 breadcrumbs: articles
-title: 'Haryana''s thermal power plants in NCR to be shut if emission norms not met
-  by 2020: EPCA'
+title: 'Haryana''s thermal power plants in NCR to be shut if emission norms not met by 2020: EPCA'
 date: 2019-10-23 04:00:00 +0000
 states:
 - Haryana

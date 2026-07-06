@@ -8,12 +8,8 @@ sectors:
 subsectors:
 - Power
 sources:
-- name: 'The Hindu
-
-'
-  url: 'http://www.thehindu.com/todays-paper/tp-national/tp-otherstates/punjab-to-give-power-subsidy-in-cash/article22516904.ece
-
-'
+- name: 'The Hindu'
+  url: 'http://www.thehindu.com/todays-paper/tp-national/tp-otherstates/punjab-to-give-power-subsidy-in-cash/article22516904.ece'
 ---
 
 The Punjab government approved a pilot project on studying direct benefit transfer for electricity (DBTE) for 990 agriculture consumers in the State. 

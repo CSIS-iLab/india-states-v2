@@ -9,12 +9,8 @@ sectors:
 subsectors:
 - Power
 sources:
-- name: 'Energy Infra Post
-
-'
-  url: 'http://energyinfrapost.com/uttar-pradesh-government-allows-industry-choose-power-discom/
-
-'
+- name: 'Energy Infra Post'
+  url: 'http://energyinfrapost.com/uttar-pradesh-government-allows-industry-choose-power-discom/'
 ---
 
 The Uttar Pradesh government has decided to allow industrial power consumer to choose the power distribution company from which they want to buy power through the open access system. 

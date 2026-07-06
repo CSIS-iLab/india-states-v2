@@ -14,12 +14,8 @@ sectors:
 subsectors:
 - Renewables
 sources:
-- name: 'Economic Times
-
-'
-  url: 'http://economictimes.indiatimes.com/news/economy/policy/gst-council-clears-rules-states-agree-to-july-1-rollout/articleshow/58974831.cms
-
-'
+- name: 'Economic Times'
+  url: 'http://economictimes.indiatimes.com/news/economy/policy/gst-council-clears-rules-states-agree-to-july-1-rollout/articleshow/58974831.cms'
 ---
 
 The GST Council set tax rates for six controversial or high-profile types of goods, including shoes, apparel, and solar panels. Revising an earlier decision to tax solar panels at 18 percent, they will now be taxed at 5 percent.

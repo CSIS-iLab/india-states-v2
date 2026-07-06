@@ -10,9 +10,7 @@ sectors:
 subsectors:
 - Power
 sources:
-- name: 'Hindustan Times
-
-'
+- name: 'Hindustan Times'
   url: http://www.hindustantimes.com/punjab/industry-power-tariff-frozen-at-rs-5-startup-fund-of-rs-100-crore-cm-in-punjab-assembly/story-tptHDOQzwHZjdAeN618KQL.html
 ---
 

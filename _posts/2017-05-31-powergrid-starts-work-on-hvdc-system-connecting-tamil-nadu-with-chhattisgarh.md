@@ -14,12 +14,8 @@ subsectors:
 - Power
 - Renewables
 sources:
-- name: 'The Hindu
-
-'
-  url: 'http://www.thehindu.com/todays-paper/tp-national/tp-tamilnadu/two-way-line-to-transmit-thermal-wind-power/article18579949.ece
-
-'
+- name: 'The Hindu'
+  url: 'http://www.thehindu.com/todays-paper/tp-national/tp-tamilnadu/two-way-line-to-transmit-thermal-wind-power/article18579949.ece'
 ---
 
 The Power Grid Corporation broke ground on an 800 kilovolt ultra high-voltage direct current system linking western Tamil Nadu with Chhattisgarh. When complete, the system will enable Tamil Nadu to transmit electricity generated from wind farms to central India. 

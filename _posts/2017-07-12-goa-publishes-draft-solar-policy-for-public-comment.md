@@ -11,14 +11,10 @@ sectors:
 subsectors:
 - Renewables
 sources:
-- name: 'Economic Times
-
-'
+- name: 'Economic Times'
   url: http://energy.economictimes.indiatimes.com/news/renewable/solar-energy-draft-policy-of-goa-government-open-to-public-for-comments/59434476
 details:
-- name: 'Draft Solar Policy
-
-'
+- name: 'Draft Solar Policy'
   url: http://dstegoa.gov.in/Solar%20Policy%20-2017.pdf
 ---
 

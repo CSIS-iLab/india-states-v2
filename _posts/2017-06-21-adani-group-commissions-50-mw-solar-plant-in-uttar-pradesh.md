@@ -13,9 +13,7 @@ sectors:
 subsectors:
 - Renewables
 sources:
-- name: 'Hindu Business Line
-
-'
+- name: 'Hindu Business Line'
   url: http://www.thehindubusinessline.com/companies/adani-commissions-50-mw-solar-pv-plant-in-uttar-pradesh/article9725991.ece
 ---
 

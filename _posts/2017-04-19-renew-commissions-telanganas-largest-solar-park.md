@@ -12,12 +12,8 @@ sectors:
 subsectors:
 - Renewables
 sources:
-- name: 'Economic Times
-
-'
-  url: 'http://energy.economictimes.indiatimes.com/news/renewable/telangana-gets-its-largest-solar-farm-in-nizamabad-district/58202516
-
-'
+- name: 'Economic Times'
+  url: 'http://energy.economictimes.indiatimes.com/news/renewable/telangana-gets-its-largest-solar-farm-in-nizamabad-district/58202516'
 ---
 
 ReNew Power Ventures Pvt Ltd. commissioned Telangana’s largest solar park, with a capacity of 143 MW, in Nizamabad district. ReNew has targeted an installed capacity of 510 MW in Telangana.

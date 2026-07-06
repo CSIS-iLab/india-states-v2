@@ -9,12 +9,8 @@ sectors:
 subsectors:
 - Coal
 sources:
-- name: 'Money Control
-
-'
-  url: 'http://www.moneycontrol.com/news/business/bhel-commissions-250-mw-thermal-power-unit-in-bihar-2482039.html
-
-'
+- name: 'Money Control'
+  url: 'http://www.moneycontrol.com/news/business/bhel-commissions-250-mw-thermal-power-unit-in-bihar-2482039.html'
 ---
 
 Bharat Heavy Electricals Limited (BHEL) has commissioned a 250 megawatt (MW) thermal power unit at the Barauni Extension project in Begusarai. 

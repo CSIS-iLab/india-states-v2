@@ -11,9 +11,7 @@ sectors:
 subsectors:
 - Power
 sources:
-- name: 'Business Standard
-
-'
+- name: 'Business Standard'
   url: http://www.business-standard.com/article/economy-policy/relief-for-chhattisgarh-steel-units-new-power-tariff-applicable-from-apr-1-117061200418_1.html
 ---
 

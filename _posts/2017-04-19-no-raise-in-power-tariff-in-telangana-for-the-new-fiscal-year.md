@@ -10,12 +10,8 @@ sectors:
 subsectors:
 - Power
 sources:
-- name: 'Hindu Business Line
-
-'
-  url: 'http://www.thehindubusinessline.com/news/national/no-increase-in-power-tariff-in-telangana/article9640369.ece
-
-'
+- name: 'Hindu Business Line'
+  url: 'http://www.thehindubusinessline.com/news/national/no-increase-in-power-tariff-in-telangana/article9640369.ece'
 ---
 
 With the concurrence of Telangana’s power distribution companies, the state Electricity Regulatory Commission decided not to raise power tariffs at all for the new financial year.
