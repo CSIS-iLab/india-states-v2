@@ -13,12 +13,8 @@ sectors:
 subsectors:
 - Power
 sources:
-- name: 'Financial Express
-
-'
-  url: 'http://www.financialexpress.com/india-news/as-yogi-adityanath-looks-for-cheaper-power-uttar-pradesh-exiting-all-costly-ppas/762595/
-
-'
+- name: 'Financial Express'
+  url: 'http://www.financialexpress.com/india-news/as-yogi-adityanath-looks-for-cheaper-power-uttar-pradesh-exiting-all-costly-ppas/762595/'
 ---
 
 In a bid to cut power purchase costs to 6 cents per unit, the Uttar Pradesh Power Corporation (UPPCL) has decided to exit all power purchase agreements (PPAs) where costs are above that mark. UPPCL has already served 10 day exit notices on Bajaj Energy’s five 90 MW generation plants, where power costs 10.9 cents per unit.

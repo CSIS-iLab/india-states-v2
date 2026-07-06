@@ -10,12 +10,8 @@ sectors:
 subsectors:
 - Power
 sources:
-- name: 'Money Control
-
-'
-  url: 'http://www.moneycontrol.com/news/trends/current-affairs-trends/power-tariff-increased-in-haryana-opposition-slams-bjp-govt-2330489.html
-
-'
+- name: 'Money Control'
+  url: 'http://www.moneycontrol.com/news/trends/current-affairs-trends/power-tariff-increased-in-haryana-opposition-slams-bjp-govt-2330489.html'
 ---
 
 The Haryana Electricity Regulatory Commission raised power tariffs by up to .7 cents per unit. The increase does not apply to domestic consumers with a monthly consumption of up to 150 units. 

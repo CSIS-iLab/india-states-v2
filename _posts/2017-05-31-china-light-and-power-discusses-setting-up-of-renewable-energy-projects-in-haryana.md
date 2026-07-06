@@ -13,9 +13,7 @@ sectors:
 subsectors:
 - Renewables
 sources:
-- name: 'Economic Times
-
-'
+- name: 'Economic Times'
   url: http://economictimes.indiatimes.com/industry/energy/power/haryana-government-to-set-up-renewable-energy-project-at-jhajjar/articleshow/58824473.cms
 ---
 

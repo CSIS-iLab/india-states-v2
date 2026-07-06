@@ -12,9 +12,7 @@ sectors:
 subsectors:
 - Power
 sources:
-- name: 'Times of India
-
-'
+- name: 'Times of India'
   url: http://timesofindia.indiatimes.com/city/chandigarh/ahead-of-paddy-sowing-punjab-buys-1000mw-power-from-gujarat/articleshow/59304464.cms
 ---
 

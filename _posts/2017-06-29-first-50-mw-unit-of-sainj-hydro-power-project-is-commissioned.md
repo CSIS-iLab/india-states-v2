@@ -13,9 +13,7 @@ sectors:
 subsectors:
 - Renewables
 sources:
-- name: 'Business Standard
-
-'
+- name: 'Business Standard'
   url: http://www.business-standard.com/article/pti-stories/first-unit-of-100-mw-sainj-hydropower-project-commissioned-117062001332_1.html
 ---
 

@@ -9,12 +9,8 @@ sectors:
 subsectors:
 - Oil and Gas
 sources:
-- name: 'The Hindu
-
-'
-  url: 'http://www.thehindu.com/news/national/andhra-pradesh/ggpl-to-supply-piped-gas-in-godavari-districts-soon/article22638301.ece
-
-'
+- name: 'The Hindu'
+  url: 'http://www.thehindu.com/news/national/andhra-pradesh/ggpl-to-supply-piped-gas-in-godavari-districts-soon/article22638301.ece'
 ---
 
 Godavari Gas Private Limited (GGPL), a joint venture of the Andhra Pradesh Gas Distribution Corporation and the Gas Authority of India Limited, is set to supply piped natural gas to the east and west Godavari districts.

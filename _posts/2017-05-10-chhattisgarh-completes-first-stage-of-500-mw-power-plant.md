@@ -12,12 +12,8 @@ sectors:
 subsectors:
 - Renewables
 sources:
-- name: 'Economic Times
-
-'
-  url: 'http://energy.economictimes.indiatimes.com/news/renewable/500-mw-solar-plant-to-come-up-in-chhattisgarh-soon/58506914
-
-'
+- name: 'Economic Times'
+  url: 'http://energy.economictimes.indiatimes.com/news/renewable/500-mw-solar-plant-to-come-up-in-chhattisgarh-soon/58506914'
 ---
 
 Chhattisgarh has completed the initial stages of development of a 500 MW power plant. The first phase of the project, with 250 MW capacity, will be built in Rajnandgaon.

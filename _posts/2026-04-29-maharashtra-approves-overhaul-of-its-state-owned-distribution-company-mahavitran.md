@@ -3,10 +3,7 @@ layout: post
 content_type: articles
 breadcrumbs: articles
 is_newsletter: false
-title: ' Maharashtra approves overhaul of its state-owned distribution company,
-  MAHAVITRAN.   The state government approved a comprehensive financial and
-  structural overhaul aimed at improving efficiency and reducing losses to
-  support the state’s ambition of becoming a "USD 1 trillion economy"  '
+title: ' Maharashtra approves overhaul of its state-owned distribution company, MAHAVITRAN.   The state government approved a comprehensive financial and structural overhaul aimed at improving efficiency and reducing losses to support the state’s ambition of becoming a "USD 1 trillion economy"'
 short_title: " Maharashtra approves overhaul of its state-owned distribution
   company, MAHAVITRAN.   "
 date: 2026-04-29T00:00:00.000-04:00

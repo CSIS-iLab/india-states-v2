@@ -1,8 +1,7 @@
 ---
 content_type: articles
 breadcrumbs: articles
-title: 'Kuwait firm to set up Rs 49,000 cr oil refinery in Tamil Nadu: Chief Minister
-  Palaniswami'
+title: 'Kuwait firm to set up Rs 49,000 cr oil refinery in Tamil Nadu: Chief Minister Palaniswami'
 date: 2020-01-29 05:00:00 +0000
 states:
 - Tamil Nadu

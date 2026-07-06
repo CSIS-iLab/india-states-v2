@@ -9,12 +9,8 @@ sectors:
 subsectors:
 - Power
 sources:
-- name: 'North Lines
-
-'
-  url: 'http://www.thenorthlines.com/power-td-losses-jk-highest-india/
-
-'
+- name: 'North Lines'
+  url: 'http://www.thenorthlines.com/power-td-losses-jk-highest-india/'
 ---
 
 The transmission and distribution losses in Jammu and Kashmir continue to be highest in India at over fifty percent.

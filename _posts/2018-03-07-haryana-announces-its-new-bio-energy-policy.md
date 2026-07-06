@@ -8,12 +8,8 @@ sectors:
 subsectors:
 - Renewables
 sources:
-- name: 'United News of India
-
-'
-  url: 'http://www.uniindia.com/haryana-cabinet-gives-approval-to-bio-energy-policy/states/news/1152665.html
-
-'
+- name: 'United News of India'
+  url: 'http://www.uniindia.com/haryana-cabinet-gives-approval-to-bio-energy-policy/states/news/1152665.html'
 details:
 - name: Haryana Bio-Energy Policy 2018
   url: http://hareda.gov.in/writereaddata/news/hareda075128294.pdf

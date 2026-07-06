@@ -14,12 +14,8 @@ sectors:
 subsectors:
 - Oil and Gas
 sources:
-- name: 'India Today
-
-'
-  url: 'http://indiatoday.intoday.in/story/rajasthan-hpcl-sign-joint-venture-for-barmer-oil-refinery-complex/1/1028412.html
-
-'
+- name: 'India Today'
+  url: 'http://indiatoday.intoday.in/story/rajasthan-hpcl-sign-joint-venture-for-barmer-oil-refinery-complex/1/1028412.html'
 ---
 
 The Rajasthan government signed an agreement with Hindustan Petroleum Corporation Limited (HPCL) to set up a joint venture company to build a petroleum refinery/petrochemical complex at Barmer. HPCL will have a 74 percent and the state government a 26 percent stake in the new firm, HPCL Rajasthan Refinery Limited.

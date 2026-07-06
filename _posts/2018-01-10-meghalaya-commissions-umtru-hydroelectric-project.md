@@ -8,12 +8,8 @@ sectors:
 subsectors:
 - Renewables
 sources:
-- name: 'Economic Times
-
-'
-  url: 'https://energy.economictimes.indiatimes.com/news/power/new-umtru-power-project-commissioned-in-meghalaya/62375608
-
-'
+- name: 'Economic Times'
+  url: 'https://energy.economictimes.indiatimes.com/news/power/new-umtru-power-project-commissioned-in-meghalaya/62375608'
 ---
 
 Meghalaya has formally commissioned setting up of a new Umtru Hydro Electric Project in Ri- Bhoi District bordering Assam. 

@@ -8,12 +8,8 @@ sectors:
 subsectors:
 - Oil and Gas
 sources:
-- name: 'Times of India
-
-'
-  url: 'https://timesofindia.indiatimes.com/city/dehradun/ukhand-govt-reduces-vat-on-diesel-natural-gas-for-industrial-purpose/articleshow/62272040.cms
-
-'
+- name: 'Times of India'
+  url: 'https://timesofindia.indiatimes.com/city/dehradun/ukhand-govt-reduces-vat-on-diesel-natural-gas-for-industrial-purpose/articleshow/62272040.cms'
 ---
 
 The Uttarakhand state cabinet has decided to bring down value added tax (VAT) on diesel and natural gas used for the industrial consumption by 12 and 15 percent respectively. 

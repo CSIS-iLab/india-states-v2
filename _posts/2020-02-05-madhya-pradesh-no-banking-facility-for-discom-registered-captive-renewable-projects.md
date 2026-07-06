@@ -1,8 +1,7 @@
 ---
 content_type: articles
 breadcrumbs: articles
-title: 'Madhya Pradesh: No Banking Facility for DISCOM Registered Captive Renewable
-  Projects'
+title: 'Madhya Pradesh: No Banking Facility for DISCOM Registered Captive Renewable Projects'
 date: 2020-02-05 05:00:00 +0000
 states:
 - Madhya Pradesh

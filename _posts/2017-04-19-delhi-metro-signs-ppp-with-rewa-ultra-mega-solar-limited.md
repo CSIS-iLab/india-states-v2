@@ -13,12 +13,8 @@ subsectors:
 - Renewables
 - Energy-related Transportation
 sources:
-- name: 'Times of India
-
-'
-  url: 'http://timesofindia.indiatimes.com/city/bhopal/delhi-metro-to-sign-agreement-for-rewa-solar-power-tomorrow/articleshow/58200401.cms
-
-'
+- name: 'Times of India'
+  url: 'http://timesofindia.indiatimes.com/city/bhopal/delhi-metro-to-sign-agreement-for-rewa-solar-power-tomorrow/articleshow/58200401.cms'
 ---
 
 Delhi Metro Railways Corporation (DMRC) signed a power purchase agreement with Rewa Ultra Mega Solar Limited, the implementing agency for a 750 MW solar power park in Madhya Pradesh. When complete, the park will produce enough power to satisfy 90 percent of DMRC’s needs.

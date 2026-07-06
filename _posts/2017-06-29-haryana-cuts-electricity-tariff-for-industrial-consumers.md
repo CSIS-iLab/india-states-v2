@@ -10,9 +10,7 @@ sectors:
 subsectors:
 - Power
 sources:
-- name: 'Economic Times
-
-'
+- name: 'Economic Times'
   url: http://economictimes.indiatimes.com/industry/energy/power/haryana-announces-cheaper-power-for-industry/articleshow/59238113.cms
 ---
 

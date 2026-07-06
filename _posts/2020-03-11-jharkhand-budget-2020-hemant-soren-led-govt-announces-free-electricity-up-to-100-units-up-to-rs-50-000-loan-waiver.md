@@ -1,8 +1,7 @@
 ---
 content_type: articles
 breadcrumbs: articles
-title: 'Jharkhand Budget 2020: Hemant Soren-led govt announces free electricity up
-  to 100 units, up to Rs 50,000 loan waiver'
+title: 'Jharkhand Budget 2020: Hemant Soren-led govt announces free electricity up to 100 units, up to Rs 50,000 loan waiver'
 date: 2020-03-11 04:00:00 +0000
 states:
 - Jharkhand

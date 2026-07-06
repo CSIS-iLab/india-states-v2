@@ -9,12 +9,8 @@ sectors:
 subsectors:
 - Coal
 sources:
-- name: 'The Hindu
-
-'
-  url: 'http://www.thehindu.com/news/national/karnataka/400-mw-of-additional-power-for-karnataka/article22348017.ece
-
-'
+- name: 'The Hindu'
+  url: 'http://www.thehindu.com/news/national/karnataka/400-mw-of-additional-power-for-karnataka/article22348017.ece'
 ---
 
 National Thermal Power Corporation’s 800 megawatt (MW) thermal power station at Kudgi in Vijayapura has commenced commercial generation and will provide 400 MW of power to Karnataka. 

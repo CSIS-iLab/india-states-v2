@@ -11,12 +11,8 @@ sectors:
 subsectors:
 - Energy Efficiency
 sources:
-- name: 'Economic Times
-
-'
-  url: 'http://energy.economictimes.indiatimes.com/news/power/andhra-pradesh-to-install-energy-efficient-led-street-lights-in-villages/59626278
-
-'
+- name: 'Economic Times'
+  url: 'http://energy.economictimes.indiatimes.com/news/power/andhra-pradesh-to-install-energy-efficient-led-street-lights-in-villages/59626278'
 ---
 
 In conjunction with Energy Efficiency Services Ltd (EESL), Andhra Pradesh will deploy 1 million LED streetlights in seven districts of the state over the next nine months. Andhra Pradesh already has 600,000 LED streetlights. 

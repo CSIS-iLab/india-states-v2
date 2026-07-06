@@ -10,12 +10,8 @@ sectors:
 subsectors:
 - Coal
 sources:
-- name: 'Financial Express
-
-'
-  url: 'http://www.financialexpress.com/industry/uppcl-cancels-rpowers-chitrangi-power-project-seizes-bank-guarantee/1085142/
-
-'
+- name: 'Financial Express'
+  url: 'http://www.financialexpress.com/industry/uppcl-cancels-rpowers-chitrangi-power-project-seizes-bank-guarantee/1085142/'
 ---
 
 The Uttar Pradesh Power Corporation (UPPCL) has canceled Reliance Power’s Chitrangi power project in Singhrauli, Madhya Pradesh, on account of not setting up the project on time. 

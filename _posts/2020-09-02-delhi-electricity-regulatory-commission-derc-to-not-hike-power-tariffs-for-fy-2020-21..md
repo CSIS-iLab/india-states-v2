@@ -1,8 +1,7 @@
 ---
 content_type: articles
 breadcrumbs: articles
-title: 'Delhi Electricity Regulatory Commission (DERC) to not hike power tariffs for
-  FY 2020-21. '
+title: 'Delhi Electricity Regulatory Commission (DERC) to not hike power tariffs for FY 2020-21.'
 date: 2020-09-02 04:00:00 +0000
 states:
 - Delhi

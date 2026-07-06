@@ -13,12 +13,8 @@ sectors:
 subsectors:
 - Oil and Gas
 sources:
-- name: 'NDTV
-
-'
-  url: 'http://www.ndtv.com/andhra-pradesh-news/lok-sabha-passes-bill-to-set-up-petroleum-institute-in-andhra-pradesh-1733643
-
-'
+- name: 'NDTV'
+  url: 'http://www.ndtv.com/andhra-pradesh-news/lok-sabha-passes-bill-to-set-up-petroleum-institute-in-andhra-pradesh-1733643'
 ---
 
 The Lok Sabha passed a bill establishing the Indian Institute of Petroleum and Energy (IIPE) at Visakhapatnam in Andhra Pradesh. IIPE will offer training and conduct advanced research in conventional hydrocarbons.

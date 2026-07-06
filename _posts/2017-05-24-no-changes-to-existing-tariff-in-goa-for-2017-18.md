@@ -11,12 +11,8 @@ sectors:
 subsectors:
 - Power
 sources:
-- name: 'Livemint
-
-'
-  url: 'http://www.livemint.com/Industry/JexN1grDoLQtMgvWYxOx7N/Environment-ministry-panel-defers-clearance-to-600-MW-Tawang.html
-
-'
+- name: 'Livemint'
+  url: 'http://www.livemint.com/Industry/JexN1grDoLQtMgvWYxOx7N/Environment-ministry-panel-defers-clearance-to-600-MW-Tawang.html'
 ---
 
 The Joint Electricity Regulatory Commission approved Goa’s petition to continue the existing tariff structure with no increases for 2017-18.

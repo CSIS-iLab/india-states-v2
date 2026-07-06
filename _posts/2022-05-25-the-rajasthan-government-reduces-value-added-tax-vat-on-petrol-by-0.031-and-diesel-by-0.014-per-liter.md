@@ -1,8 +1,7 @@
 ---
 content_type: articles
 breadcrumbs: articles
-title: 'The Rajasthan government reduces Value-added tax (VAT) on petrol by $0.031
-  and diesel by $0.014 per liter '
+title: 'The Rajasthan government reduces Value-added tax (VAT) on petrol by $0.031 and diesel by $0.014 per liter'
 date: 2022-05-25 07:00:00 +0000
 states:
 - Rajasthan

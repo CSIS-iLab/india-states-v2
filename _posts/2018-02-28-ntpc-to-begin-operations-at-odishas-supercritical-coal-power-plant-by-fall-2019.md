@@ -10,12 +10,8 @@ sectors:
 subsectors:
 - Coal
 sources:
-- name: 'Business Standard
-
-'
-  url: 'http://www.business-standard.com/article/companies/ntpc-to-start-ops-at-1-600-mw-coal-based-power-plant-in-odisha-by-2019-118022300833_1.html
-
-'
+- name: 'Business Standard'
+  url: 'http://www.business-standard.com/article/companies/ntpc-to-start-ops-at-1-600-mw-coal-based-power-plant-in-odisha-by-2019-118022300833_1.html'
 ---
 
 NTPC Ltd will start commercial operations of its $1.9 billion 1600 MW (2x800) supercritical coal-based power plant at Darlipalli in Odisha's Sundergarh by September 2019. 

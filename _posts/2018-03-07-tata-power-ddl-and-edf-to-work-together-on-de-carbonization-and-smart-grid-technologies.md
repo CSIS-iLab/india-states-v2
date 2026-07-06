@@ -9,12 +9,8 @@ sectors:
 subsectors:
 - Power
 sources:
-- name: 'Daily Pioneer
-
-'
-  url: 'http://www.dailypioneer.com/city/tata-discom-france-firms-tie-up-for-smart-grid-tech.html
-
-'
+- name: 'Daily Pioneer'
+  url: 'http://www.dailypioneer.com/city/tata-discom-france-firms-tie-up-for-smart-grid-tech.html'
 ---
 
 Tata Power Delhi Distribution (TPDDL) signed an MOU with Électricité de France (EDF) and its subsidiary, Enedis, to demonstrate de-carbonization of local energy systems and evaluate smart grid technologies. 

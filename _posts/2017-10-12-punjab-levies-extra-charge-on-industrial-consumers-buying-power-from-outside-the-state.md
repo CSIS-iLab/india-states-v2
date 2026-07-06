@@ -1,6 +1,5 @@
 ---
-title: 'Punjab levies extra charge on industrial consumers buying power from outside
-  the state '
+title: 'Punjab levies extra charge on industrial consumers buying power from outside the state'
 date: 2017-10-12 00:00:00 Z
 states:
 - Punjab

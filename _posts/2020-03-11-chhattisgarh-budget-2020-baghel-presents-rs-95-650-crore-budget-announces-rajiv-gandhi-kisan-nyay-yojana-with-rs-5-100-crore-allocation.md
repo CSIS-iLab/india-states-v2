@@ -1,8 +1,7 @@
 ---
 content_type: articles
 breadcrumbs: articles
-title: 'Chhattisgarh Budget 2020: Baghel presents Rs 95,650-crore budget, announces
-  ‘Rajiv Gandhi Kisan Nyay Yojana’ with Rs 5,100 crore allocation'
+title: 'Chhattisgarh Budget 2020: Baghel presents Rs 95,650-crore budget, announces ‘Rajiv Gandhi Kisan Nyay Yojana’ with Rs 5,100 crore allocation'
 date: 2020-03-11 04:00:00 +0000
 states:
 - Chhattisgarh

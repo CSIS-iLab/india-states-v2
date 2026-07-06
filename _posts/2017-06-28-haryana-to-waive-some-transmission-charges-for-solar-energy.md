@@ -12,12 +12,8 @@ subsectors:
 - Renewables
 - Power
 sources:
-- name: 'Economic Times
-
-'
-  url: 'http://economictimes.indiatimes.com/industry/energy/power/haryana-waives-off-intra-state-wheeling-charges-to-promote-renewable-energy/articleshow/59273803.cms
-
-'
+- name: 'Economic Times'
+  url: 'http://economictimes.indiatimes.com/industry/energy/power/haryana-waives-off-intra-state-wheeling-charges-to-promote-renewable-energy/articleshow/59273803.cms'
 ---
 
 Haryana will waive wheeling charges on transmission of electricity generated from solar power plants in the state.

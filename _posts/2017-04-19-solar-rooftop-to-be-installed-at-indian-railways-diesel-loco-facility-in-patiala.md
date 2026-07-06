@@ -15,9 +15,7 @@ subsectors:
 - Energy-related Transportation
 - Renewables
 sources:
-- name: 'Economic Times
-
-'
+- name: 'Economic Times'
   url: http://economictimes.indiatimes.com/news/industry/energy/bhel-bags-order-from-railways-for-solar-power-plant/articleshow/58124987.cms
 ---
 

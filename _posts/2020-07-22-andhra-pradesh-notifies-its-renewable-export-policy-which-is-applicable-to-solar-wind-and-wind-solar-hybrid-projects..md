@@ -1,8 +1,7 @@
 ---
 content_type: articles
 breadcrumbs: articles
-title: 'Andhra Pradesh notifies its renewable export policy which is applicable to
-  solar, wind and wind-solar hybrid projects. '
+title: 'Andhra Pradesh notifies its renewable export policy which is applicable to solar, wind and wind-solar hybrid projects.'
 date: 2020-07-22 04:00:00 +0000
 states:
 - Andhra Pradesh

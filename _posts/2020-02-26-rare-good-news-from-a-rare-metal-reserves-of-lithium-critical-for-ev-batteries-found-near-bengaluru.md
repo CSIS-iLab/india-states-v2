@@ -1,8 +1,7 @@
 ---
 content_type: articles
 breadcrumbs: articles
-title: 'Rare good news from a rare metal: Reserves of lithium, critical for EV batteries,
-  found near Bengaluru'
+title: 'Rare good news from a rare metal: Reserves of lithium, critical for EV batteries, found near Bengaluru'
 date: 2020-02-26 05:00:00 +0000
 states:
 - Karnataka

@@ -1,8 +1,7 @@
 ---
 content_type: articles
 breadcrumbs: articles
-title: 'Rajasthan approves guidelines for implementation of the Indira Gandhi Urban
-  Employment Guarantee Scheme '
+title: 'Rajasthan approves guidelines for implementation of the Indira Gandhi Urban Employment Guarantee Scheme'
 date: 2022-05-25 07:00:00 +0000
 states:
 - Rajasthan

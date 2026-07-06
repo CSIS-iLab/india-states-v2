@@ -12,9 +12,7 @@ sectors:
 subsectors:
 - Oil and Gas
 sources:
-- name: 'Times of India
-
-'
+- name: 'Times of India'
   url: http://timesofindia.indiatimes.com/city/shimla/hp-govt-okays-proposal-for-273-road-projects-14-bridges/articleshow/59060467.cms
 ---
 

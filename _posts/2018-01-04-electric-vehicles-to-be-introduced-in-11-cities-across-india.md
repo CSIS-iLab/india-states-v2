@@ -8,12 +8,8 @@ sectors:
 subsectors:
 - Energy-related Transportation
 sources:
-- name: 'Livemint
-
-'
-  url: 'http://www.livemint.com/Politics/lCsEzXTjxhmbEVRHJxcF7I/Centre-approves-electric-vehiclebased-public-transportation.html
-
-'
+- name: 'Livemint'
+  url: 'http://www.livemint.com/Politics/lCsEzXTjxhmbEVRHJxcF7I/Centre-approves-electric-vehiclebased-public-transportation.html'
 ---
 
 The Ministry of Heavy Industries announced introduction of electric vehicles in public transportation systems of 11 cities across the country. 

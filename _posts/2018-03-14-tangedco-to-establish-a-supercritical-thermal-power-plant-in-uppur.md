@@ -8,12 +8,8 @@ sectors:
 subsectors:
 - Coal
 sources:
-- name: 'The Hindu
-
-'
-  url: 'http://www.thehindu.com/todays-paper/tp-national/tp-tamilnadu/reliance-bags-uppur-thermal-power-project/article22955286.ece
-
-'
+- name: 'The Hindu'
+  url: 'http://www.thehindu.com/todays-paper/tp-national/tp-tamilnadu/reliance-bags-uppur-thermal-power-project/article22955286.ece'
 ---
 
 TANGEDCO is establishing a 1,600 MW supercritical thermal power plant at Uppur. Reliance Infrastructure and BHEL were awarded contract for $560 million and $857 million respectively. 

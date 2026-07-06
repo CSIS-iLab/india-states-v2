@@ -1,8 +1,7 @@
 ---
 content_type: articles
 breadcrumbs: articles
-title: 'Maharashtra refuses to set up new thermal power generation units within the
-  state. '
+title: 'Maharashtra refuses to set up new thermal power generation units within the state.'
 date: 2020-09-02 04:00:00 +0000
 states:
 - Maharashtra

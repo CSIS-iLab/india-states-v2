@@ -166,7 +166,8 @@ collections:
     indentifier_field: short_title
     slug: '{{year}}-{{month}}-{{day}}-{{short_title}}'
     # sortable_fields: ['title', 'date', 'author', 'states']
-    sortable_fields: []
+    sortable_fields:
+      - { field: date, default_sort: desc }
     fields:
       - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'post' }
       - {

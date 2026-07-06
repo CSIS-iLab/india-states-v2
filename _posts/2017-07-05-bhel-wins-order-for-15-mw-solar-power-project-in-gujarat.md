@@ -14,9 +14,7 @@ sectors:
 subsectors:
 - Renewables
 sources:
-- name: 'Economic Times
-
-'
+- name: 'Economic Times'
   url: http://economictimes.indiatimes.com/industry/energy/power/bhel-bags-15-mw-solar-photovoltaic-plant-order-in-gujarat/articleshow/59336277.cms
 ---
 

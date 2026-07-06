@@ -13,9 +13,7 @@ sectors:
 subsectors:
 - Power
 sources:
-- name: 'Financial Express
-
-'
+- name: 'Financial Express'
   url: http://www.financialexpress.com/industry/uppcl-signs-agreements-to-buy-1500-mw-power-for-summer/752986/
 ---
 

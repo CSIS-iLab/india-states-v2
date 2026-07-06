@@ -1,8 +1,7 @@
 ---
 content_type: articles
 breadcrumbs: articles
-title: 'West Bengal Budget: Free electricity for those with quarterly consumption
-  up to 75 units'
+title: 'West Bengal Budget: Free electricity for those with quarterly consumption up to 75 units'
 date: 2020-02-19 05:00:00 +0000
 states:
 - West Bengal

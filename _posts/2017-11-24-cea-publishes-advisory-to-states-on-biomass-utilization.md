@@ -8,12 +8,8 @@ sectors:
 subsectors:
 - Renewables
 details:
-- name: 'Advisory
-
-'
-  url: 'http://www.cea.nic.in/reports/others/thermal/tetd/Biomass%20Utilization%20Advisory.pdf
-
-'
+- name: 'Advisory'
+  url: 'http://www.cea.nic.in/reports/others/thermal/tetd/Biomass%20Utilization%20Advisory.pdf'
 ---
 
 The central electricity authority published a advisory notice to state power offices, thermal power generating units, and power equipment manufacturers regarding biomass utilization.

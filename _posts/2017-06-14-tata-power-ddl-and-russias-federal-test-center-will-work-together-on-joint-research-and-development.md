@@ -15,12 +15,8 @@ subsectors:
 - Energy Efficiency
 - Renewables
 sources:
-- name: 'Bureaucracy Today
-
-'
-  url: 'https://bureaucracytoday.com/global_bureaucracy.aspx?id=125357
-
-'
+- name: 'Bureaucracy Today'
+  url: 'https://bureaucracytoday.com/global_bureaucracy.aspx?id=125357'
 ---
 
 Tata Power Delhi Distribution and Russia’s Federal Test Center have agreed to participate in joint development of smart grid, renewables, and energy efficiency technologies. Among other projects, Tata Power may invest in Federal Test Center’s research and development center.

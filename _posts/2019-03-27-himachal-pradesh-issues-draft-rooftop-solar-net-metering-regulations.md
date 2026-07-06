@@ -13,8 +13,7 @@ sources:
 - name: Saur Energy
   url: https://www.saurenergy.com/solar-energy-news/himachal-draft-order-rooftop-solar-net-metering
 details:
-- name: 'Himachal Pradesh Electricity Regulatory Commission (Rooftop Solar PV Grid
-    Interactive System based on Net Metering) Order, 2019 '
+- name: 'Himachal Pradesh Electricity Regulatory Commission (Rooftop Solar PV Grid Interactive System based on Net Metering) Order, 2019'
   url: http://new1.hperc.org/File1/dordersolarpv19.pdf
 is_newsletter: false
 

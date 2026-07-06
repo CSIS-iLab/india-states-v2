@@ -10,12 +10,8 @@ sectors:
 - Climate Change and Energy
 subsectors:
 sources:
-- name: 'Business Standard
-
-'
-  url: 'http://www.business-standard.com/content/b2b-chemicals/indian-institute-of-petroleum-and-energy-at-vizag-receives-cabinet-nod-117041300320_1.html
-
-'
+- name: 'Business Standard'
+  url: 'http://www.business-standard.com/content/b2b-chemicals/indian-institute-of-petroleum-and-energy-at-vizag-receives-cabinet-nod-117041300320_1.html'
 ---
 
 The Union Cabinet approved an act to establish the Indian Institute of Petroleum and Energy at Visakhapatnam. If passed, the act will create a new institution modeled on the Indian Institutes of Technology and a Center of Excellence in petroleum and energy studies. 

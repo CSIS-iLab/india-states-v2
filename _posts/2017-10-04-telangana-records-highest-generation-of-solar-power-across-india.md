@@ -10,12 +10,8 @@ sectors:
 subsectors:
 - Renewables
 sources:
-- name: 'Scroll.in
-
-'
-  url: 'https://scroll.in/latest/852185/telangana-surpasses-gujarat-to-become-top-producer-of-solar-energy-in-the-country
-
-'
+- name: 'Scroll.in'
+  url: 'https://scroll.in/latest/852185/telangana-surpasses-gujarat-to-become-top-producer-of-solar-energy-in-the-country'
 ---
 
 Telangana has become the largest generator of solar energy in India, currently generating 2,792 MW of solar power. Rajasthan is next with 2,219 MW.

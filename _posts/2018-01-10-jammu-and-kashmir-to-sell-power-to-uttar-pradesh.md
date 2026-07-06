@@ -9,12 +9,8 @@ sectors:
 subsectors:
 - Renewables
 sources:
-- name: 'Greater Kashmir
-
-'
-  url: 'http://www.greaterkashmir.com/news/front-page/finally-pdc-seals-deal-with-uppcl-on-baglihar-ii-power-sale/270835.html
-
-'
+- name: 'Greater Kashmir'
+  url: 'http://www.greaterkashmir.com/news/front-page/finally-pdc-seals-deal-with-uppcl-on-baglihar-ii-power-sale/270835.html'
 ---
 
 The Jammu and Kashmir Power Development Corporation finalised a deal with its counterpart in Uttar Pradesh for sale of electricity generated from 450 MW Baglihar-II hydroelectric power plant. 

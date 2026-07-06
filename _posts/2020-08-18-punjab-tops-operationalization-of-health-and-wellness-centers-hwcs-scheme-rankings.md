@@ -1,8 +1,7 @@
 ---
 content_type: articles
 breadcrumbs: articles
-title: 'Punjab tops operationalization of Health and Wellness Centers (HWCs) scheme
-  rankings  '
+title: 'Punjab tops operationalization of Health and Wellness Centers (HWCs) scheme rankings'
 date: 2020-08-18 04:00:00 +0000
 states:
 - Punjab

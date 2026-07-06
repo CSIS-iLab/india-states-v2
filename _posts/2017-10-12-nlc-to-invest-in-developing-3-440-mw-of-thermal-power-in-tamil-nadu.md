@@ -10,12 +10,8 @@ sectors:
 subsectors:
 - Coal
 sources:
-- name: 'The Hindu
-
-'
-  url: 'http://www.thehindu.com/todays-paper/tp-national/tp-tamilnadu/nlcil-to-make-up-for-shelving-sirkazhi-project/article19825618.ece
-
-'
+- name: 'The Hindu'
+  url: 'http://www.thehindu.com/todays-paper/tp-national/tp-tamilnadu/nlcil-to-make-up-for-shelving-sirkazhi-project/article19825618.ece'
 ---
 
 NLC India Limited (NLCIL) will invest in new thermal power projects of 3,440 MW in Neyveli and Thoothukudi in Tamil Nadu.

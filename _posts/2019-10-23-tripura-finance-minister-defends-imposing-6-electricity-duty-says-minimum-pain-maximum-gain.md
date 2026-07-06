@@ -1,8 +1,7 @@
 ---
 content_type: articles
 breadcrumbs: articles
-title: 'Tripura: Finance Minister defends imposing 6% Electricity Duty, says ‘minimum
-  pain, maximum gain’'
+title: 'Tripura: Finance Minister defends imposing 6% Electricity Duty, says ‘minimum pain, maximum gain’'
 date: 2019-10-23 04:00:00 +0000
 states:
 - Tripura

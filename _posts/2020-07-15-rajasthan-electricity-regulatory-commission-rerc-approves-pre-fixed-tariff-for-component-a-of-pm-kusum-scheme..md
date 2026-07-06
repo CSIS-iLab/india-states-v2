@@ -1,8 +1,7 @@
 ---
 content_type: articles
 breadcrumbs: articles
-title: 'Rajasthan Electricity Regulatory Commission (RERC) approves pre-fixed tariff
-  for component A of PM KUSUM scheme. '
+title: 'Rajasthan Electricity Regulatory Commission (RERC) approves pre-fixed tariff for component A of PM KUSUM scheme.'
 date: 2020-07-15 04:00:00 +0000
 states:
 - Rajasthan

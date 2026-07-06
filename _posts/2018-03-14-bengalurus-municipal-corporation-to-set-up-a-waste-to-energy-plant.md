@@ -8,12 +8,8 @@ sectors:
 subsectors:
 - Renewables
 sources:
-- name: 'The Hindu
-
-'
-  url: 'http://www.thehindu.com/todays-paper/tp-national/tp-karnataka/bbmp-inks-deal-with-french-firm-for-waste-to-energy-plant/article23037921.ece
-
-'
+- name: 'The Hindu'
+  url: 'http://www.thehindu.com/todays-paper/tp-national/tp-karnataka/bbmp-inks-deal-with-french-firm-for-waste-to-energy-plant/article23037921.ece'
 ---
 
 The Bruhat Bengaluru Mahanagara Palike (BBMP) has signed a partnership agreement with a French company to set up a 10 megawatt (MW) waste-to-energy plant. 

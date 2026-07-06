@@ -8,12 +8,8 @@ sectors:
 subsectors:
 - Renewables
 sources:
-- name: 'Economic Times
-
-'
-  url: 'https://energy.economictimes.indiatimes.com/news/renewable/maharashtra-transmission-company-to-purchase-1000-mw-solar-power-in-2018/62502928
-
-'
+- name: 'Economic Times'
+  url: 'https://energy.economictimes.indiatimes.com/news/renewable/maharashtra-transmission-company-to-purchase-1000-mw-solar-power-in-2018/62502928'
 ---
 
 Mahavitaran, the state power transmission company, plans to purchase 1000 MW solar power in 2018 with bids invited at four cents per unit.

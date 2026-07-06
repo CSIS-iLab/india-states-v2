@@ -1,8 +1,7 @@
 ---
 content_type: articles
 breadcrumbs: articles
-title: 'Ministry of New and Renewable Energy (MNRE) issues a circular: RE energy companies
-  that fail to meet date of projects will be blacklisted from future tenders'
+title: 'Ministry of New and Renewable Energy (MNRE) issues a circular: RE energy companies that fail to meet date of projects will be blacklisted from future tenders'
 date: 2023-02-22 05:00:00 +0000
 states:
 - Center-State Relations

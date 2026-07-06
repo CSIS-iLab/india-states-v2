@@ -18,12 +18,8 @@ subsectors:
 - Power
 - Renewables
 details:
-- name: 'Daily Pioneer
-
-'
-  url: 'http://www.dailypioneer.com/state-editions/creda-to-develop-solar-pdn-in-three-districts.html
-
-'
+- name: 'Daily Pioneer'
+  url: 'http://www.dailypioneer.com/state-editions/creda-to-develop-solar-pdn-in-three-districts.html'
 ---
 
 The Chhattisgarh Renewable Energy Development Agency (CREDA) will create a Power Distribution Network for solar-powered street lighting in the Bemetara, Dantewada, and Bijapur districts. CREDA is also working on a solar power distribution network in eight villages of Bilaspur district of the State.

@@ -11,12 +11,8 @@ sectors:
 subsectors:
 - Renewables
 sources:
-- name: 'Times of India
-
-'
-  url: 'http://timesofindia.indiatimes.com/city/bhopal/mp-2-mnths-on-no-power-consumer-walked-in-for-solar-net-metering/articleshow/58200437.cms
-
-'
+- name: 'Times of India'
+  url: 'http://timesofindia.indiatimes.com/city/bhopal/mp-2-mnths-on-no-power-consumer-walked-in-for-solar-net-metering/articleshow/58200437.cms'
 ---
 
 Two months after the application period began, Madhya Pradesh has not installed a single rooftop solar panel under the state’s new rooftop solar policy. The policy allows consumers to produce and sell power to discoms.

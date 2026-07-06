@@ -12,12 +12,8 @@ sectors:
 subsectors:
 - Coal
 sources:
-- name: 'Economic Times
-
-'
-  url: 'http://economictimes.indiatimes.com/industry/energy/power/bhel-commissions-2-units-at-maharashtra-thermal-power-project/articleshow/58218396.cms
-
-'
+- name: 'Economic Times'
+  url: 'http://economictimes.indiatimes.com/industry/energy/power/bhel-commissions-2-units-at-maharashtra-thermal-power-project/articleshow/58218396.cms'
 ---
 
 BHEL said it has commissioned a total of 540 MW of capacity at its thermal power project in Nasik District.

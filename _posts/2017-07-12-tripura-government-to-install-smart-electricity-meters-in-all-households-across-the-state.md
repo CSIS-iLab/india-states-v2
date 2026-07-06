@@ -13,9 +13,7 @@ sectors:
 subsectors:
 - Power
 sources:
-- name: 'North East Today
-
-'
+- name: 'North East Today'
   url: https://www.northeasttoday.in/tripura-govt-to-install-smart-power-meters-in-all-households/
 ---
 

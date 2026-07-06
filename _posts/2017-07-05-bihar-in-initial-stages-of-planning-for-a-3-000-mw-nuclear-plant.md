@@ -10,12 +10,8 @@ sectors:
 subsectors:
 - Nuclear
 sources:
-- name: 'Financial Express
-
-'
-  url: 'http://www.financialexpress.com/industry/bihar-bets-big-on-nuclear-power-plans-3000-mw-plant/738323/
-
-'
+- name: 'Financial Express'
+  url: 'http://www.financialexpress.com/industry/bihar-bets-big-on-nuclear-power-plans-3000-mw-plant/738323/'
 ---
 
 Bihar announced that it is in the initial stages of planning for a 3,000 megawatt (MW) nuclear plant in Nawada district, a senior minister. The site has been selected and an initial survey completed, although the state still needs to acquire the 3,000 acres of land necessary to build the plant.

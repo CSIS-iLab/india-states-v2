@@ -14,12 +14,8 @@ sectors:
 subsectors:
 - Power
 sources:
-- name: 'Bureaucracy Today
-
-'
-  url: 'http://bureaucracytoday.com/psumarket.aspx?id=130427
-
-'
+- name: 'Bureaucracy Today'
+  url: 'http://bureaucracytoday.com/psumarket.aspx?id=130427'
 ---
 
 Ajmer Vidyut Vitran Nigam Limited, Rajasthan’s distribution company, has signed a 20-year Distribution Franchisee Agreement with Tata Power Delhi Distribution Limited (TPDDL). TPDDL will be responsible for operating and maintaining the distribution network and managing billing and collections in Ajmer City.

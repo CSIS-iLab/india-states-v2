@@ -10,12 +10,8 @@ sectors:
 subsectors:
 - Renewables
 sources:
-- name: 'Daily Pioneer
-
-'
-  url: 'http://www.dailypioneer.com/state-editions/govt-to-provide-50-subsidy-on-solar-rooftop-installation.html
-
-'
+- name: 'Daily Pioneer'
+  url: 'http://www.dailypioneer.com/state-editions/govt-to-provide-50-subsidy-on-solar-rooftop-installation.html'
 ---
 
 Jharkhand will offer a 50 percent subsidy to private households towards the cost of solar rooftops and a 10 percent subsidy to industry.

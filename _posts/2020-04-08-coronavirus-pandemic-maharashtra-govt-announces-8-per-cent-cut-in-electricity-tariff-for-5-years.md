@@ -1,8 +1,7 @@
 ---
 content_type: articles
 breadcrumbs: articles
-title: 'Coronavirus pandemic: Maharashtra govt announces 8 per cent cut in electricity
-  tariff for 5 years'
+title: 'Coronavirus pandemic: Maharashtra govt announces 8 per cent cut in electricity tariff for 5 years'
 date: 2020-04-08 04:00:00 +0000
 states:
 - Maharashtra
