@@ -3,8 +3,8 @@ layout: post
 breadcrumbs: newsletter
 is_newsletter: true
 content_type: newsletter
-title: States Weekly Newsletter
-short_title: States Weekly Newsletter
+title: "States Weekly Newsletter: July 22, 2026"
+short_title: "States Weekly Newsletter: July 22, 2026"
 date: 2026-07-22T00:00:00.000-04:00
 tags:
   - States Weekly Newletter
@@ -38,7 +38,7 @@ sectors:
   - Industrial Policy and Business Regulations
   - Climate Change and Energy
   - Health
-is_featured: true
+is_featured: false
 author:
   - Aryan D'Rozario
 ---
