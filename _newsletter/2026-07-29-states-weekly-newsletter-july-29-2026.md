@@ -38,7 +38,7 @@ states:
   - Chhattisgarh
   - Odisha
   - Sikkim
-is_featured: true
+is_featured: false
 author:
   - Aryan D'Rozario
 ---
