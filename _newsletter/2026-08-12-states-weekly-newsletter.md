@@ -3,8 +3,8 @@ layout: post
 breadcrumbs: newsletter
 is_newsletter: true
 content_type: newsletter
-title: States Weekly Newsletter
-short_title: States Weekly Newsletter
+title: "States Weekly Newsletter: August 12, 2026"
+short_title: "States Weekly Newsletter: August 12, 2026 "
 date: 2026-08-12T00:00:00.000-04:00
 tags:
   - States Weekly Newsletter
