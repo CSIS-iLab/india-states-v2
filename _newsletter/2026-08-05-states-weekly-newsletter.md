@@ -3,8 +3,8 @@ layout: post
 breadcrumbs: newsletter
 is_newsletter: true
 content_type: newsletter
-title: "States Weekly Newsletter "
-short_title: "States Weekly Newsletter "
+title: "States Weekly Newsletter: August 5, 2026 "
+short_title: "States Weekly Newsletter: August 5, 2026"
 date: 2026-08-05T00:00:00.000-04:00
 tags:
   - "States Weekly Newsletter "
@@ -41,7 +41,7 @@ sectors:
   - Industrial Policy and Business Regulations
   - Land & Labor Laws
   - Infrastructure and Governance
-is_featured: true
+is_featured: false
 author:
   - Aryan D'Rozario
 ---
