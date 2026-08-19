@@ -44,7 +44,7 @@ sectors:
   - Land & Labor Laws
   - Water & Sanitation
   - Center-State Relations
-is_featured: true
+is_featured: false
 author:
   - Aryan D'Rozario
 ---
