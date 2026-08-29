@@ -8,6 +8,7 @@
     "clean": "jekyll clean",
     "clean:css": "rm -rf assets/css",
     "setup": "bundler install && npm i -y",
+    "build:pregenerate": "node scripts/generate-related-posts.js",
     "build:jekyll": "bundle exec jekyll build -I",
     "build:sass": "sass --no-source-map assets/_sass:assets/css",
     "build": "npm-run-all build:*",
@@ -33,6 +34,8 @@
   "devDependencies": {
     "algoliasearch": "^5.20.3",
     "decap-server": "^3.2.0",
+    "glob": "^13.0.6",
+    "gray-matter": "^4.0.3",
     "npm-run-all": "^4.1.5",
     "sass": "^1.85.0"
   }
