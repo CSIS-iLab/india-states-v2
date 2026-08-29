@@ -168,6 +168,9 @@ collections:
     # sortable_fields: ['title', 'date', 'author', 'states']
     sortable_fields:
       - { field: date, default_sort: desc }
+    filter:
+      field: date
+      value: "2024"  
     fields:
       - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'post' }
       - {

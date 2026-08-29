@@ -6,7 +6,14 @@ collections:
     title: Newsletter
     output: true
     path: '/:path/:title/'
+  newsletter_archive:
+    title: Newsletter
+    output: true
+    path: '/:path/:title/'
   posts:
+    title: Articles
+    output: true
+  posts_archive:
     title: Articles
     output: true
   events:
@@ -64,6 +71,24 @@ defaults:
       breadcrumbs: articles
   - scope:
       path: ''
+      type: posts_archive  # ← and this
+    values:
+      layout: post
+      permalink: '/articles/:path/:title/'
+      states: []
+      sectors: []
+      subsectors: []
+      sources:
+        - name:
+          url:
+      details:
+        - name:
+          url:
+      content_type: Articles
+      is_newsletter: false
+      breadcrumbs: articles    
+  - scope:
+      path: ''
       type: newsletter
     values:
       layout: post
@@ -85,6 +110,29 @@ defaults:
       breadcrumbs: newsletter
       content_type: Newsletter
       is_newsletter: true
+  - scope:
+      path: ''
+      type: newsletter_archive
+    values:
+      layout: post
+      excerpt:
+      states: []
+      sectors: []
+      subsectors: []
+      is_featured: false
+      feature_image:
+      feature_image_credit:
+      sources:
+        - name:
+          url:
+      details:
+        - name:
+          url:
+      author: []
+      pdf:
+      breadcrumbs: newsletter
+      content_type: Newsletter
+      is_newsletter: true    
   - scope:
       path: ''
       type: events

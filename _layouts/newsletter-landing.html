@@ -3,8 +3,8 @@ layout: default
 ---
 
 <section class="analysisLanding-container content-wrapper fullWidthContent">
-  {% assign posts = site.newsletter %}
-
+  <!-- {% assign posts = site.newsletter %} -->
+  {% assign posts = site.newsletter | concat: site.newsletter_archive | sort: 'date' | reverse %}
   <!-- Results -->
   <section class="subsectorFiltering-container subsector-filters">
     <p class="filterInstructions">Filter newsletters by category:</p>
