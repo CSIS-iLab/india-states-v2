@@ -6,9 +6,11 @@ collections:
     title: Newsletter
     output: true
     path: '/:path/:title/'
+    permalink: /newsletter/:title/
   posts:
     title: Articles
     output: true
+    permalink: /articles/:title/
   events:
     title: Events
     output: true
@@ -48,8 +50,8 @@ defaults:
       type: posts
     values:
       layout: post
-      # permalink: '/articles/:title/'
-      permalink: '/articles/:path/:title/'
+      permalink: '/articles/:title/'
+      # permalink: '/articles/:path/:title/'
       states: []
       sectors: []
       subsectors: []
