@@ -13,243 +13,35 @@ display_url: 'https://indianstates.csis.org'
 logo_url: 'https://raw.githubusercontent.com/CSIS-iLab/energy-database/main/public/android-chrome-192x192.png'
 search: false
 collections:
-  - name: 'newsletter'
-    label: 'Newsletters'
-    label_singular: 'Newsletter'
-    folder: '_newsletter/'
-    create: true
-    editor:
-      preview: false
-    indentifier_field: short_title
-    slug: '{{year}}-{{month}}-{{day}}-{{short_title}}' # Exmple of simple slug: '{{slug}}'
-    # sortable_fields: ['title', 'date', 'author', 'states']
-    sortable_fields: []
-    fields:
-      - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'post' }
-      - {
-          label: 'Breadcrumbs',
-          name: 'breadcrumbs',
-          widget: 'hidden',
-          default: 'newsletter',
-        }
-      - {
-          label: 'Is newsletter',
-          name: 'is_newsletter',
-          widget: 'hidden',
-          default: true,
-        }
-      - {
-          label: 'Content Type',
-          name: 'content_type',
-          widget: 'hidden',
-          default: 'newsletter',
-        }
-      - { label: 'Title', name: 'title', widget: 'string' }
-      - {
-          label: 'Short Title',
-          name: 'short_title',
-          widget: 'string',
-          pattern: ['^.{0,180}$', 'Must have less than 180 characters'],
-        }
-      - {
-          label: 'Publish Date',
-          name: 'date',
-          widget: 'datetime',
-          time_format: false,
-        }
-      - {
-          label: 'Tags',
-          name: 'tags',
-          widget: 'list',
-          required: false,
-          collapsed: false,
-          field: { label: 'Tag', name: 'tag', widget: 'string' },
-        }
-      - { label: 'Excerpt', name: 'excerpt', widget: 'text' }
-      - {
-          label: 'States',
-          name: 'states',
-          widget: 'relation',
-          collection: 'states',
-          multiple: true,
-          display_fields: [title],
-          search_fields: [title],
-          value_field: 'title',
-          required: false,
-        }
-      - {
-          label: 'Sectors',
-          name: 'sectors',
-          widget: 'relation',
-          collection: 'sectors',
-          multiple: true,
-          display_fields: [title],
-          search_fields: [title],
-          value_field: 'title',
-          required: false,
-        }
-      # - { label: 'Sub Sectors', name: 'subsectors', widget: 'relation', collection: 'subsectors', multiple: true, display_fields: [title], search_fields: [title], value_field: 'title', required: false }
-      - {
-          label: 'Is Featured?',
-          name: 'is_featured',
-          widget: 'boolean',
-          default: false,
-          required: false,
-        }
-      - {
-          label: 'Featured Image',
-          name: 'feature_image',
-          widget: 'image',
-          choose_url: false,
-          required: false,
-        }
-      - {
-          label: 'Featured image credit',
-          name: 'feature_image_credit',
-          widget: 'text',
-          required: false,
-        }
-      - label: 'Sources'
-        label_singular: 'Source'
-        name: 'sources'
-        widget: 'list'
-        fields:
-          - { label: 'Name', name: 'name', widget: 'string' }
-          - {
-              label: 'URL',
-              name: 'url',
-              widget: 'string',
-              pattern:
-                ['^(http|https)://', 'Must start with https:// or http://'],
-            }
-        required: false
-      - label: 'Details'
-        label_singular: 'Detail'
-        name: 'details'
-        widget: 'list'
-        fields:
-          - { label: 'Name', name: 'name', widget: 'string' }
-          - {
-              label: 'URL',
-              name: 'url',
-              widget: 'string',
-              pattern:
-                ['^(http|https)://', 'Must start with https:// or http://'],
-            }
-        required: false
-      - {
-          label: 'Author',
-          name: 'author',
-          widget: 'relation',
-          collection: 'authors',
-          multiple: true,
-          display_fields: [name],
-          search_fields: [name],
-          value_field: 'name',
-        }
-      - {
-          label: 'PDF',
-          name: 'pdf',
-          widget: 'string',
-          required: false,
-          pattern: ['^(http|https)://', 'Must start with https:// or http://'],
-        }
-      - { label: 'Body', name: 'body', widget: 'markdown' }
-
-  - name: 'articles'
-    label: 'Articles'
+  - name: 'articles_2026'
+    label: 'Articles 2026'
     label_singular: 'Article'
-    folder: '_posts/'
+    folder: '_posts/2026/'
     create: true
     editor:
       preview: false
     indentifier_field: short_title
     slug: '{{year}}-{{month}}-{{day}}-{{short_title}}'
-    # sortable_fields: ['title', 'date', 'author', 'states']
     sortable_fields:
       - { field: date, default_sort: desc }
     fields:
       - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'post' }
-      - {
-          label: 'Content Type',
-          name: 'content_type',
-          widget: 'hidden',
-          default: 'articles',
-        }
-      - {
-          label: 'Breadcrumbs',
-          name: 'breadcrumbs',
-          widget: 'hidden',
-          default: 'articles',
-        }
-      - {
-          label: 'Is newsletter',
-          name: 'is_newsletter',
-          widget: 'hidden',
-          default: false,
-        }
+      - { label: 'Content Type', name: 'content_type', widget: 'hidden', default: 'articles' }
+      - { label: 'Breadcrumbs', name: 'breadcrumbs', widget: 'hidden', default: 'articles' }
+      - { label: 'Is newsletter', name: 'is_newsletter', widget: 'hidden', default: false }
       - { label: 'Title', name: 'title', widget: 'string' }
-      - {
-          label: 'Short Title',
-          name: 'short_title',
-          widget: 'string',
-          pattern: ['^.{0,180}$', 'Must have less than 180 characters'],
-        }
-      - {
-          label: 'Publish Date',
-          name: 'date',
-          widget: 'datetime',
-          time_format: false,
-        }
-      - {
-          label: 'Tags',
-          name: 'tags',
-          widget: 'list',
-          required: false,
-          collapsed: false,
-          field: { label: 'Tag', name: 'tag', widget: 'string' },
-        }
-      - {
-          label: 'States',
-          name: 'states',
-          widget: 'relation',
-          collection: 'states',
-          multiple: true,
-          display_fields: [title],
-          search_fields: [title],
-          value_field: 'title',
-          required: false,
-        }
-      - {
-          label: 'Sectors',
-          name: 'sectors',
-          widget: 'relation',
-          collection: 'sectors',
-          multiple: true,
-          display_fields: [title],
-          search_fields: [title],
-          value_field: 'title',
-          required: false,
-        }
-      # - { label: 'Subsectors', name: 'subsectors', widget: 'relation', collection: 'subsectors', multiple: true,
-      #     display_fields: [title],
-      #     search_fields: [title],
-      #     value_field: 'title',
-      #     required: false
-      #   }
+      - { label: 'Short Title', name: 'short_title', widget: 'string', pattern: ['^.{0,180}$', 'Must have less than 180 characters'] }
+      - { label: 'Publish Date', name: 'date', widget: 'datetime', time_format: false }
+      - { label: 'Tags', name: 'tags', widget: 'list', required: false, collapsed: false, field: { label: 'Tag', name: 'tag', widget: 'string' } }
+      - { label: 'States', name: 'states', widget: 'relation', collection: 'states', multiple: true, display_fields: [title], search_fields: [title], value_field: 'title', required: false }
+      - { label: 'Sectors', name: 'sectors', widget: 'relation', collection: 'sectors', multiple: true, display_fields: [title], search_fields: [title], value_field: 'title', required: false }
       - label: 'Sources'
         label_singular: 'Source'
         name: 'sources'
         widget: 'list'
         fields:
           - { label: 'Name', name: 'name', widget: 'string' }
-          - {
-              label: 'URL',
-              name: 'url',
-              widget: 'string',
-              pattern:
-                ['^(http|https)://', 'Must start with https:// or http://'],
-            }
+          - { label: 'URL', name: 'url', widget: 'string', pattern: ['^(http|https)://', 'Must start with https:// or http://'] }
         required: false
       - label: 'Details'
         label_singular: 'Detail'
@@ -257,15 +49,309 @@ collections:
         widget: 'list'
         fields:
           - { label: 'Name', name: 'name', widget: 'string' }
-          - {
-              label: 'URL',
-              name: 'url',
-              widget: 'string',
-              pattern:
-                ['^(http|https)://', 'Must start with https:// or http://'],
-            }
+          - { label: 'URL', name: 'url', widget: 'string', pattern: ['^(http|https)://', 'Must start with https:// or http://'] }
         required: false
       - { label: 'Body', name: 'body', widget: 'markdown', required: false }
+
+  - name: 'articles_2025'
+    label: 'Articles 2025'
+    label_singular: 'Article'
+    folder: '_posts/2025/'
+    create: true
+    editor:
+      preview: false
+    indentifier_field: short_title
+    slug: '{{year}}-{{month}}-{{day}}-{{short_title}}'
+    sortable_fields:
+      - { field: date, default_sort: desc }
+    fields:
+      - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'post' }
+      - { label: 'Content Type', name: 'content_type', widget: 'hidden', default: 'articles' }
+      - { label: 'Breadcrumbs', name: 'breadcrumbs', widget: 'hidden', default: 'articles' }
+      - { label: 'Is newsletter', name: 'is_newsletter', widget: 'hidden', default: false }
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Short Title', name: 'short_title', widget: 'string', pattern: ['^.{0,180}$', 'Must have less than 180 characters'] }
+      - { label: 'Publish Date', name: 'date', widget: 'datetime', time_format: false }
+      - { label: 'Tags', name: 'tags', widget: 'list', required: false, collapsed: false, field: { label: 'Tag', name: 'tag', widget: 'string' } }
+      - { label: 'States', name: 'states', widget: 'relation', collection: 'states', multiple: true, display_fields: [title], search_fields: [title], value_field: 'title', required: false }
+      - { label: 'Sectors', name: 'sectors', widget: 'relation', collection: 'sectors', multiple: true, display_fields: [title], search_fields: [title], value_field: 'title', required: false }
+      - label: 'Sources'
+        label_singular: 'Source'
+        name: 'sources'
+        widget: 'list'
+        fields:
+          - { label: 'Name', name: 'name', widget: 'string' }
+          - { label: 'URL', name: 'url', widget: 'string', pattern: ['^(http|https)://', 'Must start with https:// or http://'] }
+        required: false
+      - label: 'Details'
+        label_singular: 'Detail'
+        name: 'details'
+        widget: 'list'
+        fields:
+          - { label: 'Name', name: 'name', widget: 'string' }
+          - { label: 'URL', name: 'url', widget: 'string', pattern: ['^(http|https)://', 'Must start with https:// or http://'] }
+        required: false
+      - { label: 'Body', name: 'body', widget: 'markdown', required: false }
+
+  - name: 'articles_2024'
+    label: 'Articles 2024'
+    label_singular: 'Article'
+    folder: '_posts/2024/'
+    create: true
+    editor:
+      preview: false
+    indentifier_field: short_title
+    slug: '{{year}}-{{month}}-{{day}}-{{short_title}}'
+    sortable_fields:
+      - { field: date, default_sort: desc }
+    fields:
+      - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'post' }
+      - { label: 'Content Type', name: 'content_type', widget: 'hidden', default: 'articles' }
+      - { label: 'Breadcrumbs', name: 'breadcrumbs', widget: 'hidden', default: 'articles' }
+      - { label: 'Is newsletter', name: 'is_newsletter', widget: 'hidden', default: false }
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Short Title', name: 'short_title', widget: 'string', pattern: ['^.{0,180}$', 'Must have less than 180 characters'] }
+      - { label: 'Publish Date', name: 'date', widget: 'datetime', time_format: false }
+      - { label: 'Tags', name: 'tags', widget: 'list', required: false, collapsed: false, field: { label: 'Tag', name: 'tag', widget: 'string' } }
+      - { label: 'States', name: 'states', widget: 'relation', collection: 'states', multiple: true, display_fields: [title], search_fields: [title], value_field: 'title', required: false }
+      - { label: 'Sectors', name: 'sectors', widget: 'relation', collection: 'sectors', multiple: true, display_fields: [title], search_fields: [title], value_field: 'title', required: false }
+      - label: 'Sources'
+        label_singular: 'Source'
+        name: 'sources'
+        widget: 'list'
+        fields:
+          - { label: 'Name', name: 'name', widget: 'string' }
+          - { label: 'URL', name: 'url', widget: 'string', pattern: ['^(http|https)://', 'Must start with https:// or http://'] }
+        required: false
+      - label: 'Details'
+        label_singular: 'Detail'
+        name: 'details'
+        widget: 'list'
+        fields:
+          - { label: 'Name', name: 'name', widget: 'string' }
+          - { label: 'URL', name: 'url', widget: 'string', pattern: ['^(http|https)://', 'Must start with https:// or http://'] }
+        required: false
+      - { label: 'Body', name: 'body', widget: 'markdown', required: false }
+
+  - name: 'articles_2023'
+    label: 'Articles 2023'
+    label_singular: 'Article'
+    folder: '_posts/2023/'
+    create: false
+    editor:
+      preview: false
+    indentifier_field: short_title
+    slug: '{{year}}-{{month}}-{{day}}-{{short_title}}'
+    sortable_fields:
+      - { field: date, default_sort: desc }
+    fields:
+      - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'post' }
+      - { label: 'Content Type', name: 'content_type', widget: 'hidden', default: 'articles' }
+      - { label: 'Breadcrumbs', name: 'breadcrumbs', widget: 'hidden', default: 'articles' }
+      - { label: 'Is newsletter', name: 'is_newsletter', widget: 'hidden', default: false }
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Short Title', name: 'short_title', widget: 'string', pattern: ['^.{0,180}$', 'Must have less than 180 characters'] }
+      - { label: 'Publish Date', name: 'date', widget: 'datetime', time_format: false }
+      - { label: 'Tags', name: 'tags', widget: 'list', required: false, collapsed: false, field: { label: 'Tag', name: 'tag', widget: 'string' } }
+      - { label: 'States', name: 'states', widget: 'relation', collection: 'states', multiple: true, display_fields: [title], search_fields: [title], value_field: 'title', required: false }
+      - { label: 'Sectors', name: 'sectors', widget: 'relation', collection: 'sectors', multiple: true, display_fields: [title], search_fields: [title], value_field: 'title', required: false }
+      - label: 'Sources'
+        label_singular: 'Source'
+        name: 'sources'
+        widget: 'list'
+        fields:
+          - { label: 'Name', name: 'name', widget: 'string' }
+          - { label: 'URL', name: 'url', widget: 'string', pattern: ['^(http|https)://', 'Must start with https:// or http://'] }
+        required: false
+      - label: 'Details'
+        label_singular: 'Detail'
+        name: 'details'
+        widget: 'list'
+        fields:
+          - { label: 'Name', name: 'name', widget: 'string' }
+          - { label: 'URL', name: 'url', widget: 'string', pattern: ['^(http|https)://', 'Must start with https:// or http://'] }
+        required: false
+      - { label: 'Body', name: 'body', widget: 'markdown', required: false }
+
+  - name: 'newsletter_2026'
+    label: 'Newsletter 2026'
+    label_singular: 'Newsletter'
+    folder: '_newsletter/2026/'
+    create: true
+    editor:
+      preview: false
+    indentifier_field: short_title
+    slug: '{{year}}-{{month}}-{{day}}-{{short_title}}'
+    sortable_fields: []
+    fields:
+      - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'post' }
+      - { label: 'Breadcrumbs', name: 'breadcrumbs', widget: 'hidden', default: 'newsletter' }
+      - { label: 'Is newsletter', name: 'is_newsletter', widget: 'hidden', default: true }
+      - { label: 'Content Type', name: 'content_type', widget: 'hidden', default: 'newsletter' }
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Short Title', name: 'short_title', widget: 'string', pattern: ['^.{0,180}$', 'Must have less than 180 characters'] }
+      - { label: 'Publish Date', name: 'date', widget: 'datetime', time_format: false }
+      - { label: 'Tags', name: 'tags', widget: 'list', required: false, collapsed: false, field: { label: 'Tag', name: 'tag', widget: 'string' } }
+      - { label: 'Excerpt', name: 'excerpt', widget: 'text' }
+      - { label: 'States', name: 'states', widget: 'relation', collection: 'states', multiple: true, display_fields: [title], search_fields: [title], value_field: 'title', required: false }
+      - { label: 'Sectors', name: 'sectors', widget: 'relation', collection: 'sectors', multiple: true, display_fields: [title], search_fields: [title], value_field: 'title', required: false }
+      - { label: 'Is Featured?', name: 'is_featured', widget: 'boolean', default: false, required: false }
+      - { label: 'Featured Image', name: 'feature_image', widget: 'image', choose_url: false, required: false }
+      - { label: 'Featured image credit', name: 'feature_image_credit', widget: 'text', required: false }
+      - label: 'Sources'
+        label_singular: 'Source'
+        name: 'sources'
+        widget: 'list'
+        fields:
+          - { label: 'Name', name: 'name', widget: 'string' }
+          - { label: 'URL', name: 'url', widget: 'string', pattern: ['^(http|https)://', 'Must start with https:// or http://'] }
+        required: false
+      - label: 'Details'
+        label_singular: 'Detail'
+        name: 'details'
+        widget: 'list'
+        fields:
+          - { label: 'Name', name: 'name', widget: 'string' }
+          - { label: 'URL', name: 'url', widget: 'string', pattern: ['^(http|https)://', 'Must start with https:// or http://'] }
+        required: false
+      - { label: 'Author', name: 'author', widget: 'relation', collection: 'authors', multiple: true, display_fields: [name], search_fields: [name], value_field: 'name' }
+      - { label: 'PDF', name: 'pdf', widget: 'string', required: false, pattern: ['^(http|https)://', 'Must start with https:// or http://'] }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
+
+  - name: 'newsletter_2025'
+    label: 'Newsletter 2025'
+    label_singular: 'Newsletter'
+    folder: '_newsletter/2025/'
+    create: true
+    editor:
+      preview: false
+    indentifier_field: short_title
+    slug: '{{year}}-{{month}}-{{day}}-{{short_title}}'
+    sortable_fields: []
+    fields:
+      - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'post' }
+      - { label: 'Breadcrumbs', name: 'breadcrumbs', widget: 'hidden', default: 'newsletter' }
+      - { label: 'Is newsletter', name: 'is_newsletter', widget: 'hidden', default: true }
+      - { label: 'Content Type', name: 'content_type', widget: 'hidden', default: 'newsletter' }
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Short Title', name: 'short_title', widget: 'string', pattern: ['^.{0,180}$', 'Must have less than 180 characters'] }
+      - { label: 'Publish Date', name: 'date', widget: 'datetime', time_format: false }
+      - { label: 'Tags', name: 'tags', widget: 'list', required: false, collapsed: false, field: { label: 'Tag', name: 'tag', widget: 'string' } }
+      - { label: 'Excerpt', name: 'excerpt', widget: 'text' }
+      - { label: 'States', name: 'states', widget: 'relation', collection: 'states', multiple: true, display_fields: [title], search_fields: [title], value_field: 'title', required: false }
+      - { label: 'Sectors', name: 'sectors', widget: 'relation', collection: 'sectors', multiple: true, display_fields: [title], search_fields: [title], value_field: 'title', required: false }
+      - { label: 'Is Featured?', name: 'is_featured', widget: 'boolean', default: false, required: false }
+      - { label: 'Featured Image', name: 'feature_image', widget: 'image', choose_url: false, required: false }
+      - { label: 'Featured image credit', name: 'feature_image_credit', widget: 'text', required: false }
+      - label: 'Sources'
+        label_singular: 'Source'
+        name: 'sources'
+        widget: 'list'
+        fields:
+          - { label: 'Name', name: 'name', widget: 'string' }
+          - { label: 'URL', name: 'url', widget: 'string', pattern: ['^(http|https)://', 'Must start with https:// or http://'] }
+        required: false
+      - label: 'Details'
+        label_singular: 'Detail'
+        name: 'details'
+        widget: 'list'
+        fields:
+          - { label: 'Name', name: 'name', widget: 'string' }
+          - { label: 'URL', name: 'url', widget: 'string', pattern: ['^(http|https)://', 'Must start with https:// or http://'] }
+        required: false
+      - { label: 'Author', name: 'author', widget: 'relation', collection: 'authors', multiple: true, display_fields: [name], search_fields: [name], value_field: 'name' }
+      - { label: 'PDF', name: 'pdf', widget: 'string', required: false, pattern: ['^(http|https)://', 'Must start with https:// or http://'] }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
+
+  - name: 'newsletter_2024'
+    label: 'Newsletter 2024'
+    label_singular: 'Newsletter'
+    folder: '_newsletter/2024/'
+    create: true
+    editor:
+      preview: false
+    indentifier_field: short_title
+    slug: '{{year}}-{{month}}-{{day}}-{{short_title}}'
+    sortable_fields: []
+    fields:
+      - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'post' }
+      - { label: 'Breadcrumbs', name: 'breadcrumbs', widget: 'hidden', default: 'newsletter' }
+      - { label: 'Is newsletter', name: 'is_newsletter', widget: 'hidden', default: true }
+      - { label: 'Content Type', name: 'content_type', widget: 'hidden', default: 'newsletter' }
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Short Title', name: 'short_title', widget: 'string', pattern: ['^.{0,180}$', 'Must have less than 180 characters'] }
+      - { label: 'Publish Date', name: 'date', widget: 'datetime', time_format: false }
+      - { label: 'Tags', name: 'tags', widget: 'list', required: false, collapsed: false, field: { label: 'Tag', name: 'tag', widget: 'string' } }
+      - { label: 'Excerpt', name: 'excerpt', widget: 'text' }
+      - { label: 'States', name: 'states', widget: 'relation', collection: 'states', multiple: true, display_fields: [title], search_fields: [title], value_field: 'title', required: false }
+      - { label: 'Sectors', name: 'sectors', widget: 'relation', collection: 'sectors', multiple: true, display_fields: [title], search_fields: [title], value_field: 'title', required: false }
+      - { label: 'Is Featured?', name: 'is_featured', widget: 'boolean', default: false, required: false }
+      - { label: 'Featured Image', name: 'feature_image', widget: 'image', choose_url: false, required: false }
+      - { label: 'Featured image credit', name: 'feature_image_credit', widget: 'text', required: false }
+      - label: 'Sources'
+        label_singular: 'Source'
+        name: 'sources'
+        widget: 'list'
+        fields:
+          - { label: 'Name', name: 'name', widget: 'string' }
+          - { label: 'URL', name: 'url', widget: 'string', pattern: ['^(http|https)://', 'Must start with https:// or http://'] }
+        required: false
+      - label: 'Details'
+        label_singular: 'Detail'
+        name: 'details'
+        widget: 'list'
+        fields:
+          - { label: 'Name', name: 'name', widget: 'string' }
+          - { label: 'URL', name: 'url', widget: 'string', pattern: ['^(http|https)://', 'Must start with https:// or http://'] }
+        required: false
+      - { label: 'Author', name: 'author', widget: 'relation', collection: 'authors', multiple: true, display_fields: [name], search_fields: [name], value_field: 'name' }
+      - { label: 'PDF', name: 'pdf', widget: 'string', required: false, pattern: ['^(http|https)://', 'Must start with https:// or http://'] }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
+
+  - name: 'newsletter_2023'
+    label: 'Newsletter 2023'
+    label_singular: 'Newsletter'
+    folder: '_newsletter/2023/'
+    create: false
+    editor:
+      preview: false
+    indentifier_field: short_title
+    slug: '{{year}}-{{month}}-{{day}}-{{short_title}}'
+    sortable_fields: []
+    fields:
+      - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'post' }
+      - { label: 'Breadcrumbs', name: 'breadcrumbs', widget: 'hidden', default: 'newsletter' }
+      - { label: 'Is newsletter', name: 'is_newsletter', widget: 'hidden', default: true }
+      - { label: 'Content Type', name: 'content_type', widget: 'hidden', default: 'newsletter' }
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Short Title', name: 'short_title', widget: 'string', pattern: ['^.{0,180}$', 'Must have less than 180 characters'] }
+      - { label: 'Publish Date', name: 'date', widget: 'datetime', time_format: false }
+      - { label: 'Tags', name: 'tags', widget: 'list', required: false, collapsed: false, field: { label: 'Tag', name: 'tag', widget: 'string' } }
+      - { label: 'Excerpt', name: 'excerpt', widget: 'text' }
+      - { label: 'States', name: 'states', widget: 'relation', collection: 'states', multiple: true, display_fields: [title], search_fields: [title], value_field: 'title', required: false }
+      - { label: 'Sectors', name: 'sectors', widget: 'relation', collection: 'sectors', multiple: true, display_fields: [title], search_fields: [title], value_field: 'title', required: false }
+      - { label: 'Is Featured?', name: 'is_featured', widget: 'boolean', default: false, required: false }
+      - { label: 'Featured Image', name: 'feature_image', widget: 'image', choose_url: false, required: false }
+      - { label: 'Featured image credit', name: 'feature_image_credit', widget: 'text', required: false }
+      - label: 'Sources'
+        label_singular: 'Source'
+        name: 'sources'
+        widget: 'list'
+        fields:
+          - { label: 'Name', name: 'name', widget: 'string' }
+          - { label: 'URL', name: 'url', widget: 'string', pattern: ['^(http|https)://', 'Must start with https:// or http://'] }
+        required: false
+      - label: 'Details'
+        label_singular: 'Detail'
+        name: 'details'
+        widget: 'list'
+        fields:
+          - { label: 'Name', name: 'name', widget: 'string' }
+          - { label: 'URL', name: 'url', widget: 'string', pattern: ['^(http|https)://', 'Must start with https:// or http://'] }
+        required: false
+      - { label: 'Author', name: 'author', widget: 'relation', collection: 'authors', multiple: true, display_fields: [name], search_fields: [name], value_field: 'name' }
+      - { label: 'PDF', name: 'pdf', widget: 'string', required: false, pattern: ['^(http|https)://', 'Must start with https:// or http://'] }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
 
   - name: 'authors'
     label: 'Authors'

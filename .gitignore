@@ -10,7 +10,7 @@ sftp-config.json
 # .jekyll-metadata
 /.bundle
 /vendor
-# .jekyll-cache
+.jekyll-cache
 _site
 
 # Compiled Files
@@ -44,3 +44,4 @@ bk_newsletter/
 bk_posts/
 _posts.bak
 _data/related_posts.json
+.jekyll-metadata
