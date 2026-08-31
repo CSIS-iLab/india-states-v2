@@ -19,6 +19,9 @@ sectors:
 sources:
   - name: Assam Tribune
     url: https://assamtribune.com/assam/assam-cabinet-clears-new-coaching-rules-mandates-registration-mental-health-care-1615789
+details:
+  - name: Cabinet Decisions
+    url: https://cm.assam.gov.in/cabinet-decisions-details?articleId=956275
 ---
 
 **Assam** approves the **Assam Private Coaching Institutes (Control and Student Mental Health Safeguard) Rules, 2026**. It aims to bring the growing number of coaching centers in the state under a regulatory framework focused on students' mental health, safety, and academic concerns.
