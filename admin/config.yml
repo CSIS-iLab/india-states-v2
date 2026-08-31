@@ -402,6 +402,7 @@ collections:
     label_singular: 'Newsletter'
     folder: '_newsletter/2026/'
     create: true
+    summary: '{{title}}'
     editor:
       preview: false
     indentifier_field: short_title
@@ -523,6 +524,7 @@ collections:
     label_singular: 'Newsletter'
     folder: '_newsletter/2025/'
     create: true
+    summary: '{{title}}'
     editor:
       preview: false
     indentifier_field: short_title
@@ -644,6 +646,7 @@ collections:
     label_singular: 'Newsletter'
     folder: '_newsletter/2024/'
     create: true
+    summary: '{{title}}'
     editor:
       preview: false
     indentifier_field: short_title
@@ -765,6 +768,7 @@ collections:
     label_singular: 'Newsletter'
     folder: '_newsletter/2023/'
     create: false
+    summary: '{{title}}'
     editor:
       preview: false
     indentifier_field: short_title
