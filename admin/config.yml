@@ -33,8 +33,63 @@ collections:
       - { label: 'Short Title', name: 'short_title', widget: 'string', pattern: ['^.{0,180}$', 'Must have less than 180 characters'] }
       - { label: 'Publish Date', name: 'date', widget: 'datetime', time_format: false }
       - { label: 'Tags', name: 'tags', widget: 'list', required: false, collapsed: false, field: { label: 'Tag', name: 'tag', widget: 'string' } }
-      - { label: 'States', name: 'states', widget: 'relation', collection: 'states', multiple: true, display_fields: [title], search_fields: [title], value_field: 'title', required: false }
-      - { label: 'Sectors', name: 'sectors', widget: 'relation', collection: 'sectors', multiple: true, display_fields: [title], search_fields: [title], value_field: 'title', required: false }
+      - label: 'States'
+        name: 'states'
+        widget: 'select'
+        multiple: true
+        required: false
+        options:
+          - Andhra Pradesh
+          - Arunachal Pradesh
+          - Assam
+          - Bihar
+          - Chhattisgarh
+          - Delhi
+          - Goa
+          - Gujarat
+          - Haryana
+          - Himachal Pradesh
+          - Jammu and Kashmir
+          - Jharkhand
+          - Karnataka
+          - Kerala
+          - Madhya Pradesh
+          - Maharashtra
+          - Manipur
+          - Meghalaya
+          - Mizoram
+          - Nagaland
+          - Odisha
+          - Puducherry
+          - Punjab
+          - Rajasthan
+          - Sikkim
+          - Tamil Nadu
+          - Telangana
+          - Tripura
+          - Union Territory of Chandigarh
+          - Union Territory of Daman and Diu
+          - Union Territory of Jammu and Kashmir
+          - Union Territory of Ladakh
+          - Union Territory of Lakshadweep
+          - Union Territory of the Andaman and Nicobar Islands
+          - Uttarakhand
+          - Uttar Pradesh
+          - West Bengal
+      - label: 'Sectors'
+        name: 'sectors'
+        widget: 'select'
+        multiple: true
+        required: false
+        options:
+          - Center-State Relations
+          - Climate Change and Energy
+          - Finance
+          - Health
+          - Industrial Policy and Business Regulations
+          - Infrastructure and Governance
+          - Land & Labor Laws
+          - Water & Sanitation
       - label: 'Sources'
         label_singular: 'Source'
         name: 'sources'
@@ -73,8 +128,63 @@ collections:
       - { label: 'Short Title', name: 'short_title', widget: 'string', pattern: ['^.{0,180}$', 'Must have less than 180 characters'] }
       - { label: 'Publish Date', name: 'date', widget: 'datetime', time_format: false }
       - { label: 'Tags', name: 'tags', widget: 'list', required: false, collapsed: false, field: { label: 'Tag', name: 'tag', widget: 'string' } }
-      - { label: 'States', name: 'states', widget: 'relation', collection: 'states', multiple: true, display_fields: [title], search_fields: [title], value_field: 'title', required: false }
-      - { label: 'Sectors', name: 'sectors', widget: 'relation', collection: 'sectors', multiple: true, display_fields: [title], search_fields: [title], value_field: 'title', required: false }
+      - label: 'States'
+        name: 'states'
+        widget: 'select'
+        multiple: true
+        required: false
+        options:
+          - Andhra Pradesh
+          - Arunachal Pradesh
+          - Assam
+          - Bihar
+          - Chhattisgarh
+          - Delhi
+          - Goa
+          - Gujarat
+          - Haryana
+          - Himachal Pradesh
+          - Jammu and Kashmir
+          - Jharkhand
+          - Karnataka
+          - Kerala
+          - Madhya Pradesh
+          - Maharashtra
+          - Manipur
+          - Meghalaya
+          - Mizoram
+          - Nagaland
+          - Odisha
+          - Puducherry
+          - Punjab
+          - Rajasthan
+          - Sikkim
+          - Tamil Nadu
+          - Telangana
+          - Tripura
+          - Union Territory of Chandigarh
+          - Union Territory of Daman and Diu
+          - Union Territory of Jammu and Kashmir
+          - Union Territory of Ladakh
+          - Union Territory of Lakshadweep
+          - Union Territory of the Andaman and Nicobar Islands
+          - Uttarakhand
+          - Uttar Pradesh
+          - West Bengal
+      - label: 'Sectors'
+        name: 'sectors'
+        widget: 'select'
+        multiple: true
+        required: false
+        options:
+          - Center-State Relations
+          - Climate Change and Energy
+          - Finance
+          - Health
+          - Industrial Policy and Business Regulations
+          - Infrastructure and Governance
+          - Land & Labor Laws
+          - Water & Sanitation
       - label: 'Sources'
         label_singular: 'Source'
         name: 'sources'
@@ -113,8 +223,63 @@ collections:
       - { label: 'Short Title', name: 'short_title', widget: 'string', pattern: ['^.{0,180}$', 'Must have less than 180 characters'] }
       - { label: 'Publish Date', name: 'date', widget: 'datetime', time_format: false }
       - { label: 'Tags', name: 'tags', widget: 'list', required: false, collapsed: false, field: { label: 'Tag', name: 'tag', widget: 'string' } }
-      - { label: 'States', name: 'states', widget: 'relation', collection: 'states', multiple: true, display_fields: [title], search_fields: [title], value_field: 'title', required: false }
-      - { label: 'Sectors', name: 'sectors', widget: 'relation', collection: 'sectors', multiple: true, display_fields: [title], search_fields: [title], value_field: 'title', required: false }
+      - label: 'States'
+        name: 'states'
+        widget: 'select'
+        multiple: true
+        required: false
+        options:
+          - Andhra Pradesh
+          - Arunachal Pradesh
+          - Assam
+          - Bihar
+          - Chhattisgarh
+          - Delhi
+          - Goa
+          - Gujarat
+          - Haryana
+          - Himachal Pradesh
+          - Jammu and Kashmir
+          - Jharkhand
+          - Karnataka
+          - Kerala
+          - Madhya Pradesh
+          - Maharashtra
+          - Manipur
+          - Meghalaya
+          - Mizoram
+          - Nagaland
+          - Odisha
+          - Puducherry
+          - Punjab
+          - Rajasthan
+          - Sikkim
+          - Tamil Nadu
+          - Telangana
+          - Tripura
+          - Union Territory of Chandigarh
+          - Union Territory of Daman and Diu
+          - Union Territory of Jammu and Kashmir
+          - Union Territory of Ladakh
+          - Union Territory of Lakshadweep
+          - Union Territory of the Andaman and Nicobar Islands
+          - Uttarakhand
+          - Uttar Pradesh
+          - West Bengal
+      - label: 'Sectors'
+        name: 'sectors'
+        widget: 'select'
+        multiple: true
+        required: false
+        options:
+          - Center-State Relations
+          - Climate Change and Energy
+          - Finance
+          - Health
+          - Industrial Policy and Business Regulations
+          - Infrastructure and Governance
+          - Land & Labor Laws
+          - Water & Sanitation
       - label: 'Sources'
         label_singular: 'Source'
         name: 'sources'
@@ -153,8 +318,63 @@ collections:
       - { label: 'Short Title', name: 'short_title', widget: 'string', pattern: ['^.{0,180}$', 'Must have less than 180 characters'] }
       - { label: 'Publish Date', name: 'date', widget: 'datetime', time_format: false }
       - { label: 'Tags', name: 'tags', widget: 'list', required: false, collapsed: false, field: { label: 'Tag', name: 'tag', widget: 'string' } }
-      - { label: 'States', name: 'states', widget: 'relation', collection: 'states', multiple: true, display_fields: [title], search_fields: [title], value_field: 'title', required: false }
-      - { label: 'Sectors', name: 'sectors', widget: 'relation', collection: 'sectors', multiple: true, display_fields: [title], search_fields: [title], value_field: 'title', required: false }
+      - label: 'States'
+        name: 'states'
+        widget: 'select'
+        multiple: true
+        required: false
+        options:
+          - Andhra Pradesh
+          - Arunachal Pradesh
+          - Assam
+          - Bihar
+          - Chhattisgarh
+          - Delhi
+          - Goa
+          - Gujarat
+          - Haryana
+          - Himachal Pradesh
+          - Jammu and Kashmir
+          - Jharkhand
+          - Karnataka
+          - Kerala
+          - Madhya Pradesh
+          - Maharashtra
+          - Manipur
+          - Meghalaya
+          - Mizoram
+          - Nagaland
+          - Odisha
+          - Puducherry
+          - Punjab
+          - Rajasthan
+          - Sikkim
+          - Tamil Nadu
+          - Telangana
+          - Tripura
+          - Union Territory of Chandigarh
+          - Union Territory of Daman and Diu
+          - Union Territory of Jammu and Kashmir
+          - Union Territory of Ladakh
+          - Union Territory of Lakshadweep
+          - Union Territory of the Andaman and Nicobar Islands
+          - Uttarakhand
+          - Uttar Pradesh
+          - West Bengal
+      - label: 'Sectors'
+        name: 'sectors'
+        widget: 'select'
+        multiple: true
+        required: false
+        options:
+          - Center-State Relations
+          - Climate Change and Energy
+          - Finance
+          - Health
+          - Industrial Policy and Business Regulations
+          - Infrastructure and Governance
+          - Land & Labor Laws
+          - Water & Sanitation
       - label: 'Sources'
         label_singular: 'Source'
         name: 'sources'
@@ -193,8 +413,63 @@ collections:
       - { label: 'Publish Date', name: 'date', widget: 'datetime', time_format: false }
       - { label: 'Tags', name: 'tags', widget: 'list', required: false, collapsed: false, field: { label: 'Tag', name: 'tag', widget: 'string' } }
       - { label: 'Excerpt', name: 'excerpt', widget: 'text' }
-      - { label: 'States', name: 'states', widget: 'relation', collection: 'states', multiple: true, display_fields: [title], search_fields: [title], value_field: 'title', required: false }
-      - { label: 'Sectors', name: 'sectors', widget: 'relation', collection: 'sectors', multiple: true, display_fields: [title], search_fields: [title], value_field: 'title', required: false }
+      - label: 'States'
+        name: 'states'
+        widget: 'select'
+        multiple: true
+        required: false
+        options:
+          - Andhra Pradesh
+          - Arunachal Pradesh
+          - Assam
+          - Bihar
+          - Chhattisgarh
+          - Delhi
+          - Goa
+          - Gujarat
+          - Haryana
+          - Himachal Pradesh
+          - Jammu and Kashmir
+          - Jharkhand
+          - Karnataka
+          - Kerala
+          - Madhya Pradesh
+          - Maharashtra
+          - Manipur
+          - Meghalaya
+          - Mizoram
+          - Nagaland
+          - Odisha
+          - Puducherry
+          - Punjab
+          - Rajasthan
+          - Sikkim
+          - Tamil Nadu
+          - Telangana
+          - Tripura
+          - Union Territory of Chandigarh
+          - Union Territory of Daman and Diu
+          - Union Territory of Jammu and Kashmir
+          - Union Territory of Ladakh
+          - Union Territory of Lakshadweep
+          - Union Territory of the Andaman and Nicobar Islands
+          - Uttarakhand
+          - Uttar Pradesh
+          - West Bengal
+      - label: 'Sectors'
+        name: 'sectors'
+        widget: 'select'
+        multiple: true
+        required: false
+        options:
+          - Center-State Relations
+          - Climate Change and Energy
+          - Finance
+          - Health
+          - Industrial Policy and Business Regulations
+          - Infrastructure and Governance
+          - Land & Labor Laws
+          - Water & Sanitation
       - { label: 'Is Featured?', name: 'is_featured', widget: 'boolean', default: false, required: false }
       - { label: 'Featured Image', name: 'feature_image', widget: 'image', choose_url: false, required: false }
       - { label: 'Featured image credit', name: 'feature_image_credit', widget: 'text', required: false }
@@ -214,7 +489,28 @@ collections:
           - { label: 'Name', name: 'name', widget: 'string' }
           - { label: 'URL', name: 'url', widget: 'string', pattern: ['^(http|https)://', 'Must start with https:// or http://'] }
         required: false
-      - { label: 'Author', name: 'author', widget: 'relation', collection: 'authors', multiple: true, display_fields: [name], search_fields: [name], value_field: 'name' }
+      - label: 'Author'
+        name: 'author'
+        widget: 'select'
+        multiple: true
+        required: false
+        options:
+          - Afeena Ashfaque
+          - Akshat Singh
+          - Aman Thakker
+          - Aryan D'Rozario
+          - Gaurav Sansanwal
+          - Jane Nakano
+          - Kartikeya Singh
+          - Katherine B. Hadda
+          - Natalie Tecimer
+          - Neelima Jain
+          - Richard M. Rossow
+          - Sarah Ladislaw
+          - Sarah Watson
+          - Sharmila Bellur
+          - Sidhanta Mehra
+          - Yatin Jain
       - { label: 'PDF', name: 'pdf', widget: 'string', required: false, pattern: ['^(http|https)://', 'Must start with https:// or http://'] }
       - { label: 'Body', name: 'body', widget: 'markdown' }
 
@@ -238,8 +534,63 @@ collections:
       - { label: 'Publish Date', name: 'date', widget: 'datetime', time_format: false }
       - { label: 'Tags', name: 'tags', widget: 'list', required: false, collapsed: false, field: { label: 'Tag', name: 'tag', widget: 'string' } }
       - { label: 'Excerpt', name: 'excerpt', widget: 'text' }
-      - { label: 'States', name: 'states', widget: 'relation', collection: 'states', multiple: true, display_fields: [title], search_fields: [title], value_field: 'title', required: false }
-      - { label: 'Sectors', name: 'sectors', widget: 'relation', collection: 'sectors', multiple: true, display_fields: [title], search_fields: [title], value_field: 'title', required: false }
+      - label: 'States'
+        name: 'states'
+        widget: 'select'
+        multiple: true
+        required: false
+        options:
+          - Andhra Pradesh
+          - Arunachal Pradesh
+          - Assam
+          - Bihar
+          - Chhattisgarh
+          - Delhi
+          - Goa
+          - Gujarat
+          - Haryana
+          - Himachal Pradesh
+          - Jammu and Kashmir
+          - Jharkhand
+          - Karnataka
+          - Kerala
+          - Madhya Pradesh
+          - Maharashtra
+          - Manipur
+          - Meghalaya
+          - Mizoram
+          - Nagaland
+          - Odisha
+          - Puducherry
+          - Punjab
+          - Rajasthan
+          - Sikkim
+          - Tamil Nadu
+          - Telangana
+          - Tripura
+          - Union Territory of Chandigarh
+          - Union Territory of Daman and Diu
+          - Union Territory of Jammu and Kashmir
+          - Union Territory of Ladakh
+          - Union Territory of Lakshadweep
+          - Union Territory of the Andaman and Nicobar Islands
+          - Uttarakhand
+          - Uttar Pradesh
+          - West Bengal
+      - label: 'Sectors'
+        name: 'sectors'
+        widget: 'select'
+        multiple: true
+        required: false
+        options:
+          - Center-State Relations
+          - Climate Change and Energy
+          - Finance
+          - Health
+          - Industrial Policy and Business Regulations
+          - Infrastructure and Governance
+          - Land & Labor Laws
+          - Water & Sanitation
       - { label: 'Is Featured?', name: 'is_featured', widget: 'boolean', default: false, required: false }
       - { label: 'Featured Image', name: 'feature_image', widget: 'image', choose_url: false, required: false }
       - { label: 'Featured image credit', name: 'feature_image_credit', widget: 'text', required: false }
@@ -259,7 +610,28 @@ collections:
           - { label: 'Name', name: 'name', widget: 'string' }
           - { label: 'URL', name: 'url', widget: 'string', pattern: ['^(http|https)://', 'Must start with https:// or http://'] }
         required: false
-      - { label: 'Author', name: 'author', widget: 'relation', collection: 'authors', multiple: true, display_fields: [name], search_fields: [name], value_field: 'name' }
+      - label: 'Author'
+        name: 'author'
+        widget: 'select'
+        multiple: true
+        required: false
+        options:
+          - Afeena Ashfaque
+          - Akshat Singh
+          - Aman Thakker
+          - Aryan D'Rozario
+          - Gaurav Sansanwal
+          - Jane Nakano
+          - Kartikeya Singh
+          - Katherine B. Hadda
+          - Natalie Tecimer
+          - Neelima Jain
+          - Richard M. Rossow
+          - Sarah Ladislaw
+          - Sarah Watson
+          - Sharmila Bellur
+          - Sidhanta Mehra
+          - Yatin Jain
       - { label: 'PDF', name: 'pdf', widget: 'string', required: false, pattern: ['^(http|https)://', 'Must start with https:// or http://'] }
       - { label: 'Body', name: 'body', widget: 'markdown' }
 
@@ -283,8 +655,63 @@ collections:
       - { label: 'Publish Date', name: 'date', widget: 'datetime', time_format: false }
       - { label: 'Tags', name: 'tags', widget: 'list', required: false, collapsed: false, field: { label: 'Tag', name: 'tag', widget: 'string' } }
       - { label: 'Excerpt', name: 'excerpt', widget: 'text' }
-      - { label: 'States', name: 'states', widget: 'relation', collection: 'states', multiple: true, display_fields: [title], search_fields: [title], value_field: 'title', required: false }
-      - { label: 'Sectors', name: 'sectors', widget: 'relation', collection: 'sectors', multiple: true, display_fields: [title], search_fields: [title], value_field: 'title', required: false }
+      - label: 'States'
+        name: 'states'
+        widget: 'select'
+        multiple: true
+        required: false
+        options:
+          - Andhra Pradesh
+          - Arunachal Pradesh
+          - Assam
+          - Bihar
+          - Chhattisgarh
+          - Delhi
+          - Goa
+          - Gujarat
+          - Haryana
+          - Himachal Pradesh
+          - Jammu and Kashmir
+          - Jharkhand
+          - Karnataka
+          - Kerala
+          - Madhya Pradesh
+          - Maharashtra
+          - Manipur
+          - Meghalaya
+          - Mizoram
+          - Nagaland
+          - Odisha
+          - Puducherry
+          - Punjab
+          - Rajasthan
+          - Sikkim
+          - Tamil Nadu
+          - Telangana
+          - Tripura
+          - Union Territory of Chandigarh
+          - Union Territory of Daman and Diu
+          - Union Territory of Jammu and Kashmir
+          - Union Territory of Ladakh
+          - Union Territory of Lakshadweep
+          - Union Territory of the Andaman and Nicobar Islands
+          - Uttarakhand
+          - Uttar Pradesh
+          - West Bengal
+      - label: 'Sectors'
+        name: 'sectors'
+        widget: 'select'
+        multiple: true
+        required: false
+        options:
+          - Center-State Relations
+          - Climate Change and Energy
+          - Finance
+          - Health
+          - Industrial Policy and Business Regulations
+          - Infrastructure and Governance
+          - Land & Labor Laws
+          - Water & Sanitation
       - { label: 'Is Featured?', name: 'is_featured', widget: 'boolean', default: false, required: false }
       - { label: 'Featured Image', name: 'feature_image', widget: 'image', choose_url: false, required: false }
       - { label: 'Featured image credit', name: 'feature_image_credit', widget: 'text', required: false }
@@ -304,7 +731,28 @@ collections:
           - { label: 'Name', name: 'name', widget: 'string' }
           - { label: 'URL', name: 'url', widget: 'string', pattern: ['^(http|https)://', 'Must start with https:// or http://'] }
         required: false
-      - { label: 'Author', name: 'author', widget: 'relation', collection: 'authors', multiple: true, display_fields: [name], search_fields: [name], value_field: 'name' }
+      - label: 'Author'
+        name: 'author'
+        widget: 'select'
+        multiple: true
+        required: false
+        options:
+          - Afeena Ashfaque
+          - Akshat Singh
+          - Aman Thakker
+          - Aryan D'Rozario
+          - Gaurav Sansanwal
+          - Jane Nakano
+          - Kartikeya Singh
+          - Katherine B. Hadda
+          - Natalie Tecimer
+          - Neelima Jain
+          - Richard M. Rossow
+          - Sarah Ladislaw
+          - Sarah Watson
+          - Sharmila Bellur
+          - Sidhanta Mehra
+          - Yatin Jain
       - { label: 'PDF', name: 'pdf', widget: 'string', required: false, pattern: ['^(http|https)://', 'Must start with https:// or http://'] }
       - { label: 'Body', name: 'body', widget: 'markdown' }
 
@@ -328,8 +776,63 @@ collections:
       - { label: 'Publish Date', name: 'date', widget: 'datetime', time_format: false }
       - { label: 'Tags', name: 'tags', widget: 'list', required: false, collapsed: false, field: { label: 'Tag', name: 'tag', widget: 'string' } }
       - { label: 'Excerpt', name: 'excerpt', widget: 'text' }
-      - { label: 'States', name: 'states', widget: 'relation', collection: 'states', multiple: true, display_fields: [title], search_fields: [title], value_field: 'title', required: false }
-      - { label: 'Sectors', name: 'sectors', widget: 'relation', collection: 'sectors', multiple: true, display_fields: [title], search_fields: [title], value_field: 'title', required: false }
+      - label: 'States'
+        name: 'states'
+        widget: 'select'
+        multiple: true
+        required: false
+        options:
+          - Andhra Pradesh
+          - Arunachal Pradesh
+          - Assam
+          - Bihar
+          - Chhattisgarh
+          - Delhi
+          - Goa
+          - Gujarat
+          - Haryana
+          - Himachal Pradesh
+          - Jammu and Kashmir
+          - Jharkhand
+          - Karnataka
+          - Kerala
+          - Madhya Pradesh
+          - Maharashtra
+          - Manipur
+          - Meghalaya
+          - Mizoram
+          - Nagaland
+          - Odisha
+          - Puducherry
+          - Punjab
+          - Rajasthan
+          - Sikkim
+          - Tamil Nadu
+          - Telangana
+          - Tripura
+          - Union Territory of Chandigarh
+          - Union Territory of Daman and Diu
+          - Union Territory of Jammu and Kashmir
+          - Union Territory of Ladakh
+          - Union Territory of Lakshadweep
+          - Union Territory of the Andaman and Nicobar Islands
+          - Uttarakhand
+          - Uttar Pradesh
+          - West Bengal
+      - label: 'Sectors'
+        name: 'sectors'
+        widget: 'select'
+        multiple: true
+        required: false
+        options:
+          - Center-State Relations
+          - Climate Change and Energy
+          - Finance
+          - Health
+          - Industrial Policy and Business Regulations
+          - Infrastructure and Governance
+          - Land & Labor Laws
+          - Water & Sanitation
       - { label: 'Is Featured?', name: 'is_featured', widget: 'boolean', default: false, required: false }
       - { label: 'Featured Image', name: 'feature_image', widget: 'image', choose_url: false, required: false }
       - { label: 'Featured image credit', name: 'feature_image_credit', widget: 'text', required: false }
@@ -349,7 +852,28 @@ collections:
           - { label: 'Name', name: 'name', widget: 'string' }
           - { label: 'URL', name: 'url', widget: 'string', pattern: ['^(http|https)://', 'Must start with https:// or http://'] }
         required: false
-      - { label: 'Author', name: 'author', widget: 'relation', collection: 'authors', multiple: true, display_fields: [name], search_fields: [name], value_field: 'name' }
+      - label: 'Author'
+        name: 'author'
+        widget: 'select'
+        multiple: true
+        required: false
+        options:
+          - Afeena Ashfaque
+          - Akshat Singh
+          - Aman Thakker
+          - Aryan D'Rozario
+          - Gaurav Sansanwal
+          - Jane Nakano
+          - Kartikeya Singh
+          - Katherine B. Hadda
+          - Natalie Tecimer
+          - Neelima Jain
+          - Richard M. Rossow
+          - Sarah Ladislaw
+          - Sarah Watson
+          - Sharmila Bellur
+          - Sidhanta Mehra
+          - Yatin Jain
       - { label: 'PDF', name: 'pdf', widget: 'string', required: false, pattern: ['^(http|https)://', 'Must start with https:// or http://'] }
       - { label: 'Body', name: 'body', widget: 'markdown' }
 
