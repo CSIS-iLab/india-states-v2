@@ -17,6 +17,7 @@ collections:
     label: 'Articles 2026'
     label_singular: 'Article'
     folder: '_posts/2026/'
+    summary: '{{title}}'
     create: true
     editor:
       preview: false
@@ -112,6 +113,7 @@ collections:
     label: 'Articles 2025'
     label_singular: 'Article'
     folder: '_posts/2025/'
+    summary: '{{title}}'
     create: true
     editor:
       preview: false
@@ -207,6 +209,7 @@ collections:
     label: 'Articles 2024'
     label_singular: 'Article'
     folder: '_posts/2024/'
+    summary: '{{title}}'
     create: true
     editor:
       preview: false
@@ -302,6 +305,7 @@ collections:
     label: 'Articles 2023'
     label_singular: 'Article'
     folder: '_posts/2023/'
+    summary: '{{title}}'
     create: false
     editor:
       preview: false
