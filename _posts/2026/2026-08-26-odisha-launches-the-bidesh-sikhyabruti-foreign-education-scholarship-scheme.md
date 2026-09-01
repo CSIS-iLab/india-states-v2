@@ -1,29 +1,19 @@
 ---
-layout: post
-content_type: articles
-breadcrumbs: articles
-is_newsletter: false
-title: Odisha launches the 'Bidesh Sikhyabruti' (Foreign Education) Scholarship
-  Scheme. It aims to support Scheduled Caste (SC) and Scheduled Tribe (ST)
-  students seeking higher education at top global universities. Each recipient
-  will receive financial assistance of up to $26,123 (INR 25 lakh) per annum,
-  covering tuition fees, accommodation, living expenses, international travel,
-  medical insurance and other incidental costs.
-short_title: Odisha launches the 'Bidesh Sikhyabruti' (Foreign Education)
-  Scholarship Scheme.
+title: Haryana announces revised compensation structure for sanitation workers.
+  Under the updated framework, sanitation workers currently drawing a total
+  remuneration of $215 (INR 20,590) per month will see an increase to $236 (INR
+  22,590).
+short_title: Haryana announces revised compensation structure for sanitation workers. .
 date: 2026-08-26T00:00:00.000-04:00
 tags:
-  - Infrastructure and Governance
+  - "Water and Sanitation "
 states:
-  - Odisha
+  - Haryana
 sectors:
-  - Infrastructure and Governance
+  - Water & Sanitation
 sources:
-  - url: https://www.telegraphindia.com/edugraph/news/odisha-launches-bidesh-sikhyabruti-scholarship-for-sc-and-st-students-planning-to-study-abroad/cid/2175660
-    name: " The Telegraph"
-details:
-  - name: Guidelines – BideshSikhyabruti
-    url: https://dhe.odisha.gov.in/sites/default/files/2025-12/66528%20dtd%2005.12.2025.pdf
+  - url: https://www.aninews.in/news/national/general-news/haryana-govt-announces-revised-rs-22590-remuneration-for-sanitation-workers20260823214451/
+    name: ANI
 ---
 
-**Odisha** launches the '**Bidesh Sikhyabruti' (Foreign Education) Scholarship Scheme**. It aims to support Scheduled Caste (SC) and Scheduled Tribe (ST) students seeking higher education at top global universities. Each recipient will receive financial assistance of up to \$26,123 (INR 25 lakh) per annum, covering tuition fees, accommodation, living expenses, international travel, medical insurance and other incidental costs.
+**Haryana** announces **revised compensation structure for sanitation workers**. Under the updated framework, sanitation workers currently drawing a total remuneration of \$215 (INR 20,590) per month will see an increase to \$236 (INR 22,590).
