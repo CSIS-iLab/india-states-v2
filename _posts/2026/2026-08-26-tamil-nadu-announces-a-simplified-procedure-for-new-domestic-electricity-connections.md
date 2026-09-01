@@ -1,25 +1,23 @@
 ---
-layout: post
-content_type: articles
-breadcrumbs: articles
-is_newsletter: false
-title: Tamil Nadu announces a simplified procedure for new domestic electricity
-  connections. Single-phase domestic connections not requiring an extension or
-  improvement works will be sanctioned based on "self-declaration," without a
-  field inspection.
-short_title: Tamil Nadu announces a simplified procedure for new domestic
-  electricity connections.
+title: Assam unveils a Hydrocarbon Exploration, Production and Upstream
+  Ecosystem Development Policy, 2026. It aims to boost exploration of oil and
+  natural gas across Assam, particularly in areas where hydrocarbons have not
+  yet been discovered.
+short_title: Assam unveils a Hydrocarbon Exploration, Production and Upstream
+  Ecosystem Development Policy, 2026.
 date: 2026-08-26T00:00:00.000-04:00
 tags:
   - "Climate Change and Energy "
 states:
-  - Tamil Nadu
+  - Assam
 sectors:
   - Climate Change and Energy
 sources:
-  - url: https://www.dtnext.in/news/tamilnadu/tamil-nadu-self-declaration-enough-for-domestic-electricity-connections
-    name: DT Next
-details: []
+  - url: https://northeasttoday.in/uncategorized/new-hydrocarbon-policy-in-assam-aims-to-boost-exploration-and-energy-security-says-hardeep-singh-puri/
+    name: North East Today
+details:
+  - url: https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:eac72a49-ca60-4f52-947e-52e82468130a
+    name: "Notification "
 ---
 
-**Tamil Nadu** announces **a simplified procedure for new domestic electricity connections**. Single-phase domestic connections not requiring an extension or improvement works will be sanctioned based on "self-declaration," without a field inspection.
+**Assam** unveils a **Hydrocarbon Exploration, Production and Upstream Ecosystem Development Policy, 2026**. It aims to boost exploration of oil and natural gas across Assam, particularly in areas where hydrocarbons have not yet been discovered.
