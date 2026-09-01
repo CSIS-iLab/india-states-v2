@@ -1,27 +1,20 @@
 ---
-layout: post
-content_type: articles
-breadcrumbs: articles
-is_newsletter: false
-title: Haryana publishes a Haryana Progressive MSME (Micro, Small and Medium
-  Enterprises) and Export Promotion Policy 2026. The policy aims to attract over
-  $5.75 billion (INR 55,000 crore) in manufacturing investment, create over
-  500,000 new jobs, and double the state's exports by 2031.
-short_title: Haryana publishes a Haryana Progressive MSME (Micro, Small and
-  Medium Enterprises) and Export Promotion Policy 2026.
+title: Odisha amends the Odisha Semiconductor Manufacturing and Fabless Policy.
+  The amendment introduces expanded provisions to support emerging sectors,
+  including semiconductor equipment manufacturing, research and development,
+  semiconductor-grade chemicals, specialty gases, advanced materials, and supply
+  chain components.
+short_title: "Odisha amends the Odisha Semiconductor Manufacturing and Fabless Policy. "
 date: 2026-08-19T00:00:00.000-04:00
 tags:
-  - Industrial Policy and Business Regulations
+  - Industrial Policy and Business Regulation
 states:
-  - Haryana
+  - Odisha
 sectors:
   - Industrial Policy and Business Regulations
 sources:
-  - name: The Tribune
-    url: https://www.tribuneindia.com/news/haryana/new-msme-policy-raises-hopes-for-export-led-industrial-growth/
-details:
-  - name: " Haryana Progressive MSME & Export Promotion Policy 2026"
-    url: https://kipfinancial.com/wp-content/uploads/2026/08/Haryana-Progressive-MSME-Export-Promotion-Policy-2026.pdf
+  - url: https://tathya.in/odisha-amends-semiconductor-policy/
+    name: Tathya
 ---
 
-**Haryana** publishes a **Haryana Progressive MSME (Micro, Small and Medium Enterprises) and Export Promotion Policy 2026.** The policy aims to attract over \$5.75 billion (INR 55,000 crore) in manufacturing investment, create over 500,000 new jobs, and double the state's exports by 2031.
+**Odisha** amends the **Odisha Semiconductor Manufacturing and Fabless Policy**. The amendment introduces expanded provisions to support emerging sectors, including semiconductor equipment manufacturing, research and development, semiconductor-grade chemicals, specialty gases, advanced materials, and supply chain components.
