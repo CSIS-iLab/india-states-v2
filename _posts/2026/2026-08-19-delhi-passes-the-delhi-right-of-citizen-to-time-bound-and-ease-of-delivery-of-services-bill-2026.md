@@ -1,28 +1,22 @@
 ---
-layout: post
-content_type: articles
-breadcrumbs: articles
-is_newsletter: false
-title: Delhi passes the Delhi (Right of Citizen to Time Bound and Ease of
-  Delivery of Services) Bill, 2026. The bill sets mandatory deadlines for the
-  delivery of specific government services, such as issuing certificates,
-  licenses, permits, and approvals.
-short_title: Delhi passes the Delhi (Right of Citizen to Time Bound and Ease of
-  Delivery of Services) Bill, 2026. .
+title: Haryana approves the Haryana Private Coaching Institutes (Registration
+  and Regulation) Rules, 2026, The rules operationalize the Haryana Registration
+  and Regulation of Private Coaching Institutes Act, 2024 which requires
+  coaching centers to register and pay a $104.6 (INR 10,000) fee to obtain a
+  certificate valid for three years.
+short_title: "Haryana approves the Haryana Private Coaching Institutes
+  (Registration and Regulation) Rules, 2026. "
 date: 2026-08-19T00:00:00.000-04:00
-tags:
-  - "Infrastructure and Governance "
 states:
-  - Delhi
+  - Haryana
 sectors:
   - Infrastructure and Governance
 sources:
-  - name: Daily Pioneer
-    url: https://dailypioneer.com/news/slug-lite/delhi-assembly-passes-bill-for-time-bound-service?year=2026
+  - name: Times of India
+    url: https://timesofindia.indiatimes.com/city/chandigarh/haryana-cabinet-approves-rules-to-regulate-coaching-centres/articleshow/133222530.cms
 details:
-  - url: https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:54818b0b-8a99-441c-8594-c95bfdf06c6c
-    name: Delhi (Right of Citizen to Time Bound and Ease of Delivery of Services)
-      Bill, 2026
+  - url: https://www.prharyana.gov.in/en/press-notes-294
+    name: Press Release
 ---
 
-**Delhi** passes the **Delhi (Right of Citizen to Time Bound and Ease of Delivery of Services) Bill, 2026**. The bill sets mandatory deadlines for the delivery of specific government services, such as issuing certificates, licenses, permits, and approvals.
+**Haryana** approves the **Haryana Private Coaching Institutes (Registration and Regulation) Rules, 2026**, The rules operationalize the Haryana Registration and Regulation of Private Coaching Institutes Act, 2024 which requires coaching centers to register and pay a \$104.6 (INR 10,000) fee to obtain a certificate valid for three years.
