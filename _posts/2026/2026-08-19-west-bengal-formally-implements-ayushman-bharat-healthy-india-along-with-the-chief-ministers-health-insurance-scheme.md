@@ -24,4 +24,4 @@ details:
     url: https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:7d81fb96-5500-4ea2-a1e7-03426f7dd966
 ---
 
-**Karnataka** approves the **'Sandhya Kiran' (Evening Ray) Healthcare Scheme**. The scheme is designed for pensioners below the age of 70 and their eligible dependents, and will provide cashless treatment of up to \$5, 230 (INR 5 lakhs) a year.
+**West Bengal** formally implements **'Ayushman Bharat' (Healthy India) along with the Chief Minister's Health Insurance Scheme**. Under the two schemes, beneficiaries will be able to secure cashless treatment for around 1,950 diseases, including knee and hip replacements.
