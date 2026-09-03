@@ -1,23 +1,18 @@
 ---
-layout: post
-content_type: articles
-breadcrumbs: articles
-is_newsletter: false
-title: Odisha clears proposal to introduce the Odisha Development Authorities
-  (Amendment) Bill, 2026. It will amend the existing Odisha Development
-  Authorities Act, 1982 in favor of constituting "Economic Region Development
-  Authorities."
-short_title: Odisha clears proposal to introduce the Odisha Development
-  Authorities (Amendment) Bill, 2026.
+title: Gujarat launches a Marketing Support Scheme. Rural women associated the
+  Gujarat Livelihood Promotion Company Limited (GLPC) will get $2.6 million (INR
+  25 crore) during 2026-27 to connect their products to e-commerce platforms,
+  giving them access to national and international markets.
+short_title: "Gujarat launches a Marketing Support Scheme. "
 date: 2026-08-05T00:00:00.000-04:00
 tags:
-  - Infrastructure and Governance
+  - Any other
 states:
-  - Odisha
+  - Gujarat
 sectors:
-  - Infrastructure and Governance
+  - Center-State Relations
 sources:
-  - url: https://www.hindustantimes.com/india-news/odisha-cabinet-clears-bill-for-economic-region-authorities-101785658175537.html
-    name: Hindustan Times
+  - name: Economic Times
+    url: https://government.economictimes.indiatimes.com/amp/news/policy/gujarat-launches-25-crore-marketing-support-scheme-to-connect-sakhi-mandal-products-to-e-commerce-platforms/132763915
 ---
-**Odisha** clears proposal to introduce the **Odisha Development Authorities (Amendment) Bill, 2026**. It will amend the existing Odisha Development Authorities Act, 1982 in favor of constituting "Economic Region Development Authorities."
+**Gujarat** launches a **Marketing Support Scheme.** Rural women associated the Gujarat Livelihood Promotion Company Limited (GLPC) will get \$2.6 million (INR 25 crore) during 2026-27 to connect their products to e-commerce platforms, giving them access to national and international markets.
