@@ -1,23 +1,21 @@
 ---
-layout: post
-content_type: articles
-breadcrumbs: articles
-is_newsletter: false
-title: Punjab replaces 35 complex revenue terms with easy-to-understand Punjabi
-  words. In simplifying the language used in property registration documents, it
-  aims at making land and property transactions more accessible to the public.
-short_title: "Punjab replaces 35 complex revenue terms with easy-to-understand
-  Punjabi words. "
+title: Bihar approves Draft Gram Panchayat Taxes, Rates, and Fees Rules, 2026.
+  The decision formally authorizes Gram Panchayats (rural governing bodies) to
+  impose and collect holding taxes and various other fees in rural areas.
+short_title: Bihar approves Draft Gram Panchayat Taxes, Rates, and Fees Rules, 2026.
 date: 2026-07-22T00:00:00.000-04:00
 tags:
-  - Land Acquisition and Labor Regulations
+  - Infrastructure and Governance
 states:
-  - Punjab
+  - Bihar
 sectors:
-  - Land & Labor Laws
+  - Infrastructure and Governance
 sources:
-  - name: Economic Times
-    url: https://economictimes.indiatimes.com/news/india/punjab-simplifies-property-registration-language-replaces-35-complex-revenue-terms/articleshow/132493935.cms
+  - url: https://indianexpress.com/article/india/bihar-village-holding-tax-rural-property-samrat-choudhary-government-10790096/
+    name: Indian Express
+details:
+  - url: https://state.bihar.gov.in/cache/1/Smart%20City/Cabinet%20Decisions/Cabinet%20Press15.pdf
+    name: Cabinet decisions
 ---
 
-**Punjab** replaces **35 complex revenue terms** **with easy-to-understand Punjabi words**. In simplifying the language used in property registration documents, it aims at making land and property transactions more accessible to the public.
+**Bihar** approves **Draft** **Gram Panchayat Taxes, Rates, and Fees Rules, 2026.** The decision formally authorizes Gram Panchayats (rural governing bodies) to impose and collect holding taxes and various other fees in rural areas.
