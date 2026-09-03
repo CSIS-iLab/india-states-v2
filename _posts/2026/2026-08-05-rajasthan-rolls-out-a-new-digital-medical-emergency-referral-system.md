@@ -1,22 +1,20 @@
 ---
-layout: post
-content_type: articles
-breadcrumbs: articles
-is_newsletter: false
-title: Rajasthan rolls out a new digital medical emergency referral system.
-  Patients referred to tertiary hospitals will have their medical history reach
-  the control room online before they arrive at the hospital, allowing a team of
-  medical experts to review the reports prior to admission.
-short_title: Rajasthan rolls out a new digital medical emergency referral system.
-date: 2026-08-05T00:00:00.000-04:00
+title: West Bengal introduces the 'Mukhya Mantri Swasthya Bima Yojana' (Chief
+  Minister's Health Insurance Scheme). It gives eligible families cashless
+  hospitalization cover of up to $5,240 (INR 5 lakh) a year, available on a
+  family-floater basis for secondary and tertiary hospital treatment.
+short_title: "West Bengal introduces the 'Mukhya Mantri Swasthya Bima Yojana'
+  (Chief Minister's Health Insurance Scheme). "
+date: 2026-08-12T00:00:00.000-04:00
 tags:
   - Health
 states:
-  - Rajasthan
+  - West Bengal
 sectors:
   - Health
 sources:
-  - url: https://www.thehindu.com/news/national/rajasthan/digital-medical-emergency-referral-system-set-to-transform-patient-care-in-rajasthan/article71295052.ece/amp/
-    name: The Hindu
+  - name: Outlook
+    url: https://www.outlookmoney.com/personal-finance/west-bengal-rolls-out-rs-5-lakh-health-cover-outside-ayushman-bharat
 ---
-**Rajasthan** rolls out a **new digital medical emergency referral system**. Patients referred to tertiary hospitals will have their medical history reach the control room online before they arrive at the hospital, allowing a team of medical experts to review the reports prior to admission.
+
+**West Bengal** introduces the '**Mukhya Mantri Swasthya Bima Yojana'** (Chief Minister's Health Insurance Scheme). It gives eligible families cashless hospitalization cover of up to \$5,240 (INR 5 lakh) a year, available on a family-floater basis for secondary and tertiary hospital treatment.
