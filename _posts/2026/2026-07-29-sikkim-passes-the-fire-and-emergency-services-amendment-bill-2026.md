@@ -1,24 +1,21 @@
 ---
-layout: post
-content_type: articles
-breadcrumbs: articles
-is_newsletter: false
-title: Sikkim passes the Fire and Emergency Services (Amendment) Bill, 2026. The
-  Bill seeks to decriminalize minor regulatory offences, simplify compliance
-  requirements, and facilitate ease of doing business.
-short_title: "Sikkim passes the Fire and Emergency Services (Amendment) Bill, 2026. "
+title: Sikkim adopts a Government Resolution to implement the Water (Prevention
+  and Control of Pollution) Amendment Act, 2024. The implementation aims to
+  relax minor offences and facilitate ease of doing business.
+short_title: Sikkim adopts a Government Resolution to implement the Water
+  (Prevention and Control of Pollution) Amendment Act, 2024.
 date: 2026-07-29T00:00:00.000-04:00
 tags:
-  - "Infrastructure and Governance "
+  - "Water and Sanitation "
 states:
   - Sikkim
 sectors:
-  - Infrastructure and Governance
+  - Water & Sanitation
 sources:
   - name: North East Today
     url: https://northeasttoday.in/uncategorized/sikkim-assembly-passes-three-bills-clears-resolution-to-adopt-water-pollution-amendment-act/
 details:
   - url: https://ipr.sikkim.gov.in/Home/News?slug=general-budget-session-of-the-sikkim-legislative-assembly-commences-in-the-capital
-    name: " Press Release"
+    name: Press Release
 ---
-**Sikkim** passes the **Fire and Emergency Services (Amendment) Bill, 2026.** The Bill seeks to decriminalize minor regulatory offences, simplify compliance requirements, and facilitate ease of doing business.
+**Sikkim** adopts a Government Resolution to implement the **Water (Prevention and Control of Pollution) Amendment Act, 2024.** The implementation aims to relax minor offences and facilitate ease of doing business.
