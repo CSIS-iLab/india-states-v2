@@ -1,26 +1,22 @@
 ---
-layout: post
-content_type: articles
-breadcrumbs: articles
-is_newsletter: false
-title: Punjab approves the Punjab Regulation of Fee of Unaided Educational
-  Institutions (Amendment) Bill, 2026. The bill seeks to regulate unnecessary
-  and unreasonable fee increases by private unaided educational institutions.
-short_title: "Punjab approves the Punjab Regulation of Fee of Unaided
-  Educational Institutions (Amendment) Bill, 2026. "
+title: West Bengal announces a 38 percent increase in Dearness Allowance (DA)
+  and Dearness Relief (DR) for state government employees and pensioners, with
+  effect from October 1, 2026.
+short_title: West Bengal announces a 38 percent increase in Dearness Allowance
+  (DA) and Dearness Relief (DR) for state government employees and pensioners,
+  with effect from October 1, 2026.
 date: 2026-08-12T00:00:00.000-04:00
 tags:
-  - Infrastructure and Governance
+  - "Infrastructure and Governance "
 states:
-  - Punjab
+  - West Bengal
 sectors:
   - Infrastructure and Governance
 sources:
-  - name: Hindustan Times
-    url: https://www.hindustantimes.com/cities/chandigarh-news/punjab-cabinet-clears-fee-regulation-bill-approves-3-digital-open-varsities-101785954112899.html#google_vignette
+  - name: Mint
+    url: https://www.livemint.com/money/personal-finance/da-hike-dr-west-bengal-govt-notifies-38-pc-dearness-allowance-wages-increase-employees-pensioners-daily-worker-1-october-11786094501968.html
 details:
-  - url: https://prsindia.org/files/bills_acts/bills_states/punjab/2026/Ord2of2026PB.pdf
-    name: " Punjab Regulation of Fee of Un-aided Educational Institutions
-      (Amendment) Ordinance, 2026"
+  - name: " Press Release"
+    url: https://ddindia.co.in/2026/08/west-bengal-govt-notifies-enhanced-da-payment-from-oct-1/
 ---
-**Punjab** approves the **Punjab Regulation of Fee of Unaided Educational Institutions (Amendment) Bill, 2026.** The bill seeks to regulate unnecessary and unreasonable fee increases by private unaided educational institutions.
+**West Bengal** announces a **38 percent increase in Dearness Allowance (DA) and Dearness Relief (DR) for state government employees and pensioners, with effect from October 1, 2026.**
