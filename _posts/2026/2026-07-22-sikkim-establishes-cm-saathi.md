@@ -1,23 +1,19 @@
 ---
-layout: post
-content_type: articles
-breadcrumbs: articles
-is_newsletter: false
-title: Sikkim establishes CM-SAATHI. The scheme aims to provide free,
-  high-quality coaching and academic support to students preparing for
-  national-level entrance examinations such as JEE and NEET.
-short_title: "Sikkim establishes CM-SAATHI. "
+title: West Bengal announces mandatory use of Bengali for all government work
+  from September 1 onwards. Hindi will be retained for correspondence with the
+  Union government.
+short_title: "West Bengal announces mandatory use of Bengali for all government
+  work from September 1 onwards. "
 date: 2026-07-22T00:00:00.000-04:00
 tags:
   - Infrastructure and Governance
 states:
-  - Sikkim
+  - West Bengal
 sectors:
   - Infrastructure and Governance
 sources:
-  - url: https://www.indiatodayne.in/sikkim/story/sikkim-launches-cm-saathi-to-provide-free-jee-neet-coaching-to-over-2000-students-1425969-2026-07-17
-    name: India Today
-details: []
+  - url: https://economictimes.indiatimes.com/news/politics-and-nation/west-bengal-to-make-bengali-mandatory-for-all-government-work-from-sept-1/articleshow/132507886.cms
+    name: Economic Times
 ---
 
-**Sikkim** establishes **CM-SAATHI.** The scheme aims to provide free, high-quality coaching and academic support to students preparing for national-level entrance examinations such as JEE and NEET.
+**West Bengal** announces **mandatory use of Bengali for all government work from September 1** **onwards**. Hindi will be retained for correspondence with the Union government.
