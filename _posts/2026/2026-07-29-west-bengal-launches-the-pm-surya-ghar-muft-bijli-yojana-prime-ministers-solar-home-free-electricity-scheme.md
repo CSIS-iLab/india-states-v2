@@ -1,24 +1,24 @@
 ---
-layout: post
-content_type: articles
-breadcrumbs: articles
-is_newsletter: false
-title: West Bengal launches the 'PM Surya Ghar Muft Bijli Yojana' (Prime
-  Minister's Solar Home Free Electricity Scheme). The scheme aims to cover
-  500,000 households with rooftop solar installations by March 2027.
-short_title: West Bengal launches the 'PM Surya Ghar Muft Bijli Yojana' (Prime
-  Minister's Solar Home Free Electricity Scheme).
+title: Goa implements JERC Electricity Supply Code (Third Amendment)
+  Regulations, 2024. The regulations, issued by the Joint Electricity Regulatory
+  Commission, mandate smart pre-payment for all new electricity connections,
+  prescribes timelines for new connections, and provides for a penalty of up to
+  $5.18 (INR 500) per day for delays by distribution licenses.
+short_title: Goa implements JERC Electricity Supply Code (Third Amendment)
+  Regulations, 2024.
 date: 2026-07-29T00:00:00.000-04:00
 tags:
   - Climate Change and Energy
 states:
-  - West Bengal
+  - Goa
 sectors:
   - Climate Change and Energy
 sources:
-  - name: Economic Times
-    url: https://energy.economictimes.indiatimes.com/news/renewable/bengal-launches-pm-surya-ghar-scheme-sets-target-of-5-lakh-rooftop-solar-homes-by-2027/132560764
-details: []
+  - url: https://digitalgoa.com/smart-meter-framework-notified-as-goa-adopts-amended-jerc-power-code/
+    name: Digital Goa
+details:
+  - name: JERC Electricity Supply Code (Third Amendment) Regulations, 2024
+    url: https://jercuts.gov.in/wp-content/uploads/2025/11/JERC-Electricity-Supply-Code-Third-Amendment-Regulations-2024.pdf
 ---
 
-**West Bengal** launches the **'PM Surya Ghar Muft Bijli Yojana' (Prime Minister's Solar Home Free Electricity Scheme).** The scheme aims to cover 500,000 households with rooftop solar installations by March 2027.
+**Goa** implements **JERC Electricity Supply Code (Third Amendment) Regulations, 2024.** The regulations, issued by the Joint Electricity Regulatory Commission, mandate smart pre-payment for all new electricity connections, prescribes timelines for new connections, and provides for a penalty of up to \$5.18 (INR 500) per day for delays by distribution licenses.
