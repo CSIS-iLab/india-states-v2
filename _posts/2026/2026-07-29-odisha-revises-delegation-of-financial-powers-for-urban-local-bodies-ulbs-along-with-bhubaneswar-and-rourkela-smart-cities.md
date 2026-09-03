@@ -1,25 +1,20 @@
 ---
-layout: post
-content_type: articles
-breadcrumbs: articles
-is_newsletter: false
-title: Odisha revises delegation of financial powers for Urban Local Bodies
-  (ULBs) along with Bhubaneswar and Rourkela Smart Cities. The financial powers
-  of the managing directors of Bhubaneswar Smart City Limited (BSCL) and
-  Rourkela Smart City Limited (RSCL) have been brought at par with those of
-  commissioners of municipal corporations.
-short_title: "Odisha revises delegation of financial powers for Urban Local
-  Bodies (ULBs) along with Bhubaneswar and Rourkela Smart Cities. "
+title: Sikkim passes Private Universities (Establishment and Regulation)
+  (Amendment) Bill, 2026 and the Board of Open Schooling and Skill Education,
+  Sikkim (Amendment) Bill, 2026. The former amends the 2025 parent law on
+  private universities and the latter aims at strengthening regulatory oversight
+  and aligning the state with the National Education Policy.
+short_title: "Sikkim passes Private Universities (Establishment and Regulation)
+  (Amendment) Bill, 2026 and the Board of Open Schooling and Skill Education,
+  Sikkim (Amendment) Bill, 2026. "
 date: 2026-07-29T00:00:00.000-04:00
-tags:
-  - "Infrastructure and Governance "
 states:
-  - Odisha
+  - Sikkim
 sectors:
   - Infrastructure and Governance
 sources:
-  - url: https://theprint.in/india/odisha-govt-enhances-financial-powers-of-urban-local-bodies/2994388/
-    name: The Print
+  - url: https://northeasttoday.in/uncategorized/sikkim-assembly-passes-three-bills-clears-resolution-to-adopt-water-pollution-amendment-act/
+    name: North East Today
 ---
 
-**Odisha** revises delegation of **financial powers for Urban Local Bodies (ULBs) along with Bhubaneswar and Rourkela Smart Cities**. The financial powers of the managing directors of Bhubaneswar Smart City Limited (BSCL) and Rourkela Smart City Limited (RSCL) have been brought at par with those of commissioners of municipal corporations.
+**Sikkim** passes **Private Universities (Establishment and Regulation) (Amendment) Bill, 2026 and the Board of Open Schooling and Skill Education, Sikkim (Amendment) Bill, 2026.** The former amends the 2025 parent law on private universities and the latter aims at strengthening regulatory oversight and aligning the state with the National Education Policy.
