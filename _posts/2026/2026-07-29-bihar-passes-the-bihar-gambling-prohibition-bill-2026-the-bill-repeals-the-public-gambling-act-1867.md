@@ -1,21 +1,16 @@
 ---
-layout: post
-content_type: articles
-breadcrumbs: articles
-is_newsletter: false
-title: Bihar passes the Bihar Gambling (Prohibition) Bill, 2026. The bill
-  repeals the Public Gambling Act, 1867. It prohibits all forms of gambling in
-  the state including online and mobile app-based gambling.
-short_title: "Bihar passes the Bihar Gambling (Prohibition) Bill, 2026. The bill
-  repeals the Public Gambling Act, 1867. "
+title: Madhya Pradesh passes a Uniform Civil Code 2026 Bill. It becomes the 4th
+  state after Uttarakhand, Gujarat and Assam to pass a Uniform Civil Code.
+short_title: Madhya Pradesh passes a Uniform Civil Code 2026 Bill.
 date: 2026-07-29T00:00:00.000-04:00
 tags:
-  - "Infrastructure and Governance "
+  - Infrastructure and Governance
 states:
-  - Bihar
+  - Madhya Pradesh
 sectors:
   - Infrastructure and Governance
 sources:
-  - url: https://theprint.in/india/bihar-assembly-passes-bill-prohibiting-all-forms-of-gambling/2992549/
-    name: " The Print"
+  - url: https://www.etvbharat.com/en/bharat/madhya-pradesh-becomes-fourth-state-to-pass-uniform-civil-code-bill-enn26072105093
+    name: " ETV"
 ---
+**Madhya Pradesh** passes a **Uniform Civil Code 2026 Bill.** It becomes the 4th state after Uttarakhand, Gujarat and Assam to pass a Uniform Civil Code.
