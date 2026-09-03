@@ -1,24 +1,25 @@
 ---
-layout: post
-content_type: articles
-breadcrumbs: articles
-is_newsletter: false
-title: Goa announces policy to allow citizens to register property-related
-  documents at any Sub-Registrar Office. The "Anywhere Registration within the
-  District" policy aims to enhance access and reduce wait times for property
-  registration.
-short_title: "Goa announces policy to allow citizens to register
-  property-related documents at any Sub-Registrar Office. "
+title: Andhra Pradesh approves a draft Public Private Partnership (PPP Policy)
+  2026. The policy aims at attracting private investment in sectors such as
+  transport, ports, airports, healthcare, education and renewable energy. The
+  policy provides for $180 million (INR 1,500 crore) under the Viability Gap
+  Funding (VGF) Scheme and a "Bridge Fund" to support projects with long-term
+  revenue potential.
+short_title: "Andhra Pradesh approves a draft Public Private Partnership (PPP
+  Policy) 2026. "
 date: 2026-08-12T00:00:00.000-04:00
 tags:
-  - "Land Acquisition and Labor Regulation "
+  - "Infrastructure and Governance "
 states:
-  - Goa
+  - Andhra Pradesh
+sectors:
+  - Infrastructure and Governance
 sources:
-  - name: Economic Times
-    url: https://realty.economictimes.indiatimes.com/news/residential/goa-government-allows-citizens-to-register-property-document-at-any-sub-registrar-office-in-district/133045759
+  - url: https://theprint.in/india/andhra-cabinet-approves-ppp-policy-withdraws-disha-bill-clears-key-amaravati-projects/3007677/
+    name: "The Print "
 details:
-  - name: Notification
-    url: https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:246181ba-143f-4787-8b19-b93a6397df75
+  - url: https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:c48465f6-8ace-489d-a5b3-c36e49e92376
+    name: Public Private Partnership (PPP Policy) 2026
 ---
-**Goa** announces policy to **allow citizens to register property-related documents at any Sub-Registrar Office**. The "Anywhere Registration within the District" policy aims to enhance access and reduce wait times for property registration.
+
+**Andhra Pradesh** approves a draft **Public Private Partnership (PPP Policy) 2026.** The policy aims at attracting private investment in sectors such as transport, ports, airports, healthcare, education and renewable energy. The policy provides for \$180 million (INR 1,500 crore) under the Viability Gap Funding (VGF) Scheme and a "Bridge Fund" to support projects with long-term revenue potential.
