@@ -18,6 +18,9 @@ sectors:
 sources:
   - url: https://vyqon.in/cserc-approves-6-23-average-power-tariff-hike-in-chhattisgarh-for-fy-2026-27/
     name: Vyqon
+details:
+  - url: https://cserc.gov.in/upload/upload_news/15-06-2026_17815346191.pdf
+    name: CSERC Tariff Order for Financial Year 2026-27
 ---
 
 **Chhattisgarh** releases the **CSERC Tariff Order for Financial Year 2026-27**. The order, issued by the Chhattisgarh State Electricity Regulatory Commission (CSERC), approves an average electricity tariff increase of 6.23 percent across all consumer categories, effective July 1, 2026.
