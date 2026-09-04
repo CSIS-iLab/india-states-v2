@@ -1,29 +1,21 @@
 ---
-layout: post
-content_type: articles
-breadcrumbs: articles
-is_newsletter: false
-title: Delhi issues Draft DERC (Terms and Conditions for Green Energy Open
-  Access) (First Amendment) Regulations, 2026. The regulations, issued by the
-  Delhi Electricity Regulatory Commission (DERC), aim to make Green Energy Open
-  Access more accessible to a larger number of electricity consumers, based on
-  the sanctioned load or contracted demand of the consumer.
-short_title: "Delhi issues Draft DERC (Terms and Conditions for Green Energy
-  Open Access) (First Amendment) Regulations, 2026. "
+title: Assam announces plans to list the Assam Electricity Grid Corporation
+  Limited (AEGCL) and Assam Power Generation Corporation Limited (AGCL) on the
+  Stock Exchange. The decision aims to enable these corporations to access
+  capital markets and raise resources.
+short_title: "Assam announces plans to list the Assam Electricity Grid
+  Corporation Limited (AEGCL) and Assam Power Generation Corporation Limited
+  (AGCL) on the Stock Exchange. "
 date: 2026-06-24T00:00:00.000-04:00
 tags:
   - "Climate Change and Energy "
 states:
-  - Delhi
+  - Assam
 sectors:
   - Climate Change and Energy
 sources:
-  - name: Solar Quarter
-    url: https://solarquarter.com/2026/06/18/derc-proposes-green-energy-open-access-expansion-by-removing-11-kv-eligibility-barrier-in-delhi/
-details:
-  - url: https://www.derc.gov.in/sites/default/files/First%20Amendment%20GEOA.pdf
-    name: " DERC (Terms and Conditions for Green Energy Open Access) (First
-      Amendment) Regulations, 2026"
+  - url: https://www.indiatodayne.in/assam/story/assam-targets-energy-surplus-status-cm-unveils-major-power-sector-reforms-1409366-2026-06-16
+    name: " India Today"
 ---
 
-**Delhi** issues **Draft DERC (Terms and Conditions for Green Energy Open Access) (First Amendment) Regulations, 2026**. The regulations, issued by the Delhi Electricity Regulatory Commission (DERC), aim to make Green Energy Open Access more accessible to a larger number of electricity consumers, based on the sanctioned load or contracted demand of the consumer.
+**Assam** announces plans to list the **Assam Electricity Grid Corporation Limited (AEGCL) and Assam Power Generation Corporation Limited (AGCL) on the Stock Exchange.** The decision aims to enable these corporations to access capital markets and raise resources.
